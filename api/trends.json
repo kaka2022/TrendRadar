@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T02:02:10.370100+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-05-31T03:23:18.217355+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
           "url": "https://wallstreetcn.com/articles/3773482",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
@@ -48,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时23分]"
         },
         {
           "title": "美国人形机器人被曝已投入俄乌战场 军事专家：基本不能打仗",
@@ -59,30 +60,54 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时23分]"
+        },
+        {
+          "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
+          "url": "https://flash.jin10.com/detail/20260531031045565800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
           "url": "https://wallstreetcn.com/articles/3773496",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时23分]"
+        },
+        {
+          "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
+          "url": "https://flash.jin10.com/detail/20260531024909031800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "美军人形机器人已实战部署",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E5%AE%9E%E6%88%98%E9%83%A8%E7%BD%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -92,8 +117,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "用AI整理会议记录导致泄密",
@@ -101,11 +126,12 @@
           "source": "微博",
           "ranks": [
             29,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -115,8 +141,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
@@ -152,11 +178,23 @@
           "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0%E7%9B%B4%E6%92%AD&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时23分]"
+        },
+        {
+          "title": "B站商城擦边产品遭质疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354696&amp;topic_name=B%E7%AB%99%E5%95%86%E5%9F%8E%E6%93%A6%E8%BE%B9%E4%BA%A7%E5%93%81%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "B站毕业歌会全程回顾",
@@ -165,17 +203,6 @@
           "ranks": [
             10,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时02分]"
-        },
-        {
-          "title": "B站商城擦边产品遭质疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354696&amp;topic_name=B%E7%AB%99%E5%95%86%E5%9F%8E%E6%93%A6%E8%BE%B9%E4%BA%A7%E5%93%81%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -204,11 +231,12 @@
           "url": "https://www.zhihu.com/question/2040472846393161206",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时23分]"
         }
       ]
     },
@@ -224,8 +252,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时23分]"
         }
       ]
     }
