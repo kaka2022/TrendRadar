@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T10:49:26.694933+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-05-31T14:54:43.786646+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 14时54分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
@@ -35,11 +35,12 @@
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 14时54分]"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
@@ -49,11 +50,25 @@
             7,
             6,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 14时54分]"
+        },
+        {
+          "title": "美军人形机器人已实战部署",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E5%AE%9E%E6%88%98%E9%83%A8%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 14时54分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -67,18 +82,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时54分 ~ 07时57分]"
-        },
-        {
-          "title": "美军人形机器人已实战部署",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E5%AE%9E%E6%88%98%E9%83%A8%E7%BD%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时49分]"
         },
         {
           "title": "用AI整理会议记录导致泄密",
@@ -101,11 +104,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 14时54分]"
         },
         {
           "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
@@ -144,11 +148,25 @@
             2,
             5,
             6,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时48分 ~ 10时49分]"
+          "appearance_count": 6,
+          "time_info": "[04时48分 ~ 14时54分]"
+        },
+        {
+          "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
+          "url": "https://wallstreetcn.com/articles/3773499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 14时54分]"
         },
         {
           "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
@@ -193,16 +211,37 @@
           "time_info": "[02时01分 ~ 07时57分]"
         },
         {
-          "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
-          "url": "https://wallstreetcn.com/articles/3773499",
+          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
+          "url": "https://wallstreetcn.com/articles/3773513",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "国家数据局局长刘烈宏：高质量数据集是人工智能发展的核心基础",
+          "url": "https://flash.jin10.com/detail/20260531133605275800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "北京推动“人工智能+文旅”发展，长城等将试点应用具身智能设备",
+          "url": "https://wallstreetcn.com/livenews/3111877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
@@ -223,7 +262,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -234,7 +273,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -242,7 +281,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "B站商城擦边产品遭质疑",
@@ -250,11 +289,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 14时54分]"
         },
         {
           "title": "欧冠直播",
@@ -300,22 +340,35 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33211911",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时54分]"
         },
         {
           "title": "2026互联网优质内容创作盛典在沪举行：共享“SHARE”创作密码，推出互联网优创赋能计划",
           "url": "https://m.thepaper.cn/newsDetail_forward_33270895",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时54分]"
+        },
+        {
+          "title": "张凌赫直播",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9B%B4%E6%92%AD&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时54分"
         },
         {
           "title": "时代峰峻公关文案",
@@ -324,7 +377,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -377,11 +430,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BB%B7%E5%AE%A0%E7%89%A9%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E8%B4%B5",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时54分]"
         }
       ]
     }
