@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T01:23:54.459101+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-02T05:24:32.825928+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "豆包预计6月下旬正式收费",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "豆包将正式付费",
@@ -37,19 +37,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "豆包免费部分",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%85%8D%E8%B4%B9%E9%83%A8%E5%88%86&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -59,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
@@ -70,8 +71,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
@@ -81,8 +82,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
+          "url": "https://flash.jin10.com/detail/20260602050120532800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "05时24分"
         },
         {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
@@ -92,8 +104,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
@@ -103,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "AI坑健身小白买20kg哑铃",
@@ -114,8 +126,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
+          "url": "https://flash.jin10.com/detail/20260602044358873800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "05时24分"
         },
         {
           "title": "Apollo首席经济学家称AI热潮将浇灭美联储新任主席沃什快速降息的希望",
@@ -127,6 +150,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
+          "url": "https://www.zhihu.com/question/2044719064757397392",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：Luma AI正在筹建一个机器人实验室，将允许任何人利用其软件来训练机器人。",
+          "url": "https://flash.jin10.com/detail/20260602040856545800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美联储：比起AI，远程办公对年轻毕业生求职影响更大",
@@ -150,44 +195,93 @@
           "url": "https://www.douyin.com/hot/2519633",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "阿根廷国家队入驻B站",
           "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%85%A5%E9%A9%BBB%E7%AB%99",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "葡萄牙国家队入驻B站",
           "url": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%85%A5%E9%A9%BBB%E7%AB%99",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "爷童回 杨红樱来B站了",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%BA%A2%E6%A8%B1",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)美股盘后跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260602044727050800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "05时24分"
+        },
+        {
+          "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
+          "url": "https://wallstreetcn.com/livenews/3112644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
+          "url": "https://wallstreetcn.com/livenews/3112620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
@@ -200,11 +294,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33279622",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 05时24分]"
         }
       ]
     }
