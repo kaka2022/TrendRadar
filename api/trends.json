@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T17:46:53.927336+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-06-04T20:40:52.213548+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 06时26分]"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            13,
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时44分 ~ 20时40分]"
         },
         {
           "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
@@ -31,6 +45,43 @@
           "time_info": "[13时52分 ~ 17时46分]"
         },
         {
+          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
+          "url": "https://www.cls.cn/detail/2390517",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 20时40分]"
+        },
+        {
+          "title": "AI需求猛如虎！台积电CEO：数年内都无法满足芯片需求",
+          "url": "https://www.cls.cn/detail/2390489",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 20时40分]"
+        },
+        {
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 20时40分]"
+        },
+        {
           "title": "达里奥警告：AI热潮已显现典型泡沫特征 最终难逃破裂命运",
           "url": "https://www.cls.cn/detail/2390108",
           "source": "财联社热门",
@@ -40,41 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时27分 ~ 13时52分]"
-        },
-        {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时44分 ~ 17时46分]"
-        },
-        {
-          "title": "2030年AI耗水量够13亿人用一年",
-          "url": "https://s.weibo.com/weibo?q=%232030%E5%B9%B4AI%E8%80%97%E6%B0%B4%E9%87%8F%E5%A4%9F13%E4%BA%BF%E4%BA%BA%E7%94%A8%E4%B8%80%E5%B9%B4%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
-          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
-          "url": "https://www.cls.cn/detail/2390517",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
         },
         {
           "title": "鸿海宣布与英特尔达成战略合作，将与英特尔共同开发AI平台。",
@@ -101,17 +117,6 @@
           "time_info": "[03时44分 ~ 13时52分]"
         },
         {
-          "title": "AI需求猛如虎！台积电CEO：数年内都无法满足芯片需求",
-          "url": "https://www.cls.cn/detail/2390489",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
           "title": "白嫖结束!豆包AI开始收费",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
           "source": "贴吧",
@@ -124,16 +129,16 @@
           "time_info": "[03时44分 ~ 13时52分]"
         },
         {
-          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "title": "网友称豆包误导老人断指泡生理盐水致终生残疾，这种情况下豆包要担责吗？手指受伤正确处理方法应该是怎样？",
+          "url": "https://www.zhihu.com/question/2045517452222493616",
           "source": "知乎",
           "ranks": [
             6,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时52分 ~ 17时46分]"
+          "time_info": "[17时46分 ~ 20时40分]"
         },
         {
           "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
@@ -158,6 +163,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 08时27分]"
+        },
+        {
+          "title": "2030年AI耗水量够13亿人用一年",
+          "url": "https://s.weibo.com/weibo?q=%232030%E5%B9%B4AI%E8%80%97%E6%B0%B4%E9%87%8F%E5%A4%9F13%E4%BA%BF%E4%BA%BA%E7%94%A8%E4%B8%80%E5%B9%B4%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 20时40分]"
         },
         {
           "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
@@ -197,6 +214,17 @@
           "time_info": "[13时52分 ~ 17时46分]"
         },
         {
+          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773812",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 20时40分]"
+        },
+        {
           "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
           "url": "https://wallstreetcn.com/articles/3773784",
           "source": "华尔街见闻",
@@ -232,15 +260,15 @@
           "time_info": "[03时44分 ~ 06时26分]"
         },
         {
-          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773812",
+          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
+          "url": "https://wallstreetcn.com/articles/3773802",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时52分 ~ 17时46分]"
+          "time_info": "[17时46分 ~ 20时40分]"
         },
         {
           "title": "猎鹰崛起AI先导片",
@@ -266,26 +294,15 @@
           "time_info": "06时26分"
         },
         {
-          "title": "网友称豆包误导老人断指泡生理盐水致终生残疾，这种情况下豆包要担责吗？手指受伤正确处理方法应该是怎样？",
-          "url": "https://www.zhihu.com/question/2045517452222493616",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
-          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
-          "url": "https://wallstreetcn.com/articles/3773802",
-          "source": "华尔街见闻",
+          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
+          "url": "https://www.cls.cn/detail/2390870",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时46分"
+          "time_info": "20时40分"
         },
         {
           "title": "博通首席执行官：第二季度非人工智能半导体收入增长6%。",
@@ -319,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "男子AI写歌月收入十几万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "AI需求引爆“芯片通胀” 摩根士丹利：冲击正蔓延至整个经济",
@@ -360,7 +388,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -415,7 +443,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -440,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "标普全球推出由智能代理式人工智能驱动的信贷备忘录生成工具。",
+          "url": "https://flash.jin10.com/detail/20260604200702000800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "周四亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.6%，道指期货涨0.1%。 科技股中，博通目前（美股盘后）跌12.9%，甲骨文跌4.7%，IBM跌3.8%，AMD跌2.6%，闪迪跌2.5%，美光跌2.4%，高通跌1.9%，苹果涨1.2%，C3.ai涨2.3%。",
@@ -470,6 +509,31 @@
           "time_info": "[03时44分 ~ 08时27分]"
         },
         {
+          "title": "马上评｜摆拍蹭热岂能成“流量密码”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33303752",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 20时40分]"
+        },
+        {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 20时40分]"
+        },
+        {
           "title": "NBA球队B站粉丝排名",
           "url": "https://search.bilibili.com/all?keyword=NBA%E7%90%83%E9%98%9FB%E7%AB%99%E7%B2%89%E4%B8%9D%E6%8E%92%E5%90%8D",
           "source": "bilibili 热搜",
@@ -483,36 +547,13 @@
           "time_info": "[03时44分 ~ 08时27分]"
         },
         {
-          "title": "马上评｜摆拍蹭热岂能成“流量密码”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33303752",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 17时46分]"
-        },
-        {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
           "title": "凯尔特人入驻B站",
           "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%E5%85%A5%E9%A9%BBB%E7%AB%99",
           "source": "bilibili 热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -534,7 +575,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -553,7 +594,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -564,8 +605,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 20时40分]"
         },
         {
           "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
@@ -607,9 +648,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "谷歌计划投放3200万只蚊子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
@@ -669,7 +721,7 @@
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新规落地,杭州白天禁遛狗",
@@ -678,11 +730,23 @@
           "ranks": [
             4,
             10,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时44分 ~ 17时46分]"
+          "appearance_count": 7,
+          "time_info": "[03时44分 ~ 20时40分]"
+        },
+        {
+          "title": "被骂“以色列走狗”，鲁比奥笑着竖起大拇指",
+          "url": "https://v.ifeng.com/c/8tgeuW8BLEY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "柴犬等主人下班时遭男子持弩射击带走，德阳警方：已抓获嫌疑人",
@@ -702,11 +766,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A7%A5%E5%A7%A5%E7%9C%81%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E4%B8%BA%E7%8B%9724%E5%B0%8F%E6%97%B6%E5%BC%80%E7%A9%BA%E8%B0%83",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 20时40分]"
         }
       ]
     },
