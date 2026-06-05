@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-05T07:04:27.240518+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-06-05T10:43:03.625052+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 29,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "不到一万即可入手，人形机器人价格大跌",
+          "url": "https://www.cls.cn/detail/2391108",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 10时43分]"
+        },
         {
           "title": "网友称豆包误导老人断指泡生理盐水致终生残疾，这种情况下豆包要担责吗？手指受伤正确处理方法应该是怎样？",
           "url": "https://www.zhihu.com/question/2045517452222493616",
@@ -21,16 +33,26 @@
           "time_info": "[00时19分 ~ 07时04分]"
         },
         {
-          "title": "不到一万即可入手，人形机器人价格大跌",
-          "url": "https://www.cls.cn/detail/2391108",
-          "source": "财联社热门",
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 07时04分]"
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
         },
         {
           "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
@@ -46,15 +68,91 @@
           "time_info": "[00时19分 ~ 07时04分]"
         },
         {
+          "title": "人形机器人集体降价",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            8,
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 10时43分]"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 10时43分]"
+        },
+        {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "腾讯高管：今年腾讯大部分代码都由AI生成",
+          "url": "https://flash.jin10.com/detail/20260605103725002800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "聪明钱提前布局AI上游环节，部分基础材料成新宠",
           "url": "https://wallstreetcn.com/livenews/3114667",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "豆包发布声明，称日常功能保持免费，将针对专业人群需求推出专业版，如何评价这一商业策略？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2045590595519735634",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时16分 ~ 10时43分]"
+        },
+        {
+          "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33308605",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时16分 ~ 10时43分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
@@ -75,22 +173,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
         {
-          "title": "人形机器人集体降价",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7",
-          "source": "百度热搜",
+          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
+          "url": "https://wallstreetcn.com/articles/3773858",
+          "source": "华尔街见闻",
           "ranks": [
-            25,
-            8,
-            30
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时19分 ~ 07时04分]"
+          "time_info": "[05时26分 ~ 10时43分]"
         },
         {
           "title": "男子AI写歌月收入十几万",
@@ -99,18 +196,6 @@
           "ranks": [
             13,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 07时04分]"
-        },
-        {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -178,37 +263,12 @@
           "time_info": "[00时19分 ~ 05时27分]"
         },
         {
-          "title": "豆包发布声明，称日常功能保持免费，将针对专业人群需求推出专业版，如何评价这一商业策略？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2045590595519735634",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 07时04分]"
-        },
-        {
           "title": "好怕现实中也有人长AI这样",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 07时04分]"
-        },
-        {
-          "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33308605",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -228,16 +288,16 @@
           "time_info": "[03时16分 ~ 07时04分]"
         },
         {
-          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
-          "url": "https://wallstreetcn.com/articles/3773858",
-          "source": "华尔街见闻",
+          "title": "猎鹰崛起AI先导片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            7
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 07时04分]"
+          "appearance_count": 4,
+          "time_info": "[05时26分 ~ 10时43分]"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -251,15 +311,37 @@
           "time_info": "[00时19分 ~ 03时16分]"
         },
         {
-          "title": "猎鹰崛起AI先导片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
           "ranks": [
-            30
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时26分 ~ 05时27分]"
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
+          "url": "https://www.cls.cn/detail/2391250",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "不要相信豆包识别的野生蘑菇",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E7%9B%B8%E4%BF%A1%E8%B1%86%E5%8C%85%E8%AF%86%E5%88%AB%E7%9A%84%E9%87%8E%E7%94%9F%E8%98%91%E8%8F%87&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：数据还没体现出AI带来的生产力增长。 看好AI，2027年将是“试金石”。 并没有发现AI投资相关的金融稳定性顾虑。",
@@ -317,6 +399,39 @@
           "time_info": "00时19分"
         },
         {
+          "title": "韩国劳动部长：过剩的人工智能利润需要再投资于供应商，以提升行业竞争力，解决经济增长乏力问题。",
+          "url": "https://flash.jin10.com/detail/20260605102631841800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "韩国劳动部长：担忧前所未有的人工智能利润加剧韩国的不平等现象。",
+          "url": "https://flash.jin10.com/detail/20260605102626009800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "韩国劳动部长：三星及其他公司应考虑分享因人工智能繁荣而获得的“超额利润”。",
+          "url": "https://flash.jin10.com/detail/20260605102614660800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "加拿大总理卡尼发布AI战略：将为AI初创公司提供资金并购入其股权",
           "url": "https://wallstreetcn.com/livenews/3114519",
           "source": "华尔街见闻-快讯",
@@ -337,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "华为云发布AICS灵衢智算集群等Agentic AI新品",
+          "url": "https://flash.jin10.com/detail/20260605102013298800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "巴克莱调查：固定收益投资者中使用AI最多的是对冲基金",
@@ -374,7 +500,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -435,17 +561,18 @@
           "source": "贴吧",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 10时43分]"
         }
       ]
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马上评｜摆拍蹭热岂能成“流量密码”",
@@ -458,6 +585,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 07时04分]"
+        },
+        {
+          "title": "未成年女孩遭直播公司“围猎”",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E5%AD%A9%E9%81%AD%E7%9B%B4%E6%92%AD%E5%85%AC%E5%8F%B8%E2%80%9C%E5%9B%B4%E7%8C%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
         }
       ]
     }
