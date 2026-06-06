@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T06:01:56.363669+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-06-07T07:09:55.499405+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
           "url": "https://wallstreetcn.com/articles/3774007",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "豆包认错蘑菇,高管:仅供参考",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
@@ -51,8 +52,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 07时09分]"
         },
         {
           "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
@@ -65,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "高考新增AI监考员",
@@ -76,11 +77,12 @@
             8,
             26,
             29,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -90,8 +92,22 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
+        },
+        {
+          "title": "全球首款全尺寸超仿生人形机器人来了",
+          "url": "https://www.toutiao.com/trending/7647117592154882091/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            19,
+            24,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -131,19 +147,6 @@
           "time_info": "[01时04分 ~ 03时09分]"
         },
         {
-          "title": "全球首款全尺寸超仿生人形机器人来了",
-          "url": "https://www.toutiao.com/trending/7647117592154882091/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时57分]"
-        },
-        {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
           "url": "https://flash.jin10.com/detail/20260607002708297800",
           "source": "金十数据",
@@ -153,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "北大UP主手搓AI猫娘",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%8C%AB%E5%A8%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         },
         {
           "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
@@ -180,8 +194,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "以为是爱狗人士结果是爱心人士",
@@ -193,8 +207,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 07时09分]"
         },
         {
           "title": "狗狗濒死奔向主人见最后一面",
@@ -246,8 +260,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "全抖音为2026高考加油",
@@ -256,11 +270,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "统战部官方账号入驻抖音",
@@ -273,8 +288,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "哈兰德入驻抖音",
@@ -285,8 +300,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "大东彦百万粉直播",
@@ -310,22 +325,24 @@
           "url": "https://wallstreetcn.com/articles/3774025",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时09分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
           "url": "https://wallstreetcn.com/articles/3774016",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时09分]"
         }
       ]
     },
@@ -340,9 +357,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时09分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -353,8 +370,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         }
       ]
     }
