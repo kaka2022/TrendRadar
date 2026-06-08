@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T13:25:59.863021+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-06-08T18:23:19.737364+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 20,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -57,17 +57,6 @@
           "time_info": "[00时10分 ~ 05时04分]"
         },
         {
-          "title": "追妹不开口,豆包化身代聊侠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354960&amp;topic_name=%E8%BF%BD%E5%A6%B9%E4%B8%8D%E5%BC%80%E5%8F%A3%2C%E8%B1%86%E5%8C%85%E5%8C%96%E8%BA%AB%E4%BB%A3%E8%81%8A%E4%BE%A0",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
           "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
           "url": "https://www.zhihu.com/question/1969653840065332479",
           "source": "知乎",
@@ -77,8 +66,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时58分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[06时58分 ~ 18时23分]"
+        },
+        {
+          "title": "北京高考英语作文：帮李华写信谈AI",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%EF%BC%9A%E5%B8%AE%E6%9D%8E%E5%8D%8E%E5%86%99%E4%BF%A1%E8%B0%88AI",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "字节Seed相关人士回应顾全全离职传闻：并非AI制药及预训练负责人",
@@ -87,9 +87,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
+          "url": "https://www.cls.cn/detail/2393263",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 18时23分]"
+        },
+        {
+          "title": "追妹不开口,豆包化身代聊侠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354960&amp;topic_name=%E8%BF%BD%E5%A6%B9%E4%B8%8D%E5%BC%80%E5%8F%A3%2C%E8%B1%86%E5%8C%85%E5%8C%96%E8%BA%AB%E4%BB%A3%E8%81%8A%E4%BE%A0",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 18时23分]"
         },
         {
           "title": "AI如何写全国I卷高考作文",
@@ -104,15 +128,93 @@
           "time_info": "[00时10分 ~ 08时06分]"
         },
         {
-          "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
-          "url": "https://www.cls.cn/detail/2393263",
+          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 18时23分]"
+        },
+        {
+          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
+          "url": "https://wallstreetcn.com/articles/3774087",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "SpaceX“世纪IPO”估值再引质疑！专家：实际低得多 AI业务离盈利还很远",
+          "url": "https://www.cls.cn/detail/2393282",
           "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "【国家数据局：到2028年底 建成一批覆盖重点领域、经过应用验证的行业高质量数据集】国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，其中提到，到2028年底，建成一批覆盖重点领域、经过应用验证的行业高质量数据集，打造一批数据驱动人工智能创新发展的典型应用场景，培育一批具备领先优势的创新型数据企业和专业人才，形成一批行业高质量数据集建设工具和标准。数据从供给到价值释放的良性循环基本形成，数据赋能人工智能创新发展的作用更加凸显，数据产业与人工智能深度融合，持续催生智能经济新增长点。",
+          "url": "https://wallstreetcn.com/livenews/3116064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "Doinb用豆包玩英雄联盟",
+          "url": "https://s.weibo.com/weibo?q=%23Doinb%E7%94%A8%E8%B1%86%E5%8C%85%E7%8E%A9%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
+          "url": "https://www.zhihu.com/question/2047267736485631665",
+          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "18时23分"
+        },
+        {
+          "title": "【事关数据赋能人工智能发展 国家层面首次系统部署】今天，国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，这是国家层面首次对数据赋能人工智能发展作出的系统性部署。《实施方案》围绕行业高质量数据集供给、流通、应用等关键环节，部署六大专项行动，提出面向人工智能应用需求，持续推进文本、图像、音视频等多模态高质量数据集建设；聚焦智能体、具身智能和世界模型等重点方向，要求加快推进数据集建设；引导具备条件的地区因地制宜开展数据标注创新试验区建设。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3116058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2393646",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "让AI做高考数学题",
@@ -121,7 +223,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -132,7 +234,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -148,15 +250,15 @@
           "time_info": "00时10分"
         },
         {
-          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
+          "title": "黄仁勋访韩第三日：首尔网吧会晤游戏巨头负责人，聚焦实体AI合作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329627",
           "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "18时23分"
         },
         {
           "title": "Doosan与英伟达将在AI工厂领域展开合作，其将与英伟达全面扩大在能源、电子材料及机器人业务领域的合作。（韩国News1）",
@@ -192,13 +294,24 @@
           "time_info": "08时06分"
         },
         {
+          "title": "事关数据赋能人工智能发展 国家层面首次系统部署",
+          "url": "https://flash.jin10.com/detail/20260608175446418800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "听障UP主用AI让声音被听见",
           "url": "https://search.bilibili.com/all?keyword=%E5%90%AC%E9%9A%9CUP%E4%B8%BB%E7%94%A8AI%E8%AE%A9%E5%A3%B0%E9%9F%B3%E8%A2%AB%E5%90%AC%E8%A7%81",
           "source": "bilibili 热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -212,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "软通动力与腾讯云签署AI战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3116031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "AI炒完芯片后，下一轮被抢的会是谁？",
@@ -239,7 +363,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "直播丨刚出炉！2026高考作文难不难？名校教授在线破译高分密码",
@@ -304,6 +428,84 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "公牛入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E7%89%9B%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "霍思燕携爱犬在意大利夺冠",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%8D%E6%80%9D%E7%87%95%E6%90%BA%E7%88%B1%E7%8A%AC%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%BA%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "狗子回家高烧三天",
+          "url": "https://s.weibo.com/weibo?q=%E7%8B%97%E5%AD%90%E5%9B%9E%E5%AE%B6%E9%AB%98%E7%83%A7%E4%B8%89%E5%A4%A9&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "霍思燕爱犬在意大利夺冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E6%80%9D%E7%87%95%E7%88%B1%E7%8A%AC%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%BA%E5%86%A0%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "DeepSeek完成首轮外部融资",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E9%A6%96%E8%BD%AE%E5%A4%96%E9%83%A8%E8%9E%8D%E8%B5%84&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
@@ -340,51 +542,6 @@
       ]
     },
     {
-      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "狗子回家高烧三天",
-          "url": "https://s.weibo.com/weibo?q=%E7%8B%97%E5%AD%90%E5%9B%9E%E5%AE%B6%E9%AB%98%E7%83%A7%E4%B8%89%E5%A4%A9&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "霍思燕爱犬在意大利夺冠",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E6%80%9D%E7%87%95%E7%88%B1%E7%8A%AC%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%BA%E5%86%A0%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
-          "url": "https://www.cls.cn/detail/2392919",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -412,11 +569,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 13时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 18时23分]"
         }
       ]
     }
