@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T05:16:03.981435+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-06-12T07:17:30.706524+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,12 @@
           "url": "https://www.cls.cn/detail/2397553",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时16分]"
-        },
-        {
-          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
-          "url": "https://www.cls.cn/detail/2397230",
-          "source": "财联社热门",
-          "ranks": [
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时17分]"
         },
         {
           "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
@@ -38,8 +28,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时17分]"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
+          "url": "https://www.cls.cn/detail/2397230",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时17分]"
         },
         {
           "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
@@ -50,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时17分]"
         },
         {
           "title": "抖音AI创作大赛来了",
@@ -59,11 +61,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时17分]"
         },
         {
           "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
@@ -71,11 +74,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时17分]"
         },
         {
           "title": "超模女球迷爆火后出镜 自证不是AI",
@@ -85,8 +89,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时17分]"
         },
         {
           "title": "华尔街激辩“Token经济学”：AI账单失控了吗？",
@@ -96,30 +100,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时17分]"
         },
         {
           "title": "UP主做了个AI谢苗",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时17分]"
         },
         {
           "title": "AI短片效果看到起鸡皮疙瘩了",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 07时17分]"
         },
         {
           "title": "美国证交会文件显示：Alphabet(GOOG.O)股东关于水资源使用和人工智能报告的提案未在年度股东大会上获得批准。",
@@ -128,7 +134,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -144,11 +150,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时17分]"
         },
         {
           "title": "EVAN李羲承来B站啦",
@@ -159,8 +166,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时17分]"
         }
       ]
     },
@@ -177,8 +184,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时17分]"
         }
       ]
     },
