@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-13T01:38:19.602645+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-13T03:59:00.591851+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
           "url": "https://www.douyin.com/hot/2532139",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时59分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时59分]"
         },
         {
           "title": "神豆包锐评C罗是短板",
@@ -37,8 +38,30 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时59分]"
+        },
+        {
+          "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
+          "url": "https://flash.jin10.com/detail/20260613025928526800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时38分"
+          "time_info": "03时59分"
+        },
+        {
+          "title": "据知情人士称，SpaceX(SPCX.O)在利用孟菲斯的Colossus 1数据中心开发和运行Grok人工智能模型时遇到技术挑战后，决定将该数据中心的全部容量出租给Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260613023941326800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "作家自曝用AI写作",
@@ -65,19 +88,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时59分]"
         },
         {
           "title": "张碧晨歌手直播开大了",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%E5%BC%80%E5%A4%A7%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时59分]"
         }
       ]
     },
