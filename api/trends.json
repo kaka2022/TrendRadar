@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T19:39:20.005392+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-06-12T22:41:14.781695+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
@@ -33,6 +33,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时09分 ~ 15时18分]"
+        },
+        {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 22时41分]"
+        },
+        {
+          "title": "神豆包锐评C罗是短板",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355099&amp;topic_name=%E7%A5%9E%E8%B1%86%E5%8C%85%E9%94%90%E8%AF%84C%E7%BD%97%E6%98%AF%E7%9F%AD%E6%9D%BF",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 22时41分]"
         },
         {
           "title": "人形机器人初创公司众擎机器人据悉以保密方式提交香港IPO申请。（彭博）",
@@ -63,7 +89,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -79,18 +105,6 @@
           "time_info": "10时49分"
         },
         {
-          "title": "猛男舞团翻跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 19时39分]"
-        },
-        {
           "title": "华为推出HarmonyOS 7，鸿蒙智能向Agent架构全面演进",
           "url": "https://wallstreetcn.com/livenews/3118653",
           "source": "华尔街见闻-快讯",
@@ -102,16 +116,16 @@
           "time_info": "15时18分"
         },
         {
-          "title": "神豆包锐评C罗是短板",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355099&amp;topic_name=%E7%A5%9E%E8%B1%86%E5%8C%85%E9%94%90%E8%AF%84C%E7%BD%97%E6%98%AF%E7%9F%AD%E6%9D%BF",
-          "source": "贴吧",
+          "title": "抖音AI创作大赛首个爆款出现",
+          "url": "https://www.douyin.com/hot/2532139",
+          "source": "抖音",
           "ranks": [
-            5,
-            10
+            19,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时17分 ~ 19时39分]"
+          "time_info": "[19时39分 ~ 22时41分]"
         },
         {
           "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
@@ -223,6 +237,29 @@
           "time_info": "[05时15分 ~ 07时17分]"
         },
         {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时41分]"
+        },
+        {
+          "title": "LKs AI和真人推歌大PK",
+          "url": "https://search.bilibili.com/all?keyword=LKs%20AI%E5%92%8C%E7%9C%9F%E4%BA%BA%E6%8E%A8%E6%AD%8C%E5%A4%A7PK",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时41分]"
+        },
+        {
           "title": "AI正在杀死音乐吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E9%9F%B3%E4%B9%90%E5%90%97",
           "source": "bilibili 热搜",
@@ -245,13 +282,24 @@
           "time_info": "[15时17分 ~ 15时18分]"
         },
         {
+          "title": "华为AI眼镜与小艺看世界联动",
+          "url": "https://www.toutiao.com/trending/7649393782219112511/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 22时41分]"
+        },
+        {
           "title": "权威机构：SpaceX世纪IPO引爆“散户套现热”，热门AI股成“ATM机”！",
           "url": "https://www.cls.cn/detail/2398028",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -262,7 +310,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -273,7 +321,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -300,35 +348,13 @@
           "time_info": "15时18分"
         },
         {
-          "title": "抖音AI创作大赛首个爆款出现",
-          "url": "https://www.douyin.com/hot/2532139",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
           "title": "余承东谈盘古大模型",
           "url": "https://www.toutiao.com/trending/7649680189663772714/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "全抖音都在DaiDai",
-          "url": "https://www.douyin.com/hot/2531421",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -342,17 +368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
-        },
-        {
-          "title": "LKs AI和真人推歌大PK",
-          "url": "https://search.bilibili.com/all?keyword=LKs%20AI%E5%92%8C%E7%9C%9F%E4%BA%BA%E6%8E%A8%E6%AD%8C%E5%A4%A7PK",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "今年前5个月我国区域外贸持续向好 人工智能等产品同比增长超五成",
@@ -380,8 +395,20 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "B站暂停广告占半屏被吐槽",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355113&amp;topic_name=B%E7%AB%99%E6%9A%82%E5%81%9C%E5%B9%BF%E5%91%8A%E5%8D%A0%E5%8D%8A%E5%B1%8F%E8%A2%AB%E5%90%90%E6%A7%BD",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时41分]"
+        },
         {
           "title": "淘宝、京东、拼多多、抖音、小红书 5 家电商平台被约谈，具有哪些警示意义？还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2048363384991477880",
@@ -396,24 +423,13 @@
           "time_info": "[02时09分 ~ 07时17分]"
         },
         {
-          "title": "B站暂停广告占半屏被吐槽",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355113&amp;topic_name=B%E7%AB%99%E6%9A%82%E5%81%9C%E5%B9%BF%E5%91%8A%E5%8D%A0%E5%8D%8A%E5%B1%8F%E8%A2%AB%E5%90%90%E6%A7%BD",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
           "title": "《新闻联播》正在直播",
           "url": "https://www.toutiao.com/trending/7650461320831225395/",
           "source": "今日头条",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -424,7 +440,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -441,6 +457,29 @@
           "time_info": "[02时09分 ~ 07时17分]"
         },
         {
+          "title": "哈兰德抖音粉丝数超曼城",
+          "url": "https://www.douyin.com/hot/2532056",
+          "source": "抖音",
+          "ranks": [
+            28,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时41分]"
+        },
+        {
+          "title": "张碧晨歌手直播发红包",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%E5%8F%91%E7%BA%A2%E5%8C%85&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 22时41分]"
+        },
+        {
           "title": "夏奇拉抖音分享开幕式表演",
           "url": "https://www.douyin.com/hot/2531634",
           "source": "抖音",
@@ -450,6 +489,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "歌手直播",
+          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 22时41分]"
         },
         {
           "title": "新疆小羊哥发抖音感谢网友关注",
@@ -469,7 +519,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -480,7 +530,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -491,18 +541,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "哈兰德抖音粉丝数超曼城",
-          "url": "https://www.douyin.com/hot/2532056",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
@@ -597,11 +636,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 19时39分]"
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 22时41分]"
         }
       ]
     }
