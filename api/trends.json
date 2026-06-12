@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T10:49:28.013945+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-06-12T15:18:02.617268+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
         {
           "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
@@ -21,15 +21,51 @@
           "time_info": "[02时09分 ~ 10时49分]"
         },
         {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            10,
+            20,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时09分 ~ 15时18分]"
+        },
+        {
+          "title": "神豆包锐评C罗是短板",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355099&amp;topic_name=%E7%A5%9E%E8%B1%86%E5%8C%85%E9%94%90%E8%AF%84C%E7%BD%97%E6%98%AF%E7%9F%AD%E6%9D%BF",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
           "title": "人形机器人初创公司众擎机器人据悉以保密方式提交香港IPO申请。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3118541",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "AI辅助一次能筛查70多种疾病",
+          "url": "https://wallstreetcn.com/livenews/3118656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "港股大模型概念股走弱，MINIMAX跌近8%，创1月底以来新低。智谱转跌，盘初一度涨超13%。",
@@ -38,22 +74,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
         {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
+          "title": "华为推出HarmonyOS 7，鸿蒙智能向Agent架构全面演进",
+          "url": "https://wallstreetcn.com/livenews/3118653",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            20,
-            18
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 10时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
@@ -141,6 +175,18 @@
           "time_info": "[02时09分 ~ 10时49分]"
         },
         {
+          "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
+          "url": "https://www.cls.cn/detail/2397705",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 15时18分]"
+        },
+        {
           "title": "UP主做了个AI谢苗",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
           "source": "bilibili 热搜",
@@ -153,15 +199,37 @@
           "time_info": "[05时15分 ~ 07时17分]"
         },
         {
-          "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
-          "url": "https://www.cls.cn/detail/2397705",
+          "title": "AI正在杀死音乐吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E9%9F%B3%E4%B9%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
+          "url": "https://www.cls.cn/detail/2397804",
           "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "美国证交会文件显示：Alphabet(GOOG.O)股东关于水资源使用和人工智能报告的提案未在年度股东大会上获得批准。",
@@ -175,15 +243,37 @@
           "time_info": "05时16分"
         },
         {
+          "title": "AI辅助一次能筛查70多种疾病",
+          "url": "https://flash.jin10.com/detail/20260612145529031800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "广州：全力推进智能网联与新能源汽车、人工智能、半导体及集成电路、低空经济等重大项目的落地",
           "url": "https://flash.jin10.com/detail/20260612095700182800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "今年前5个月我国区域外贸持续向好 人工智能等产品同比增长超五成",
+          "url": "https://wallstreetcn.com/livenews/3118623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "AI奇谈 绿茵恩仇录笑傲球湖",
@@ -192,7 +282,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -200,7 +290,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -211,8 +301,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 10时49分]"
+          "appearance_count": 7,
+          "time_info": "[02时09分 ~ 15时18分]"
+        },
+        {
+          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
+          "url": "https://www.cls.cn/detail/2397742",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
@@ -221,7 +322,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -232,7 +333,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -240,7 +341,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "淘宝、京东、拼多多、抖音、小红书 5 家电商平台被约谈，具有哪些警示意义？还有哪些信息值得关注？",
@@ -266,13 +367,46 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时09分 ~ 07时17分]"
+        },
+        {
+          "title": "夏奇拉抖音分享开幕式表演",
+          "url": "https://www.douyin.com/hot/2531634",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "新疆小羊哥发抖音感谢网友关注",
+          "url": "https://www.douyin.com/hot/2531642",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         }
       ]
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "第一次见丑得像人的狗",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E4%B8%91%E5%BE%97%E5%83%8F%E4%BA%BA%E7%9A%84%E7%8B%97&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.22%，暂报2238.79点，北京时间01:00-12:00走出一波V形反转行情——06:18刷新日低至2159.74点，12:00以来大致持平。 MarketVectorTM数字资产100中盘指数涨0.50%，报2554.94点。 MarketVector数字资产100指数涨0.42%，报12343.45点。 目前，Solana涨2.78%，狗狗币涨1.62%，XRP涨0.71%。 比特币涨1.09%，暂报62524.99美元；以太坊涨0.62%，暂报1637.85美元。",
           "url": "https://wallstreetcn.com/livenews/3118326",
@@ -283,6 +417,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         }
       ]
     }
