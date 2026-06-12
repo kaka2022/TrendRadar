@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T05:44:14.833751+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-06-13T07:11:00.472037+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 07时11分]"
         },
         {
           "title": "神豆包锐评C罗是短板",
@@ -39,19 +39,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 07时11分]"
         },
         {
           "title": "抖音AI反网暴行动来了",
           "url": "https://www.douyin.com/hot/2531858",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 05时44分]"
+          "appearance_count": 4,
+          "time_info": "[05时43分 ~ 07时11分]"
         },
         {
           "title": "用AI打开七时吉祥原著",
@@ -123,8 +124,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 07时11分]"
         },
         {
           "title": "张碧晨歌手直播开大了",
@@ -136,8 +137,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 07时11分]"
         }
       ]
     },
