@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-14T08:04:59.613854+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-06-14T13:26:35.491778+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
           "url": "https://www.cls.cn/detail/2398996",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 13时26分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -29,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 13时26分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -42,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 13时26分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -95,6 +96,18 @@
           "time_info": "[03时13分 ~ 06时58分]"
         },
         {
+          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
+          "url": "https://wallstreetcn.com/articles/3774595",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时26分]"
+        },
+        {
           "title": "美国突然限用Claude 5说明了什么",
           "url": "https://www.toutiao.com/trending/7650833215002775103/",
           "source": "今日头条",
@@ -121,26 +134,16 @@
           "time_info": "[05时07分 ~ 08时04分]"
         },
         {
-          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
-          "url": "https://wallstreetcn.com/articles/3774595",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
           "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
           "url": "https://wallstreetcn.com/articles/3774579",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时26分]"
         },
         {
           "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
@@ -154,6 +157,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
+          "url": "https://www.cls.cn/detail/2399188",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
           "url": "https://flash.jin10.com/detail/20260614001329812800",
           "source": "金十数据",
@@ -165,13 +179,24 @@
           "time_info": "01时15分"
         },
         {
+          "title": "作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？",
+          "url": "https://www.zhihu.com/question/2037135692707390495",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "唐杰谈AGI开放竞争",
           "url": "https://s.weibo.com/weibo?q=%E5%94%90%E6%9D%B0%E8%B0%88AGI%E5%BC%80%E6%94%BE%E7%AB%9E%E4%BA%89&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -190,7 +215,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "B站暂停广告占半屏被吐槽",
@@ -199,11 +224,12 @@
           "ranks": [
             16,
             17,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 13时26分]"
         },
         {
           "title": "哈兰德把挪威的森林焊死在抖音",
@@ -212,11 +238,12 @@
           "ranks": [
             17,
             18,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 13时26分]"
         },
         {
           "title": "抖音作者硬核实测国产狙击步枪",
@@ -229,12 +256,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时06分 ~ 06时58分]"
+        },
+        {
+          "title": "驴友私闯百色“神龙洞”直播系谣言",
+          "url": "https://www.toutiao.com/trending/7650669455143649326/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "驴友私闯百色“神龙洞”直播不实",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%B4%E5%8F%8B%E7%A7%81%E9%97%AF%E7%99%BE%E8%89%B2%E2%80%9C%E7%A5%9E%E9%BE%99%E6%B4%9E%E2%80%9D%E7%9B%B4%E6%92%AD%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "Angelababy直播榜一是陈赫",
+          "url": "https://www.toutiao.com/trending/7650774814407884809/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -244,11 +304,34 @@
             7,
             6,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 13时26分]"
+        },
+        {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
+          "url": "https://wallstreetcn.com/articles/3774574",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     }
