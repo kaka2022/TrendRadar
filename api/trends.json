@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T05:03:36.188335+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-06-15T07:02:21.653704+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
@@ -15,30 +15,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
         },
         {
           "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
           "url": "https://www.cls.cn/detail/2399188",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
         },
         {
           "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
           "url": "https://wallstreetcn.com/articles/3774621",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
+        },
+        {
+          "title": "外资巨头下半年展望：AI超级周期未结束，重新审视避险资产",
+          "url": "https://wallstreetcn.com/livenews/3119301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
@@ -48,19 +61,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
           "url": "https://www.cls.cn/detail/2398996",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
         },
         {
           "title": "经济日报：人形机器人为何热衷秀才艺",
@@ -70,8 +84,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -121,8 +135,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
         },
         {
           "title": "驴友私闯百色“神龙洞”直播系谣言",
@@ -132,8 +146,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
         },
         {
           "title": "B站暂停广告占半屏被吐槽",
@@ -141,11 +155,12 @@
           "source": "贴吧",
           "ranks": [
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
         }
       ]
     },
@@ -161,8 +176,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
         }
       ]
     },
@@ -178,8 +193,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
         }
       ]
     },
