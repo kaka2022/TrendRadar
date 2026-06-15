@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T10:57:38.997860+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-06-15T16:59:34.814826+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 10时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 16时59分]"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
@@ -63,7 +63,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "如何用AI模型预测世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%A8AI%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -134,12 +145,56 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时13分 ~ 05时03分]"
+        },
+        {
+          "title": "银行界争聘首席AI官 年薪上看350万美元但该职位寿命可能有限",
+          "url": "https://wallstreetcn.com/livenews/3119568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "摩根士丹利：电力短缺正成为AI的核心瓶颈",
+          "url": "https://wallstreetcn.com/articles/3774655",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "分析师用AI写研报搞了个大乌龙，互联网信息该如何排污？",
+          "url": "https://www.cls.cn/detail/2399644",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "AI式演技vs晋江式演技",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%BC%8F%E6%BC%94%E6%8A%80vs%E6%99%8B%E6%B1%9F%E5%BC%8F%E6%BC%94%E6%8A%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "视频丨两块多一斤的酒卖599一箱，起底直播间“特供酒”完整黑产链",
@@ -184,9 +239,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "甲亢哥预测C罗夺冠 被赶出直播间",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B2%E4%BA%A2%E5%93%A5%E9%A2%84%E6%B5%8BC%E7%BD%97%E5%A4%BA%E5%86%A0+%E8%A2%AB%E8%B5%B6%E5%87%BA%E7%9B%B4%E6%92%AD%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "618美妆护肤爆款省钱清单",
+          "url": "https://s.weibo.com/weibo?q=%23618%E7%BE%8E%E5%A6%86%E6%8A%A4%E8%82%A4%E7%88%86%E6%AC%BE%E7%9C%81%E9%92%B1%E6%B8%85%E5%8D%95%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "上迪10岁生日表情来抖音啦",
+          "url": "https://www.douyin.com/hot/2535395",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
