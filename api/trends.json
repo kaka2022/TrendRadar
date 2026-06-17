@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T14:05:35.202735+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-06-17T19:32:17.679817+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 14时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 19时32分]"
         },
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
@@ -29,6 +29,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时58分 ~ 06时51分]"
+        },
+        {
+          "title": "豆包每天消耗数千万 收入不足百万",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E6%AF%8F%E5%A4%A9%E6%B6%88%E8%80%97%E6%95%B0%E5%8D%83%E4%B8%87+%E6%94%B6%E5%85%A5%E4%B8%8D%E8%B6%B3%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "豆包每天收入不足百万",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%AF%8F%E5%A4%A9%E6%94%B6%E5%85%A5%E4%B8%8D%E8%B6%B3%E7%99%BE%E4%B8%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
         },
         {
           "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
@@ -74,7 +96,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -97,11 +119,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时05分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时05分 ~ 19时32分]"
         },
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -141,6 +164,17 @@
           "time_info": "[01时58分 ~ 06时51分]"
         },
         {
+          "title": "微信支付宝打响AI支付战",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
           "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
           "url": "https://www.zhihu.com/question/2042539496676352614",
           "source": "知乎",
@@ -151,6 +185,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 06时51分]"
+        },
+        {
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "济南：对脑机接口、具身智能、6G等制造业企业贷款补贴，最高比例70%",
+          "url": "https://flash.jin10.com/detail/20260617190400434800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "德国总理默茨：认为七国集团峰会取得了“积极成果”。 七国集团关于地缘政治议题的联合声明取得成功。 七国集团成员国将通过制裁加大对俄罗斯的压力。 油价下跌是“好兆头”。 G7积极成果包括关键原材料、人工智能。",
+          "url": "https://wallstreetcn.com/livenews/3120955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "HPE强化面向AI客户的网络设备，西门子能源加入合作",
@@ -197,13 +275,24 @@
           "time_info": "01时58分"
         },
         {
+          "title": "新加坡金融管理局行长谢啇真：全球股权投资估值高度依赖于AI 但相关营收回报不确定性强",
+          "url": "https://wallstreetcn.com/livenews/3120947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "韩国央行：人工智能驱动的奖金激增可能会加剧更广泛的通胀。",
           "url": "https://flash.jin10.com/detail/20260617131005092800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -214,7 +303,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -236,7 +325,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -266,8 +355,30 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "《新闻联播》正在直播",
+          "url": "https://www.toutiao.com/trending/7651928689013329444/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "【通鼎互联：公司与英伟达不存在任何业务关系】通鼎互联发布异动公告，公司近期发现某微信公众号于2026年5月12日发表了《搭上英伟达，A股光纤牛股年内涨超300%》的文章。经核实，康宁作为供应商，对外销售光纤预制棒产品。公司向康宁采购光棒用于光纤生产。截至目前，康宁仅作为公司的光棒原材料供应商，采购规模有限，不存在独家供货情形，也不存在其他合作关系。公司未来将通过自产光棒的方式减少外部采购占比。上述公众号文章的标题及内容存在误导投资者判断的可能性，文章标题的表述不准确、结论不成立。公司与英伟达不存在任何业务关系。",
+          "url": "https://wallstreetcn.com/livenews/3120977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
         {
           "title": "匹克直播间官号自爆遭欠薪一年，网传匹克还有 50 万国家队赞助费未支付，具体怎么回事？",
           "url": "https://www.zhihu.com/question/2050151122652722811",
@@ -325,7 +436,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -347,7 +458,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         }
@@ -362,11 +473,12 @@
           "url": "https://www.zhihu.com/question/2050261467174101567",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时05分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时05分 ~ 19时32分]"
         },
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -401,11 +513,12 @@
           "url": "https://www.zhihu.com/question/2050271442697188542",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时05分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时05分 ~ 19时32分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
@@ -442,7 +555,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -492,7 +605,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -550,7 +663,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         }
