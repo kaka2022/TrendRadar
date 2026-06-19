@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T11:36:23.950304+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-06-19T17:02:20.456305+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "让AI走进千家万户",
@@ -17,6 +17,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时58分 ~ 07时49分]"
+        },
+        {
+          "title": "亏麻,豆包日收入不足百万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355251&amp;topic_name=%E4%BA%8F%E9%BA%BB%2C%E8%B1%86%E5%8C%85%E6%97%A5%E6%94%B6%E5%85%A5%E4%B8%8D%E8%B6%B3%E7%99%BE%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 17时02分]"
+        },
+        {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时06分 ~ 17时02分]"
         },
         {
           "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
@@ -57,18 +85,26 @@
           "time_info": "[00时58分 ~ 07时49分]"
         },
         {
-          "title": "亏麻,豆包日收入不足百万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355251&amp;topic_name=%E4%BA%8F%E9%BA%BB%2C%E8%B1%86%E5%8C%85%E6%97%A5%E6%94%B6%E5%85%A5%E4%B8%8D%E8%B6%B3%E7%99%BE%E4%B8%87",
-          "source": "贴吧",
+          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
+          "url": "https://wallstreetcn.com/articles/3775064",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            7,
-            8,
-            13
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 11时36分]"
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "美国参议员桑德斯将提出法案，赋予民众AI企业股权",
@@ -80,18 +116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
-        },
-        {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时06分 ~ 11时36分]"
         },
         {
           "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
@@ -142,6 +166,18 @@
           "time_info": "[04时42分 ~ 11时36分]"
         },
         {
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 17时02分]"
+        },
+        {
           "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
           "url": "https://wallstreetcn.com/articles/3775010",
           "source": "华尔街见闻",
@@ -154,6 +190,17 @@
           "time_info": "[07时49分 ~ 11时36分]"
         },
         {
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
           "url": "https://www.cls.cn/detail/2403949",
           "source": "财联社热门",
@@ -163,6 +210,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 06时06分]"
+        },
+        {
+          "title": "AI预测科隆Major夺冠队伍",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E9%98%9F%E4%BC%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "因AI翻译意外爆红的帖子",
@@ -187,6 +245,17 @@
           "time_info": "[00时58分 ~ 00时59分]"
         },
         {
+          "title": "知名作家承认新书AI写作比重占一半",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%BD%9C%E5%AE%B6%E6%89%BF%E8%AE%A4%E6%96%B0%E4%B9%A6AI%E5%86%99%E4%BD%9C%E6%AF%94%E9%87%8D%E5%8D%A0%E4%B8%80%E5%8D%8A",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
           "title": "美国采取行动，加快AI数据中心接入电网",
           "url": "https://wallstreetcn.com/livenews/3121905",
           "source": "华尔街见闻-快讯",
@@ -198,26 +267,37 @@
           "time_info": "06时06分"
         },
         {
-          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
-          "url": "https://wallstreetcn.com/articles/3775011",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
           "title": "日本央行副行长冰见野良三：今年夏季前后，燃料价格上涨对CPI的影响可能会更大。 我们希望在7月份更新季度预测时，就石油对通胀的影响提供更全面的分析。 即使价格上涨是由供应冲击驱动的，如果这导致广泛的价格上涨并影响到潜在的通胀，我们也需要考虑采取政策行动。 近期价格上涨也有需求驱动因素，如强劲的企业利润、稳定的工资增长、活跃的AI相关需求，都支撑着日本经济。",
           "url": "https://wallstreetcn.com/livenews/3121959",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "深圳打造生物医药特殊物品通关AI服务平台",
+          "url": "https://wallstreetcn.com/livenews/3122027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "法国内政部长勒塔耶：法国必须巩固其威慑力，重建库存，投资于无人机、人工智能、军事空间，并建立一支真正的后备军。",
+          "url": "https://flash.jin10.com/detail/20260619160316949800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "马斯克：Cursor和xAI都没有裁员。",
@@ -226,7 +306,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -248,7 +328,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -297,11 +377,24 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[07时49分 ~ 17时02分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 的识图模式？",
+          "url": "https://www.zhihu.com/question/2032903059739767247",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 17时02分]"
         },
         {
           "title": "DeepSeek正式上线识图模式",
@@ -313,17 +406,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 00时59分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 的识图模式？",
-          "url": "https://www.zhihu.com/question/2032903059739767247",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
         }
       ]
     },
@@ -339,11 +421,12 @@
             11,
             12,
             13,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 11时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 17时02分]"
         },
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
