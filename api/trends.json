@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T10:40:24.701961+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-06-20T14:57:32.505476+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 14时57分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -50,11 +51,12 @@
             23,
             24,
             25,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 10时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 14时57分]"
         },
         {
           "title": "magixx载入史册的残局1v4",
@@ -63,11 +65,27 @@
           "ranks": [
             4,
             10,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时24分 ~ 14时57分]"
+        },
+        {
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时24分 ~ 10时40分]"
+          "appearance_count": 7,
+          "time_info": "[04时24分 ~ 14时57分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -82,18 +100,26 @@
           "time_info": "[02时29分 ~ 07时01分]"
         },
         {
-          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
-          "url": "https://wallstreetcn.com/articles/3775091",
-          "source": "华尔街见闻",
+          "title": "男子称高价挂专家号 医生竟悄悄问AI",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%AB%98%E4%BB%B7%E6%8C%82%E4%B8%93%E5%AE%B6%E5%8F%B7+%E5%8C%BB%E7%94%9F%E7%AB%9F%E6%82%84%E6%82%84%E9%97%AEAI",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            9,
-            8,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时24分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "第一次见心眼这么多的AI",
+          "url": "https://www.douyin.com/hot/2541043",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
@@ -133,6 +159,17 @@
           "time_info": "[07时01分 ~ 10时40分]"
         },
         {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
           "url": "https://flash.jin10.com/detail/20260619234155159800",
           "source": "金十数据",
@@ -150,7 +187,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -164,6 +201,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "当AI开始自己造AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93AI%E5%BC%80%E5%A7%8B%E8%87%AA%E5%B7%B1%E9%80%A0AI&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "吕德华抖音直播首秀",
+          "url": "https://www.douyin.com/hot/2541413",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "B站反转手机功能上线",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E5%8F%8D%E8%BD%AC%E6%89%8B%E6%9C%BA%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "抖音电商：6·18期间超12万商家直播成交额同比翻倍",
+          "url": "https://wallstreetcn.com/livenews/3122217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "贾乃亮近30天涨粉超78万",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E8%BF%9130%E5%A4%A9%E6%B6%A8%E7%B2%89%E8%B6%8578%E4%B8%87%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "B站2026毕业歌上线",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%992026%E6%AF%95%E4%B8%9A%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "河南“渝见小面”老板娘回应开直播",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E2%80%9C%E6%B8%9D%E8%A7%81%E5%B0%8F%E9%9D%A2%E2%80%9D%E8%80%81%E6%9D%BF%E5%A8%98%E5%9B%9E%E5%BA%94%E5%BC%80%E7%9B%B4%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         }
       ]
     },
@@ -198,6 +318,35 @@
       ]
     },
     {
+      "keyword_group": "副业 兼职 远程办公 自由职业 数字游民 知识付费 私域流量 变现 被动收入 网赚 电商创业 小红书赚钱 抖音带货 直播带货 无货源电商 闲鱼",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴西总统调侃内马尔：他远程办公",
+          "url": "https://www.toutiao.com/trending/7653072490532458020/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 10时40分]"
+        },
+        {
+          "title": "巴西总统调侃内马尔：他远程办公",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E8%B0%83%E4%BE%83%E5%86%85%E9%A9%AC%E5%B0%94%EF%BC%9A%E4%BB%96%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -206,11 +355,12 @@
           "url": "https://wallstreetcn.com/livenews/3122199",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 14时57分]"
         }
       ]
     },
@@ -230,41 +380,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 07时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "副业 兼职 远程办公 自由职业 数字游民 知识付费 私域流量 变现 被动收入 网赚 电商创业 小红书赚钱 抖音带货 直播带货 无货源电商 闲鱼",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴西总统调侃内马尔：他远程办公",
-          "url": "https://www.toutiao.com/trending/7653072490532458020/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 10时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "河南“渝见小面”老板娘回应开直播",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E2%80%9C%E6%B8%9D%E8%A7%81%E5%B0%8F%E9%9D%A2%E2%80%9D%E8%80%81%E6%9D%BF%E5%A8%98%E5%9B%9E%E5%BA%94%E5%BC%80%E7%9B%B4%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         }
       ]
     }
