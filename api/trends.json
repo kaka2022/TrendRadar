@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T07:01:55.204910+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-06-20T10:40:24.701961+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 10时40分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -49,11 +49,25 @@
           "ranks": [
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 10时40分]"
+        },
+        {
+          "title": "magixx载入史册的残局1v4",
+          "url": "https://search.bilibili.com/all?keyword=magixx%E8%BD%BD%E5%85%A5%E5%8F%B2%E5%86%8C%E7%9A%84%E6%AE%8B%E5%B1%801v4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时24分 ~ 10时40分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -68,29 +82,18 @@
           "time_info": "[02时29分 ~ 07时01分]"
         },
         {
-          "title": "magixx载入史册的残局1v4",
-          "url": "https://search.bilibili.com/all?keyword=magixx%E8%BD%BD%E5%85%A5%E5%8F%B2%E5%86%8C%E7%9A%84%E6%AE%8B%E5%B1%801v4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时24分 ~ 07时01分]"
-        },
-        {
           "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
           "url": "https://wallstreetcn.com/articles/3775091",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时24分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[04时24分 ~ 10时40分]"
         },
         {
           "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
@@ -98,11 +101,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[06时00分 ~ 10时40分]"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
@@ -121,11 +125,12 @@
           "url": "https://wallstreetcn.com/articles/3775063",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 10时40分]"
         },
         {
           "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
@@ -137,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "为什么机器人领域都在弄具身智能了，感觉中间跳了一大步?",
+          "url": "https://www.zhihu.com/question/13457479779",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "我国首个水产育种专用智能大模型平台发布",
@@ -182,6 +198,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3122199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
       "match_count": 1,
       "titles": [
@@ -209,11 +242,29 @@
           "url": "https://www.toutiao.com/trending/7653072490532458020/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 10时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "河南“渝见小面”老板娘回应开直播",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E2%80%9C%E6%B8%9D%E8%A7%81%E5%B0%8F%E9%9D%A2%E2%80%9D%E8%80%81%E6%9D%BF%E5%A8%98%E5%9B%9E%E5%BA%94%E5%BC%80%E7%9B%B4%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "10时40分"
         }
       ]
     }
