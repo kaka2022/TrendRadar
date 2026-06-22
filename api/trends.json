@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-23T05:31:15.670305+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-06-23T07:15:35.341854+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 05时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 07时15分]"
         },
         {
           "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
@@ -25,9 +26,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "高通接近达成一份协议，将收购AI芯片初创公司Modular。（彭博）",
@@ -36,7 +48,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -48,8 +60,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 05时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 07时15分]"
+        },
+        {
+          "title": "物理AI第一股上市首日高开302%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "据Business Insider：在近期发生敏感数据泄露并可被全公司访问事件后，Meta公司暂停了一项内部人工智能培训项目。",
@@ -58,9 +81,42 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "AI飞轮驱动加速，半导体更多领域进入上行周期",
+          "url": "https://wallstreetcn.com/livenews/3123052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "科技链从“数字”升级为“数智”，第四届链博会折射AI产业重心跃迁",
+          "url": "https://wallstreetcn.com/livenews/3123050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "甲骨文一年裁员2.1万人，称AI已取代部分岗位",
+          "url": "https://wallstreetcn.com/livenews/3123049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
@@ -86,7 +142,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
@@ -103,7 +159,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -114,7 +170,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
@@ -129,11 +185,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB%E8%A2%AB%E8%9C%88%E8%9A%A3%E5%92%AC%E4%BA%86%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%89%93%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时15分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.87%，暂报2285.71点，在一波V形反转行情中、北京时间07:37刷新期内最低点至2260.26点，在一波冲高回落行情中、21:50刷新期内最高至2331.37点。 MarketVectorTM数字资产100中盘指数涨0.43%，报2662.57点，07:36刷新期内最低至2598.96点、21:50刷新期内最高位至2699.43点。 MarketVector数字资产100指数涨0.71%，报12806.37点。 目前，Solana跌1.93%，狗狗币跌0.28%，XRP跌0.67%。 比特币涨0.86%，暂报64687.74美元；以太坊涨0.31%，暂报1738.19美元。",
@@ -161,8 +218,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 05时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 07时15分]"
         },
         {
           "title": "央视直播世界杯日本 vs 突尼斯比赛收视率超 3%，这是什么水平？可能受哪些因素影响？",
@@ -170,11 +227,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 05时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 07时15分]"
         }
       ]
     },
@@ -187,11 +245,12 @@
           "url": "https://wallstreetcn.com/articles/3775170",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 05时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 07时15分]"
         }
       ]
     }
