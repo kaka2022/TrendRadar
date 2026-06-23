@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T18:32:22.288230+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-06-23T21:39:59.313155+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
         {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
@@ -43,6 +43,19 @@
           "time_info": "05时31分"
         },
         {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 21时39分]"
+        },
+        {
           "title": "高通接近达成一份协议，将收购AI芯片初创公司Modular。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3123034",
           "source": "华尔街见闻-快讯",
@@ -52,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "英伟达发布BioNeMo Agent工具包。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3123473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "港股人工智能板块走低，智谱跌超13%，曦智科技-P、群核科技跌超7%，MINIMAX-W跌超6%，澜起科技、兆易创新跌超5%。",
@@ -70,24 +94,36 @@
           "source": "贴吧",
           "ranks": [
             2,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 21时39分]"
+        },
+        {
+          "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
+          "url": "https://wallstreetcn.com/articles/3775254",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时39分]"
+        },
+        {
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时15分 ~ 10时34分]"
-        },
-        {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 18时32分]"
+          "time_info": "[18时32分 ~ 21时39分]"
         },
         {
           "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
@@ -102,15 +138,50 @@
           "time_info": "[10时34分 ~ 14时43分]"
         },
         {
-          "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
-          "url": "https://wallstreetcn.com/articles/3775254",
-          "source": "华尔街见闻",
+          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
+          "url": "https://www.cls.cn/detail/2406846",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时39分]"
+        },
+        {
+          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
+          "url": "https://www.zhihu.com/question/2052439090260178506",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时39分]"
+        },
+        {
+          "title": "大模型横评:多款AI翻车实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时39分]"
+        },
+        {
+          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2407151",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "21时39分"
         },
         {
           "title": "字节新一代豆包手机供应链信息曝光 发布时间或延迟",
@@ -119,20 +190,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
         {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
-          "source": "华尔街见闻",
+          "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
+          "url": "https://www.cls.cn/detail/2406973",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "21时39分"
         },
         {
           "title": "字节跳动发布豆包大模型2.1",
@@ -141,7 +212,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -152,18 +223,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
-          "url": "https://www.cls.cn/detail/2406846",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -190,6 +250,17 @@
           "time_info": "14时43分"
         },
         {
+          "title": "AI时代不想被淘汰？这5个能力很重要",
+          "url": "https://www.toutiao.com/trending/7654532881838001673/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "港股人工智能股持续走低，智谱(02513.HK)跌超11%，曦智科技-P(01879.HK)、群核科技(00068.HK)、MINIMAX-W(00100.HK)均跌超7%，澜起科技(06809.HK)、兆易创新(03986.HK)跌超6%。",
           "url": "https://flash.jin10.com/detail/20260623095648574800",
           "source": "金十数据",
@@ -199,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "英伟达(NVDA.O)发布BIONEMO智能体工具包，一个旨在助力智能体加速科学发现的工具。",
+          "url": "https://flash.jin10.com/detail/20260623210454021800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "液冷概念股开盘活跃，英维克、大元泵业、康盛股份、金富科技涨停，高澜股份涨超18%，飞龙股份、强瑞技术、川环科技、淳中科技、佳力图、新朋股份纷纷高开，消息上，英伟达发文详细介绍了即将量产的Vera Rubin平台所使用的45℃全面液冷技术，表示其帮助AI数据中心大幅降低能耗，并称Rubin是全球首个实现100%液冷的AI计算平台。",
@@ -223,13 +305,24 @@
           "time_info": "07时15分"
         },
         {
+          "title": "远景科技集团发布三大能源系统解决方案，面向AI数据中心等场景",
+          "url": "https://wallstreetcn.com/livenews/3123454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "《十日终焉》原著作者借助 AI 批判自己的写作大纲，以此打磨作品，如何看待这种 AI 辅助创作方式？",
           "url": "https://www.zhihu.com/question/2052545440508108960",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -251,20 +344,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
         {
-          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
-          "url": "https://www.zhihu.com/question/2052439090260178506",
-          "source": "知乎",
+          "title": "美国银行：过去一年中，五分之一的潜在购房者和现有房主曾使用人工智能工具/聊天机器人进行购房调研。",
+          "url": "https://flash.jin10.com/detail/20260623210047330800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "21时39分"
         },
         {
           "title": "AI飞轮驱动加速，半导体更多领域进入上行周期",
@@ -300,17 +393,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "大模型横评:多款AI翻车实录",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
           "title": "物理AI第一股上市首日高开302%",
           "url": "https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25",
           "source": "百度热搜",
@@ -325,7 +407,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何看待佛得角先平西班牙再平乌拉圭，门将涨粉 1400 多万后却收到不续约通知？",
@@ -340,26 +422,15 @@
           "time_info": "[02时42分 ~ 07时15分]"
         },
         {
-          "title": "如何看待懂车帝直播测试小米 SU7 和尚界 Z7 北京到上海 1300 公里续航？",
-          "url": "https://www.zhihu.com/question/2052352706862388110",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 18时32分]"
-        },
-        {
           "title": "S11冠军上单Flandre入驻B站",
           "url": "https://search.bilibili.com/all?keyword=S11%E5%86%A0%E5%86%9B%E4%B8%8A%E5%8D%95Flandre%E5%85%A5%E9%A9%BBB%E7%AB%99",
           "source": "bilibili 热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时39分]"
         },
         {
           "title": "如何看待懂车帝直播测试小米 su7 和尚界 z7 北京到上海 1300 公里续航？",
@@ -373,6 +444,18 @@
           "time_info": "10时34分"
         },
         {
+          "title": "如何看待懂车帝直播测试小米 SU7 和尚界 Z7 北京到上海 1300 公里续航？",
+          "url": "https://www.zhihu.com/question/2052352706862388110",
+          "source": "知乎",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 21时39分]"
+        },
+        {
           "title": "世界杯首个爆款竟然是根头绳",
           "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E4%B8%AA%E7%88%86%E6%AC%BE%E7%AB%9F%E7%84%B6%E6%98%AF%E6%A0%B9%E5%A4%B4%E7%BB%B3",
           "source": "百度热搜",
@@ -382,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "快手电商在快手App的商城内上线“极速达”服务，并在商城内设有独立入口，“最快明天送达”。（界面）",
+          "url": "https://wallstreetcn.com/livenews/3123471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "央视直播世界杯日本 vs 突尼斯比赛收视率超 3%，这是什么水平？可能受哪些因素影响？",
@@ -407,6 +501,90 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 14时43分]"
+        },
+        {
+          "title": "交易学院正在直播中",
+          "url": "https://flash.jin10.com/detail/20260623210018144800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "快手电商上线快时效服务“极速达”",
+          "url": "https://wallstreetcn.com/livenews/3123449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "檀健次直播迟到39分钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%E8%BF%9F%E5%88%B039%E5%88%86%E9%92%9F%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "医生解读被蜈蚣咬了该不该打狂犬疫苗",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB%E8%A2%AB%E8%9C%88%E8%9A%A3%E5%92%AC%E4%BA%86%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%89%93%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时15分]"
+        },
+        {
+          "title": "合肥网红店“七万卤菜店”被拍到生肉食材遭狗啃食，市监部门：已介入调查，门店已闭店",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33436482",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.87%，暂报2285.71点，在一波V形反转行情中、北京时间07:37刷新期内最低点至2260.26点，在一波冲高回落行情中、21:50刷新期内最高至2331.37点。 MarketVectorTM数字资产100中盘指数涨0.43%，报2662.57点，07:36刷新期内最低至2598.96点、21:50刷新期内最高位至2699.43点。 MarketVector数字资产100指数涨0.71%，报12806.37点。 目前，Solana跌1.93%，狗狗币跌0.28%，XRP跌0.67%。 比特币涨0.86%，暂报64687.74美元；以太坊涨0.31%，暂报1738.19美元。",
+          "url": "https://wallstreetcn.com/livenews/3122963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "大狗未牵绳扑抱女童 狗主人拒不道歉",
+          "url": "https://www.toutiao.com/trending/7653449525257715758/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         }
       ]
     },
@@ -431,11 +609,12 @@
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 21时39分]"
         },
         {
           "title": "DeepSeek新部门疯狂招人，负责人否认“不招外国人”",
@@ -444,7 +623,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -491,46 +670,6 @@
       ]
     },
     {
-      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "医生解读被蜈蚣咬了该不该打狂犬疫苗",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB%E8%A2%AB%E8%9C%88%E8%9A%A3%E5%92%AC%E4%BA%86%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%89%93%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时30分 ~ 07时15分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.87%，暂报2285.71点，在一波V形反转行情中、北京时间07:37刷新期内最低点至2260.26点，在一波冲高回落行情中、21:50刷新期内最高至2331.37点。 MarketVectorTM数字资产100中盘指数涨0.43%，报2662.57点，07:36刷新期内最低至2598.96点、21:50刷新期内最高位至2699.43点。 MarketVector数字资产100指数涨0.71%，报12806.37点。 目前，Solana跌1.93%，狗狗币跌0.28%，XRP跌0.67%。 比特币涨0.86%，暂报64687.74美元；以太坊涨0.31%，暂报1738.19美元。",
-          "url": "https://wallstreetcn.com/livenews/3122963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "大狗未牵绳扑抱女童 狗主人拒不道歉",
-          "url": "https://www.toutiao.com/trending/7653449525257715758/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -555,6 +694,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宠物 宠物经济 宠物寄养 宠物食品 宠物医疗 宠物美容 宠物保险 猫粮 狗粮 宠物智能用品 宠物殡葬 携宠出行",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宠物犬寄存海底捞后死亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355456&amp;topic_name=%E5%AE%A0%E7%89%A9%E7%8A%AC%E5%AF%84%E5%AD%98%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%90%8E%E6%AD%BB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "米线店品牌方回应宠物狗上桌进食",
+          "url": "https://www.toutiao.com/trending/7653497126126714922/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "副业 兼职 远程办公 自由职业 数字游民 知识付费 私域流量 变现 被动收入 网赚 电商创业 小红书赚钱 抖音带货 直播带货 无货源电商 闲鱼",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "变现压力下贸易端NAND价格走低 今日512Gb TLC、1Tb QLC wafer价格小幅下调",
+          "url": "https://flash.jin10.com/detail/20260623205713383800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         }
       ]
     }
