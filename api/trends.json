@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-24T03:07:10.161750+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-06-24T05:27:19.636076+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2407151",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
-        },
         {
           "title": "AI算力新变局：谁能动英伟达奶酪",
           "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
@@ -27,8 +16,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
+        },
+        {
+          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2407151",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
         },
         {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
@@ -36,33 +37,36 @@
           "source": "知乎",
           "ranks": [
             11,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
         },
         {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
           "url": "https://wallstreetcn.com/articles/3775254",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
-        },
-        {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
-          "source": "华尔街见闻",
-          "ranks": [
+            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
+        },
+        {
+          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
+          "url": "https://wallstreetcn.com/articles/3775302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
         },
         {
           "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
@@ -72,19 +76,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
         },
         {
-          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
-          "url": "https://wallstreetcn.com/articles/3775302",
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
           "ranks": [
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
@@ -94,41 +99,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
         },
         {
           "title": "大模型横评:多款AI翻车实录",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
           "source": "贴吧",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
         },
         {
           "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
           "url": "https://www.zhihu.com/question/2051696278954946774",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 05时27分]"
         },
         {
           "title": "用AI小卡应援世界杯",
@@ -138,8 +146,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 05时27分]"
+        },
+        {
+          "title": "美国亚特兰大联储董事会主席Gregory Haile：我们的委员会正在为下一任亚特兰大联储主席进行全面且审慎的遴选。 我们将继续专注于为第六区挑选最优秀的人才，同时维护遴选程序的公正性。 我们将在适当时候提供有关这一重要领导职务的相关最新进展。",
+          "url": "https://wallstreetcn.com/livenews/3123638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
@@ -148,7 +167,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -170,9 +189,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "AI时代计算机专业还能学吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
@@ -189,7 +219,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "S11冠军上单Flandre入驻B站",
@@ -197,11 +227,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
         },
         {
           "title": "檀健次直播迟到39分钟",
@@ -220,11 +251,12 @@
           "url": "https://www.douyin.com/hot/2544478",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 05时27分]"
         },
         {
           "title": "papi酱 非常清醒的内容创作者",
@@ -236,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "徐良演唱会伴舞两周涨粉超110万",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%B4%E8%88%9E%E4%B8%A4%E5%91%A8%E6%B6%A8%E7%B2%89%E8%B6%85110%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         }
       ]
     },
@@ -252,8 +295,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
         },
         {
           "title": "动物园回应将松狮犬染色成“熊猫”",
@@ -313,7 +356,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         }
@@ -328,11 +371,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355456&amp;topic_name=%E5%AE%A0%E7%89%A9%E7%8A%AC%E5%AF%84%E5%AD%98%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%90%8E%E6%AD%BB%E4%BA%A1",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 05时27分]"
         }
       ]
     }
