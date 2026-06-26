@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-27T06:06:51.322818+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-06-27T07:58:48.733903+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
           "url": "https://wallstreetcn.com/articles/3775599",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
         },
         {
           "title": "如何看待兰州大学一篇顶刊论文插图中有豆包水印，同时被质疑图片复用？这有可能涉及学术不端吗？",
@@ -24,11 +25,38 @@
           "source": "知乎",
           "ranks": [
             5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时25分 ~ 07时58分]"
+        },
+        {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
+        },
+        {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            13,
+            8,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
         },
         {
           "title": "豆包专业版上线，68/200/500 元三档包月，和免费版体验差别在哪？你会付费吗？",
@@ -38,24 +66,76 @@
             5,
             4,
             6,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
         },
         {
-          "title": "AI时代如何选专业",
-          "url": "https://www.douyin.com/hot/2548080",
-          "source": "抖音",
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
           "ranks": [
-            13,
-            8,
-            5
+            7,
+            10,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
+        },
+        {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
+        },
+        {
+          "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
         },
         {
           "title": "SemiAnalysis：H100云端指数现货价格正在下跌，现在每小时2.42美元，比5月峰值低约40%。生态系统担心这表明计算需求以及由此延伸的人工智能AI需求正在减弱。 重要的信号是，这很可能是一个现货价格指数，而不是期限定价。我们针对1年期H100合同价格的新云调查显示，该价格反而从去年末的大约每小时1.70美元的低谷攀升至如今的每小时约2.65美元。",
@@ -69,75 +149,15 @@
           "time_info": "00时10分"
         },
         {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
+          "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
+          "url": "https://wallstreetcn.com/livenews/3125495",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
-        },
-        {
-          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2410276",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
-        },
-        {
-          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2410602",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
-        },
-        {
-          "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "英伟达为什么没有成为顶尖大模型公司？",
@@ -149,6 +169,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时25分 ~ 06时06分]"
+        },
+        {
+          "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
+          "url": "https://wallstreetcn.com/articles/3775640",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "Anthropic迈向与美国政府达成协议，解除对AI模型的限制。",
+          "url": "https://wallstreetcn.com/livenews/3125474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "上海消保委调查：超38%消费者反馈AI优先推送高价商品",
@@ -174,11 +216,37 @@
           "ranks": [
             5,
             1,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
+        },
+        {
+          "title": "B站出品纪录片人生海海获白玉兰奖",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E5%87%BA%E5%93%81%E7%BA%AA%E5%BD%95%E7%89%87%E4%BA%BA%E7%94%9F%E6%B5%B7%E6%B5%B7%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
+        },
+        {
+          "title": "血狼破军直播间磕头道歉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355634&amp;topic_name=%E8%A1%80%E7%8B%BC%E7%A0%B4%E5%86%9B%E7%9B%B4%E6%92%AD%E9%97%B4%E7%A3%95%E5%A4%B4%E9%81%93%E6%AD%89",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            27,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
         },
         {
           "title": "B站亿级播放神曲串烧",
@@ -192,30 +260,6 @@
           "time_info": "00时10分"
         },
         {
-          "title": "B站出品纪录片人生海海获白玉兰奖",
-          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E5%87%BA%E5%93%81%E7%BA%AA%E5%BD%95%E7%89%87%E4%BA%BA%E7%94%9F%E6%B5%B7%E6%B5%B7%E8%8E%B7%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
-        },
-        {
-          "title": "血狼破军直播间磕头道歉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355634&amp;topic_name=%E8%A1%80%E7%8B%BC%E7%A0%B4%E5%86%9B%E7%9B%B4%E6%92%AD%E9%97%B4%E7%A3%95%E5%A4%B4%E9%81%93%E6%AD%89",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
-        },
-        {
           "title": "哈兰德抖音粉丝突破400万",
           "url": "https://www.douyin.com/hot/2548884",
           "source": "抖音",
@@ -227,6 +271,18 @@
           "time_info": "[00时10分 ~ 02时26分]"
         },
         {
+          "title": "B站17周年生日短片",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%9917%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时58分]"
+        },
+        {
           "title": "抖音乒乓百分大战再现霸王拧",
           "url": "https://www.douyin.com/hot/2548996",
           "source": "抖音",
@@ -236,17 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 02时26分]"
-        },
-        {
-          "title": "B站17周年生日短片",
-          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%9917%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E7%9F%AD%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
         },
         {
           "title": "在B站与经典的另一种相逢",
@@ -348,7 +393,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
@@ -360,8 +405,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
         },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
@@ -371,8 +416,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时58分]"
         },
         {
           "title": "DeepSeek招聘薪资待遇",
@@ -384,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "DeepSeek新晋独角兽第一",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%96%B0%E6%99%8B%E7%8B%AC%E8%A7%92%E5%85%BD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     }
