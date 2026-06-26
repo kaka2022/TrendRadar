@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-27T00:10:19.306591+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-27T02:26:07.175884+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
-          "title": "SemiAnalysis：H100云端指数现货价格正在下跌，现在每小时2.42美元，比5月峰值低约40%。生态系统担心这表明计算需求以及由此延伸的人工智能AI需求正在减弱。 重要的信号是，这很可能是一个现货价格指数，而不是期限定价。我们针对1年期H100合同价格的新云调查显示，该价格反而从去年末的大约每小时1.70美元的低谷攀升至如今的每小时约2.65美元。",
-          "url": "https://wallstreetcn.com/livenews/3125392",
-          "source": "华尔街见闻-快讯",
+          "title": "豆包专业版上线，68/200/500 元三档包月，和免费版体验差别在哪？你会付费吗？",
+          "url": "https://www.zhihu.com/question/2053058575203656580",
+          "source": "知乎",
           "ranks": [
-            2
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
         },
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -26,15 +27,26 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
         },
         {
-          "title": "豆包专业版上线，68/200/500 元三档包月，和免费版体验差别在哪？你会付费吗？",
-          "url": "https://www.zhihu.com/question/2053058575203656580",
+          "title": "如何看待兰州大学一篇顶刊论文插图中有豆包水印，同时被质疑图片复用？这有可能涉及学术不端吗？",
+          "url": "https://www.zhihu.com/question/2053840600244254651",
           "source": "知乎",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
+        },
+        {
+          "title": "SemiAnalysis：H100云端指数现货价格正在下跌，现在每小时2.42美元，比5月峰值低约40%。生态系统担心这表明计算需求以及由此延伸的人工智能AI需求正在减弱。 重要的信号是，这很可能是一个现货价格指数，而不是期限定价。我们针对1年期H100合同价格的新云调查显示，该价格反而从去年末的大约每小时1.70美元的低谷攀升至如今的每小时约2.65美元。",
+          "url": "https://wallstreetcn.com/livenews/3125392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -48,19 +60,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
+        },
+        {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
@@ -70,8 +95,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -81,30 +106,43 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "AI时代如何选专业",
-          "url": "https://www.douyin.com/hot/2548080",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
         },
         {
           "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
+        },
+        {
+          "title": "英伟达为什么没有成为顶尖大模型公司？",
+          "url": "https://www.zhihu.com/question/2052136735417557323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
           "title": "上海消保委调查：超38%消费者反馈AI优先推送高价商品",
@@ -116,41 +154,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
         }
       ]
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "抖音乒乓百分大战首战奥恰队获胜",
+          "url": "https://www.douyin.com/hot/2548317",
+          "source": "抖音",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
+        },
         {
           "title": "B站亿级播放神曲串烧",
           "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E4%BA%BF%E7%BA%A7%E6%92%AD%E6%94%BE%E7%A5%9E%E6%9B%B2%E4%B8%B2%E7%83%A7",
           "source": "bilibili 热搜",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "抖音乒乓百分大战首战奥恰队获胜",
-          "url": "https://www.douyin.com/hot/2548317",
-          "source": "抖音",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -164,19 +192,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
         },
         {
           "title": "血狼破军直播间磕头道歉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355634&amp;topic_name=%E8%A1%80%E7%8B%BC%E7%A0%B4%E5%86%9B%E7%9B%B4%E6%92%AD%E9%97%B4%E7%A3%95%E5%A4%B4%E9%81%93%E6%AD%89",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
         },
         {
           "title": "哈兰德抖音粉丝突破400万",
@@ -186,8 +215,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
+        },
+        {
+          "title": "抖音乒乓百分大战再现霸王拧",
+          "url": "https://www.douyin.com/hot/2548996",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
           "title": "在B站与经典的另一种相逢",
@@ -203,6 +243,67 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强】OpenAI表示，已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。Terra的性能与 GPT-5.5 相当，但成本低2倍；Luna则以其最低的成本提供了强大的能力。 GPT-5.6 Sol搭载了该公司迄今最强大的安全防护体系。加强了对高风险活动、敏感网络请求以及重复滥用行为的防护，并花费数周时间寻找系统弱点、进行压力测试，以增强其抵御现实世界攻击的能力。 该公司计划在未来几周内全面开放GPT-5.6 Sol、Terra和Luna。作为我们与美国政府持续沟通的一部分，在周五发布之前，OpenAI提前向政府展示了该公司的发布计划以及模型的各项能力。 GPT-5.6 Sol是其迄今最强大的模型。",
+          "url": "https://wallstreetcn.com/livenews/3125429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+          "url": "https://flash.jin10.com/detail/20260627021924211800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3125428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
+          "url": "https://flash.jin10.com/detail/20260626233456947800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美媒：美国政府将决定谁可以使用新版ChatGPT",
+          "url": "https://flash.jin10.com/detail/20260627020005789800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -214,8 +315,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
         },
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
@@ -225,8 +326,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 02时26分]"
         },
         {
           "title": "DeepSeek招聘薪资待遇",
@@ -234,23 +335,6 @@
           "source": "微博",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
-          "url": "https://flash.jin10.com/detail/20260626233456947800",
-          "source": "金十数据",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
