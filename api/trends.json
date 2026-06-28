@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-28T08:06:44.368554+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-06-28T13:13:43.446272+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
           "url": "https://www.cls.cn/detail/2410894",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 08时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 13时13分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -24,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 08时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 13时13分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -41,6 +43,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 07时01分]"
+        },
+        {
+          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
+          "url": "https://wallstreetcn.com/livenews/3125605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 13时13分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -56,26 +70,27 @@
           "time_info": "[03时07分 ~ 08时06分]"
         },
         {
-          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
-          "url": "https://wallstreetcn.com/livenews/3125605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 08时06分]"
-        },
-        {
           "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
           "url": "https://wallstreetcn.com/articles/3775674",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 13时13分]"
+        },
+        {
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "13时13分"
         },
         {
           "title": "AI监管松绑！报道：美国放行Anthropic最强模型，超100家机构获准使用",
@@ -84,9 +99,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
+          "url": "https://www.zhihu.com/question/2053468017514602830",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "黄灿灿 AI你猜错了",
@@ -95,7 +121,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -103,7 +129,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待开店博主「勇哥餐饮创业说」由于直播间被判定违规，对线短视频平台客服被挂断电话？",
@@ -111,18 +137,6 @@
           "source": "知乎",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 08时06分]"
-        },
-        {
-          "title": "快招发力?勇哥餐饮直播被封",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355695&amp;topic_name=%E5%BF%AB%E6%8B%9B%E5%8F%91%E5%8A%9B%3F%E5%8B%87%E5%93%A5%E9%A4%90%E9%A5%AE%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -138,8 +152,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 08时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 13时13分]"
+        },
+        {
+          "title": "快招发力?勇哥餐饮直播被封",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355695&amp;topic_name=%E5%BF%AB%E6%8B%9B%E5%8F%91%E5%8A%9B%3F%E5%8B%87%E5%93%A5%E9%A4%90%E9%A5%AE%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 13时13分]"
         },
         {
           "title": "在B站与经典的另一种相逢",
@@ -153,8 +180,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 08时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 13时13分]"
+        },
+        {
+          "title": "吴珈庆夺冠后发抖音",
+          "url": "https://www.douyin.com/hot/2550379",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     },
@@ -163,25 +201,26 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2054255700407055156",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 08时06分]"
-        },
-        {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
           "url": "https://wallstreetcn.com/articles/3775676",
           "source": "华尔街见闻",
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 13时13分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2054255700407055156",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -205,7 +244,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -232,6 +271,62 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 08时06分]"
+        },
+        {
+          "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
+          "url": "https://wallstreetcn.com/articles/3775673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宝宝牵狗被“拒绝”",
+          "url": "https://www.toutiao.com/trending/7656071457391493130/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "山东一动物园将小狗染成「熊猫犬」展出，园方回应染色剂合规且无风险，真的对动物无害吗？为啥用狗扮演熊猫？",
+          "url": "https://www.zhihu.com/question/2053123761063436729",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     },
@@ -246,11 +341,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 08时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 13时13分]"
         }
       ]
     }
