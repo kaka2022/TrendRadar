@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-30T01:32:34.765608+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-30T03:48:06.994705+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "英伟达(NVDA.O)：Anthropic的Claude系列模型已上线微软Azure的NVIDIA GB300 Blackwell Ultra平台。",
-          "url": "https://flash.jin10.com/detail/20260630010525189800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
         {
           "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
           "url": "https://www.cls.cn/detail/2412070",
           "source": "财联社热门",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时48分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：Anthropic的Claude系列模型已上线微软Azure的NVIDIA GB300 Blackwell Ultra平台。",
+          "url": "https://flash.jin10.com/detail/20260630010525189800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,52 +37,78 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
-          "url": "https://wallstreetcn.com/livenews/3126270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时48分]"
         },
         {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时48分]"
         },
         {
           "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
           "url": "https://www.cls.cn/detail/2411865",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时48分]"
         },
         {
           "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
           "url": "https://www.cls.cn/detail/2411644",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时48分]"
+        },
+        {
+          "title": "AI手机进入Agent时代",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5Agent%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时48分]"
+        },
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
+          "url": "https://wallstreetcn.com/livenews/3126270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 03时48分]"
+        },
+        {
+          "title": "吴启华自曝卖肖像权拍AI电影",
+          "url": "https://www.douyin.com/hot/2552172",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
         },
         {
           "title": "据The Information：亚马逊(AMZN.O)正在评估其他人工智能模型，以应对不断上升的Anthropic成本。",
@@ -105,23 +131,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "AI手机进入Agent时代",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5Agent%E6%97%B6%E4%BB%A3",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
         }
       ]
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "在抖音追公路文太上头了",
@@ -131,8 +146,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时48分]"
         },
         {
           "title": "内马尔发抖音备战淘汰赛",
@@ -142,8 +157,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时48分]"
+        },
+        {
+          "title": "哈兰德发抖音全力备战淘汰赛",
+          "url": "https://www.douyin.com/hot/2551206",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
         },
         {
           "title": "恋与深空已删除锅里洗澡文案",
@@ -178,11 +204,12 @@
           "url": "https://wallstreetcn.com/livenews/3126275",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 03时48分]"
         },
         {
           "title": "主人解开狗绳2只狗将路人撕咬致死",
@@ -217,22 +244,24 @@
           "url": "https://www.zhihu.com/question/2054981283089069609",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时48分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%AF%E5%8A%A8%E6%88%90%E7%AB%8B%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时48分]"
         }
       ]
     }
