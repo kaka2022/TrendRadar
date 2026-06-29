@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T13:25:55.783551+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-06-29T18:28:51.250612+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -96,7 +96,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -107,9 +107,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "日本防卫省正考虑引进美企人工智能系统",
+          "url": "https://wallstreetcn.com/livenews/3126063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
@@ -137,6 +159,18 @@
           "time_info": "[07时01分 ~ 08时12分]"
         },
         {
+          "title": "清华姚班UP主详解AI专业就业",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 18时28分]"
+        },
+        {
           "title": "富达国际资深股票分析师：具身智能投资从追本体转向掘金细分产业链",
           "url": "https://wallstreetcn.com/livenews/3125681",
           "source": "华尔街见闻-快讯",
@@ -154,11 +188,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 18时28分]"
         },
         {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
@@ -185,17 +220,6 @@
           "time_info": "[01时02分 ~ 03时07分]"
         },
         {
-          "title": "清华姚班UP主详解AI专业就业",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
           "title": "华泰证券：大宗化工景气修复可期 电子化学品受益AI与国产替代",
           "url": "https://flash.jin10.com/detail/20260629074021303800",
           "source": "金十数据",
@@ -213,9 +237,53 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "马斯克：Grok 4.5内测已比肩Opus，今年每月都发布一个全新大模型！",
+          "url": "https://www.cls.cn/detail/2411430",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "当一个人的创造力加上 AI 杠杆，这代年轻人能做出多有趣的事来？",
+          "url": "https://www.zhihu.com/roundtable/opc",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "国务院：推进人工智能全学段教育 提升学生人工智能素养",
+          "url": "https://wallstreetcn.com/livenews/3126041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
+          "url": "https://wallstreetcn.com/livenews/3126032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "豆包收费了，你还会用吗？",
@@ -224,9 +292,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "英国消费者健康公司Haleon：协议支持在业务中更广泛地采用人工智能驱动的工具。",
+          "url": "https://flash.jin10.com/detail/20260629173454903800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
@@ -246,7 +325,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
@@ -254,7 +333,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "抖音潮流舞蹈大赛成都站",
@@ -269,6 +348,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 13时25分]"
+        },
+        {
+          "title": "快招发力?勇哥餐饮直播被封",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355695&amp;topic_name=%E5%BF%AB%E6%8B%9B%E5%8F%91%E5%8A%9B%3F%E5%8B%87%E5%93%A5%E9%A4%90%E9%A5%AE%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            13,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 18时28分]"
         },
         {
           "title": "抖音封禁诋毁杂交技术的网红账号",
@@ -287,18 +381,15 @@
           "time_info": "[01时02分 ~ 13时25分]"
         },
         {
-          "title": "快招发力?勇哥餐饮直播被封",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355695&amp;topic_name=%E5%BF%AB%E6%8B%9B%E5%8F%91%E5%8A%9B%3F%E5%8B%87%E5%93%A5%E9%A4%90%E9%A5%AE%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81",
-          "source": "贴吧",
+          "title": "在抖音追公路文太上头了",
+          "url": "https://www.douyin.com/hot/2551507",
+          "source": "抖音",
           "ranks": [
-            11,
-            12,
-            13,
-            20
+            5
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 13时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "吴珈庆夺冠后发抖音",
@@ -317,11 +408,23 @@
           "url": "https://www.douyin.com/hot/2551206",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 18时28分]"
+        },
+        {
+          "title": "如何评价二路解说 Wayward 直播称「CS 比赛最精彩其次才是别的」，被批「吃 LoL 饭还砸锅」后被约谈？",
+          "url": "https://www.zhihu.com/question/2054620004147111471",
+          "source": "知乎",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "18时28分"
         },
         {
           "title": "温峥嵘直播回应恶评",
