@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-07-01T04:54:24.606645+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-07-01T06:12:02.484462+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "AI热情驱动，标普、纳指创2020年来最佳单季表现，原油承压",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 06时12分]"
+        },
+        {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时12分]"
+        },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3775797",
@@ -14,17 +37,6 @@
           "ranks": [
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时54分]"
-        },
-        {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
-          "source": "财联社热门",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -87,6 +99,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "“大空头”迈克尔·伯里做空AI与芯片板块",
+          "url": "https://flash.jin10.com/detail/20260701050629588800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
           "title": "Anthropic：安全测试显示Claude Sonnet 5较Sonnet 4.6有所提升。该模型已在所有Claude套餐上线，并通过Claude Code及Claude平台提供使用。",
           "url": "https://flash.jin10.com/detail/20260701020523134800",
           "source": "金十数据",
@@ -123,7 +146,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -133,8 +156,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时12分]"
         },
         {
           "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
@@ -146,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：发布适用于macOS的Gemini Spark，并扩展了应用程序集成。",
+          "url": "https://flash.jin10.com/detail/20260701050716207800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "谷歌公司：在Google Slides中使用Gemini生成多页演示文稿。",
@@ -174,8 +208,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时12分]"
         },
         {
           "title": "哈兰德把抖音当朋友圈发",
@@ -187,8 +221,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时12分]"
         }
       ]
     },
@@ -202,11 +236,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时12分]"
         }
       ]
     },
@@ -239,8 +274,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时12分]"
         }
       ]
     }
