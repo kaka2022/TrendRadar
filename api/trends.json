@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T02:52:39.842233+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-07-01T04:54:24.606645+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时54分]"
         },
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时54分]"
         },
         {
           "title": "终于明白AI免费和订阅的区别了",
@@ -49,7 +49,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -71,7 +71,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -93,7 +93,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -104,7 +104,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -133,8 +133,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时54分]"
         },
         {
           "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
@@ -143,7 +143,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -170,11 +170,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时54分]"
         },
         {
           "title": "哈兰德把抖音当朋友圈发",
@@ -182,11 +183,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时54分]"
         }
       ]
     },
@@ -203,8 +205,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时54分]"
         }
       ]
     },
@@ -237,8 +239,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时54分]"
         }
       ]
     }
