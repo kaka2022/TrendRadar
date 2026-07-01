@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T19:56:05.378459+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-07-01T22:15:41.171613+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 43,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时02分 ~ 19时56分]"
+          "appearance_count": 8,
+          "time_info": "[08时02分 ~ 22时15分]"
         },
         {
           "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
@@ -28,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 19时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 22时15分]"
         },
         {
           "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
@@ -38,11 +39,12 @@
           "ranks": [
             14,
             4,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 19时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 22时15分]"
         },
         {
           "title": "AI进入下半场：模型不再稀缺",
@@ -91,15 +93,39 @@
           "time_info": "[16时46分 ~ 19时56分]"
         },
         {
+          "title": "人形机器人",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "Anthropic将Kimi K2.7与Opus 4.8、GPT-5.5纳入同场安全测试",
           "url": "https://wallstreetcn.com/livenews/3127389",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
+        },
+        {
+          "title": "magixx残局1v4纪念彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=magixx%E6%AE%8B%E5%B1%801v4%E7%BA%AA%E5%BF%B5%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时46分 ~ 22时15分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -150,16 +176,16 @@
           "time_info": "[16时46分 ~ 19时56分]"
         },
         {
-          "title": "magixx残局1v4纪念彩蛋",
-          "url": "https://search.bilibili.com/all?keyword=magixx%E6%AE%8B%E5%B1%801v4%E7%BA%AA%E5%BF%B5%E5%BD%A9%E8%9B%8B",
-          "source": "bilibili 热搜",
+          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
+          "url": "https://www.cls.cn/detail/2414015",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            16
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时46分 ~ 19时56分]"
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 22时15分]"
         },
         {
           "title": "终于明白AI免费和订阅的区别了",
@@ -194,17 +220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时46分 ~ 16时47分]"
-        },
-        {
-          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
-          "url": "https://www.cls.cn/detail/2414015",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "万物 Agent 的时代，拥有「手搓精神」的人都「长什么样」？",
@@ -383,6 +398,50 @@
           "time_info": "08时02分"
         },
         {
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "美联储主席沃什：美国不惧怕生产力驱动的经济增长。 AI模型改进的变化率是指数级的。 关于AI对就业影响的时间节点，存在严重疑问。 必须在就业和物价稳定方面都取得成效。",
+          "url": "https://wallstreetcn.com/livenews/3127452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "AI漫剧 好看",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%AB%E5%89%A7%20%E5%A5%BD%E7%9C%8B&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "曾因AI裁员，如今雇主们却开始后悔",
+          "url": "https://wallstreetcn.com/livenews/3127456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "Anthropic：安全测试显示Claude Sonnet 5较Sonnet 4.6有所提升。该模型已在所有Claude套餐上线，并通过Claude Code及Claude平台提供使用。",
           "url": "https://flash.jin10.com/detail/20260701020523134800",
           "source": "金十数据",
@@ -414,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美联储主席沃什：AI是否具有通胀效应，应由央行来决定。 货币政策会在我们的经济体之间产生溢出效应。 AI的蓬勃发展在美国表现得最为突出。 供给扩张将对政策产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3127450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
@@ -449,6 +519,28 @@
           "time_info": "12时25分"
         },
         {
+          "title": "越来越多公司证明AI无法替代人工",
+          "url": "https://www.toutiao.com/trending/7657394487626416137/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "儿童正快速接受人工智能",
+          "url": "https://www.baidu.com/s?wd=%E5%84%BF%E7%AB%A5%E6%AD%A3%E5%BF%AB%E9%80%9F%E6%8E%A5%E5%8F%97%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "马来西亚总理：政府正在准备人工智能治理法案，以规范人机未来。",
           "url": "https://flash.jin10.com/detail/20260701112605647800",
           "source": "金十数据",
@@ -469,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "算力租赁商Nebius和CoreWeave盘前跌超9%，此前报道称，Meta筹划进军云计算市场，以出售富余的AI算力资源。",
+          "url": "https://wallstreetcn.com/livenews/3127442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "IMF官员预警AI相关债务杠杆，称比估值更令人担忧",
@@ -496,7 +599,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "博主爆料明星集体失业成常态，流量明星无戏可拍，目前影视行业现状到底怎么样？",
@@ -514,6 +617,18 @@
           "time_info": "[00时18分 ~ 12时25分]"
         },
         {
+          "title": "直播丨庆祝中国共产党成立105周年大会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33478561",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时46分 ~ 22时15分]"
+        },
+        {
           "title": "哈兰德把抖音当朋友圈发",
           "url": "https://www.douyin.com/hot/2552878",
           "source": "抖音",
@@ -525,18 +640,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 08时02分]"
-        },
-        {
-          "title": "直播丨庆祝中国共产党成立105周年大会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33478561",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时46分 ~ 19时56分]"
         },
         {
           "title": "《新闻联播》正在直播",
@@ -556,7 +659,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -578,9 +681,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
+        },
+        {
+          "title": "吴柳芳还清40万外债后首开带货直播",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%9F%B3%E8%8A%B3%E8%BF%98%E6%B8%8540%E4%B8%87%E5%A4%96%E5%80%BA%E5%90%8E%E9%A6%96%E5%BC%80%E5%B8%A6%E8%B4%A7%E7%9B%B4%E6%92%AD%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "沈小婷回归抖音第一条视频",
+          "url": "https://www.douyin.com/hot/2554748",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },
@@ -606,7 +731,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -647,7 +772,7 @@
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "冷狗破防骂粉,大B直接切割",
@@ -658,8 +783,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时46分 ~ 19时56分]"
+          "appearance_count": 5,
+          "time_info": "[16时46分 ~ 22时15分]"
         },
         {
           "title": "世界上倒数第一有眼力见的小狗",
@@ -682,12 +807,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时46分 ~ 16时47分]"
+        },
+        {
+          "title": "爷爷离世相伴13年的狗狗垂泪相守",
+          "url": "https://www.toutiao.com/trending/7656777952897679401/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "爷爷离世相伴13年的老狗绝食7天",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%A6%BB%E4%B8%96%E7%9B%B8%E4%BC%B413%E5%B9%B4%E7%9A%84%E8%80%81%E7%8B%97%E7%BB%9D%E9%A3%9F7%E5%A4%A9%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
@@ -702,6 +849,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 08时02分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
+          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },
@@ -733,7 +891,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         }
