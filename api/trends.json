@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T03:43:20.865588+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-07-02T05:22:05.914854+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时22分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时22分]"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -38,20 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时43分]"
-        },
-        {
-          "title": "人工智能冲击婚纱影楼",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB%E5%A9%9A%E7%BA%B1%E5%BD%B1%E6%A5%BC&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时22分]"
         },
         {
           "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
@@ -61,8 +49,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时22分]"
+        },
+        {
+          "title": "人工智能冲击婚纱影楼",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB%E5%A9%9A%E7%BA%B1%E5%BD%B1%E6%A5%BC&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时22分]"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
@@ -70,11 +71,34 @@
           "source": "今日头条",
           "ranks": [
             22,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时22分]"
+        },
+        {
+          "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
+          "url": "https://www.zhihu.com/question/2055677703194403478",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 05时22分]"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 05时22分]"
         },
         {
           "title": "magixx残局1v4纪念彩蛋",
@@ -105,7 +129,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -116,7 +140,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -138,7 +162,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -149,7 +173,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -179,8 +203,33 @@
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "全自动收椅机器狗来了",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E8%87%AA%E5%8A%A8%E6%94%B6%E6%A4%85%E6%9C%BA%E5%99%A8%E7%8B%97%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时22分]"
+        },
+        {
+          "title": "冷狗破防骂粉,大B直接切割",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355795&amp;topic_name=%E5%86%B7%E7%8B%97%E7%A0%B4%E9%98%B2%E9%AA%82%E7%B2%89%2C%E5%A4%A7B%E7%9B%B4%E6%8E%A5%E5%88%87%E5%89%B2",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时22分]"
+        },
         {
           "title": "野狗骨头",
           "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4&t=31&band_rank=8&Refer=top",
@@ -194,39 +243,55 @@
           "time_info": "[01时09分 ~ 03时43分]"
         },
         {
-          "title": "全自动收椅机器狗来了",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E8%87%AA%E5%8A%A8%E6%94%B6%E6%A4%85%E6%9C%BA%E5%99%A8%E7%8B%97%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时43分]"
-        },
-        {
-          "title": "冷狗破防骂粉,大B直接切割",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355795&amp;topic_name=%E5%86%B7%E7%8B%97%E7%A0%B4%E9%98%B2%E9%AA%82%E7%B2%89%2C%E5%A4%A7B%E7%9B%B4%E6%8E%A5%E5%88%87%E5%89%B2",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时43分]"
-        },
-        {
           "title": "小狗理发被剪成芒果核",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E7%90%86%E5%8F%91%E8%A2%AB%E5%89%AA%E6%88%90%E8%8A%92%E6%9E%9C%E6%A0%B8&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 05时22分]"
+        },
+        {
+          "title": "爷爷离世相伴13年的狗狗垂泪相守",
+          "url": "https://www.toutiao.com/trending/7656777952897679401/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 05时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
+          "url": "https://flash.jin10.com/detail/20260702041739954800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "05时22分"
+        },
+        {
+          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
+          "url": "https://flash.jin10.com/detail/20260702041320467800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         }
       ]
     },
@@ -242,8 +307,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时22分]"
         },
         {
           "title": "美国官员：（阐述政府对霍尔木兹海峡的看法）美方评估霍尔木兹海峡约1000万桶石油流量或削弱伊朗石油影响力。",
@@ -268,11 +333,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时22分]"
         }
       ]
     },
@@ -287,7 +353,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
