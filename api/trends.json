@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T04:58:06.169587+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-07-03T06:05:26.744371+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
         },
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -26,8 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
+        },
+        {
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
         },
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -38,19 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
-        },
-        {
-          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
-          "url": "https://wallstreetcn.com/articles/3776029",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -60,8 +61,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
+        },
+        {
+          "title": "美国总统特朗普：不管人工智能是好是坏， 我们已经用上这项技术了。",
+          "url": "https://flash.jin10.com/detail/20260703053547693800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
         },
         {
           "title": "Meta Platforms(META.O)CEO：2026年初，高管们曾担心在人工智能领域“行动不够迅速”。",
@@ -92,7 +117,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -104,18 +129,6 @@
             7,
             12,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
-        },
-        {
-          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
-          "url": "https://www.cls.cn/detail/2415407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -139,11 +152,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时33分 ~ 06时05分]"
         },
         {
           "title": "美国AI三大巨头争抢哲学家",
@@ -169,6 +183,17 @@
           "time_info": "[01时33分 ~ 03时14分]"
         },
         {
+          "title": "美国总统特朗普：美国必须在人工智能领域领先。",
+          "url": "https://flash.jin10.com/detail/20260703053041502800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
           "title": "Meta Platforms(META.O)CEO：过去四个月里，AI智能体的开发并未“如我们预期的那样加速”。",
           "url": "https://flash.jin10.com/detail/20260703025612811800",
           "source": "金十数据",
@@ -178,6 +203,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "美国总统特朗普：无论好坏，我们都有AI。",
+          "url": "https://wallstreetcn.com/livenews/3128236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
+          "url": "https://wallstreetcn.com/articles/3776055",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
+          "url": "https://www.cls.cn/detail/2415788",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
@@ -208,7 +266,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -222,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "Meta回应鼠标追踪软件审查结果：员工数据未被用于AI训练",
+          "url": "https://flash.jin10.com/detail/20260703051247176800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "微软动员6000名员工，助客户采用AI技术",
@@ -241,7 +310,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -252,7 +321,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -263,7 +332,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -274,7 +343,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -285,7 +354,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -296,7 +365,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -307,7 +376,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -318,7 +387,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -344,11 +413,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355828&amp;topic_name=B%E7%AB%99Up%E4%B8%BB%E8%A2%AB%E9%AA%82%2C%E5%8F%8D%E6%89%8B%E7%82%AB%E5%A4%A7%E5%B9%B3%E5%B1%82",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
         },
         {
           "title": "七一庆祝大会直播幕后揭秘",
@@ -357,11 +427,12 @@
           "ranks": [
             24,
             23,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
         },
         {
           "title": "学姐我注册抖音号了",
@@ -369,11 +440,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
         },
         {
           "title": "哈兰德破纪录后发了5条抖音",
@@ -382,11 +454,12 @@
           "ranks": [
             25,
             26,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
         },
         {
           "title": "影视飓风 直播事故",
@@ -415,8 +488,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时05分]"
         },
         {
           "title": "野狗骨头定档",
@@ -465,11 +538,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
@@ -478,11 +552,12 @@
           "ranks": [
             19,
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
@@ -490,18 +565,41 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时05分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国总统特朗普被问及OpenAI股份时，提到了英特尔(INTC.O)股份（美国政府入股了英特尔）。",
+          "url": "https://flash.jin10.com/detail/20260703053218844800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
+          "url": "https://wallstreetcn.com/livenews/3128237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
         {
           "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
           "url": "https://flash.jin10.com/detail/20260703004456845800",
