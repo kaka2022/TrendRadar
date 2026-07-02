@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:55:59.380430+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-07-02T20:06:20.481330+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 17时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 20时06分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -39,11 +39,12 @@
             6,
             17,
             22,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 17时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 20时06分]"
         },
         {
           "title": "人工智能冲击婚纱影楼",
@@ -101,11 +102,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 20时06分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -113,11 +115,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 20时06分]"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -127,8 +130,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 20时06分]"
         },
         {
           "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
@@ -136,11 +139,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 20时06分]"
         },
         {
           "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
@@ -153,6 +157,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 07时06分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时06分]"
         },
         {
           "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
@@ -177,6 +193,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 14时34分]"
+        },
+        {
+          "title": "AI已出现欺骗行为 联合国发出警告",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%AC%BA%E9%AA%97%E8%A1%8C%E4%B8%BA+%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时06分]"
+        },
+        {
+          "title": "高盛反驳AI泡沫“三大担忧”，看好这三大主题！",
+          "url": "https://www.cls.cn/detail/2415001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时06分]"
         },
         {
           "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
@@ -218,7 +258,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -234,15 +274,26 @@
           "time_info": "07时06分"
         },
         {
-          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
-          "url": "https://www.cls.cn/detail/2415416",
+          "title": "小雨智造首发具身智能焊接机器人，起售价16.98万",
+          "url": "https://wallstreetcn.com/livenews/3128006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "20时06分"
         },
         {
           "title": "昆仑万维：天工AI业务ARR突破8亿美元",
@@ -256,6 +307,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "AI行情促使投资再平衡 外资从亚洲股市撤回创纪录的1370亿美元",
           "url": "https://flash.jin10.com/detail/20260702100642712800",
           "source": "金十数据",
@@ -267,17 +329,6 @@
           "time_info": "10时35分"
         },
         {
-          "title": "高盛反驳AI泡沫“三大担忧”，看好这三大主题！",
-          "url": "https://www.cls.cn/detail/2415001",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "报道：SpaceX开发出类似手机的AI原型机",
           "url": "https://wallstreetcn.com/livenews/3127573",
           "source": "华尔街见闻-快讯",
@@ -287,17 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
-        },
-        {
-          "title": "AI已出现欺骗行为 联合国发出警告",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%AC%BA%E9%AA%97%E8%A1%8C%E4%B8%BA+%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "马斯克否认《华尔街日报》报道，该报道称SpaceX(SPCX.O)曾向投资者展示新型人工智能设备的原型。",
@@ -328,7 +368,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -342,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "好多人为啥根本意识不到，就算 AI 崩盘，消费级 DDR 内存也不会暴跌至远低于 2024 年的低位价格？",
+          "url": "https://www.zhihu.com/question/2052018919150450628",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         },
         {
           "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
@@ -388,6 +439,28 @@
           "time_info": "01时10分"
         },
         {
+          "title": "市场大跌AI行情要结束了吗",
+          "url": "https://www.toutiao.com/trending/7657850303982603827/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "Uber震动AI数据标注业务，解雇两位高层主管",
           "url": "https://wallstreetcn.com/livenews/3127510",
           "source": "华尔街见闻-快讯",
@@ -402,7 +475,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "直播丨庆祝中国共产党成立105周年大会",
@@ -416,6 +489,17 @@
           "time_info": "[01时09分 ~ 10时35分]"
         },
         {
+          "title": "B站Up主被骂,反手炫大平层",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355828&amp;topic_name=B%E7%AB%99Up%E4%B8%BB%E8%A2%AB%E9%AA%82%2C%E5%8F%8D%E6%89%8B%E7%82%AB%E5%A4%A7%E5%B9%B3%E5%B1%82",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时06分]"
+        },
+        {
           "title": "清华院系公众号已被删除孩童毕业照",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E9%99%A2%E7%B3%BB%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B7%B2%E8%A2%AB%E5%88%A0%E9%99%A4%E5%AD%A9%E7%AB%A5%E6%AF%95%E4%B8%9A%E7%85%A7%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -425,17 +509,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
-        },
-        {
-          "title": "B站Up主被骂,反手炫大平层",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355828&amp;topic_name=B%E7%AB%99Up%E4%B8%BB%E8%A2%AB%E9%AA%82%2C%E5%8F%8D%E6%89%8B%E7%82%AB%E5%A4%A7%E5%B9%B3%E5%B1%82",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "小红书遭前高管举报，被指存在 VIE 信披矛盾和用工漏洞等问题，会对其 IPO 产生哪些影响？",
@@ -463,6 +536,29 @@
           "time_info": "[14时34分 ~ 17时55分]"
         },
         {
+          "title": "影视飓风 直播事故",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%20%E7%9B%B4%E6%92%AD%E4%BA%8B%E6%95%85&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时06分]"
+        },
+        {
+          "title": "GMA文成正在直播中",
+          "url": "https://flash.jin10.com/detail/20260702193101933800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "美国官员：（阐述政府对霍尔木兹海峡的看法）美方评估霍尔木兹海峡约1000万桶石油流量或削弱伊朗石油影响力。",
           "url": "https://flash.jin10.com/detail/20260702002830646800",
           "source": "金十数据",
@@ -485,6 +581,17 @@
           "time_info": "10时35分"
         },
         {
+          "title": "七一庆祝大会直播幕后揭秘",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%83%E4%B8%80%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E7%9B%B4%E6%92%AD%E5%B9%95%E5%90%8E%E6%8F%AD%E7%A7%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "港股科网股反弹走强，美团(03690.HK)涨近7%，京东(09618.HK)涨超5%，快手(01024.HK)、阿里巴巴(09988.HK)等跟涨。",
           "url": "https://flash.jin10.com/detail/20260702094751675800",
           "source": "金十数据",
@@ -496,21 +603,21 @@
           "time_info": "10时35分"
         },
         {
-          "title": "影视飓风 直播事故",
-          "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%20%E7%9B%B4%E6%92%AD%E4%BA%8B%E6%95%85&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "学姐我注册抖音号了",
+          "url": "https://www.douyin.com/hot/2555545",
+          "source": "抖音",
           "ranks": [
-            26
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "20时06分"
         }
       ]
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "冷狗破防骂粉,大B直接切割",
@@ -581,11 +688,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时06分]"
         },
         {
           "title": "丽江一“狗咖”数十只哈士奇遭遗弃",
@@ -594,9 +702,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "百花杀灿如繁星野狗骨头对打",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E6%9D%80%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E5%AF%B9%E6%89%93%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         }
       ]
     },
@@ -664,7 +783,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
@@ -710,7 +829,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
