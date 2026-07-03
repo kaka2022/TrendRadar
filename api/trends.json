@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-03T07:59:24.683919+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-07-03T10:54:58.043987+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 38,
+      "match_count": 46,
       "titles": [
-        {
-          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
-          "url": "https://www.cls.cn/detail/2415523",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 07时59分]"
-        },
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
           "url": "https://www.cls.cn/detail/2415670",
           "source": "财联社热门",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时33分 ~ 10时54分]"
+        },
+        {
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时33分 ~ 10时54分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -97,7 +97,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -124,6 +124,17 @@
           "time_info": "[01时33分 ~ 04时58分]"
         },
         {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
           "title": "Meta Platforms(META.O)CTO：对鼠标追踪数据安全事件的初步审查表明，人工智能训练中并未包含任何员工数据。",
           "url": "https://flash.jin10.com/detail/20260703041855479800",
           "source": "金十数据",
@@ -133,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "AI演员已经能演出情绪变化了",
@@ -174,6 +196,18 @@
           "time_info": "[03时14分 ~ 04时58分]"
         },
         {
+          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
+          "url": "https://www.cls.cn/detail/2415788",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时05分 ~ 10时54分]"
+        },
+        {
           "title": "美国AI三大巨头争抢哲学家",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
           "source": "百度热搜",
@@ -191,17 +225,6 @@
           "ranks": [
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时05分 ~ 07时59分]"
-        },
-        {
-          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
-          "url": "https://www.cls.cn/detail/2415788",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -253,6 +276,28 @@
           "time_info": "06时05分"
         },
         {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
+          "url": "https://www.cls.cn/detail/2415850",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3128176",
           "source": "华尔街见闻-快讯",
@@ -295,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "Meta回应鼠标追踪软件审查结果：员工数据未被用于AI训练",
@@ -380,7 +436,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -418,6 +474,28 @@
           "time_info": "04时58分"
         },
         {
+          "title": "A股创业板指涨逾1%，人形机器人、军工、黄金等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260703100647967800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "特朗普发AI视频变身医生开可乐药方",
+          "url": "https://www.toutiao.com/trending/7657679186635030554/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
           "title": "可灵AI落地近30亿美元融资，创全球视频大模型公司融资规模新纪录",
           "url": "https://wallstreetcn.com/livenews/3128134",
           "source": "华尔街见闻-快讯",
@@ -435,15 +513,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "A股人形机器人板块持续走强，凯龙高科20CM涨停，埃斯顿、卧龙电驱等多股涨停，拓斯达、绿的谐波、长盛轴承、上纬新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703100554853800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "B站Up主被骂,反手炫大平层",
@@ -451,11 +540,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时33分 ~ 10时54分]"
         },
         {
           "title": "七一庆祝大会直播幕后揭秘",
@@ -466,11 +556,12 @@
             23,
             18,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时33分 ~ 10时54分]"
         },
         {
           "title": "学姐我注册抖音号了",
@@ -480,11 +571,12 @@
             20,
             30,
             28,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时33分 ~ 10时54分]"
         },
         {
           "title": "哈兰德破纪录后发了5条抖音",
@@ -495,11 +587,12 @@
             26,
             27,
             24,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时33分 ~ 10时54分]"
         },
         {
           "title": "影视飓风 直播事故",
@@ -512,6 +605,91 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时33分 ~ 03时14分]"
+        },
+        {
+          "title": "西安地铁摆旗寨站地名被指传抄失误，未央区作协公众号刊文呼吁还原为白起站",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33505290",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "港股快手(01024.HK)盘中转跌，早盘一度涨逾6%。",
+          "url": "https://flash.jin10.com/detail/20260703101920327800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "德国牧羊犬因不放毛绒大象未过考核",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E7%89%A7%E7%BE%8A%E7%8A%AC%E5%9B%A0%E4%B8%8D%E6%94%BE%E6%AF%9B%E7%BB%92%E5%A4%A7%E8%B1%A1%E6%9C%AA%E8%BF%87%E8%80%83%E6%A0%B8&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时13分 ~ 07时59分]"
+        },
+        {
+          "title": "野狗骨头定档",
+          "url": "https://www.douyin.com/hot/2556131",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 03时14分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
+          "url": "https://wallstreetcn.com/livenews/3128161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时14分]"
+        },
+        {
+          "title": "野狗骨头拍出了宋威龙的死角",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%8B%8D%E5%87%BA%E4%BA%86%E5%AE%8B%E5%A8%81%E9%BE%99%E7%9A%84%E6%AD%BB%E8%A7%92%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "加拿大男孩接触蝙蝠感染狂犬病死亡",
+          "url": "https://www.toutiao.com/trending/7657098662221496371/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
@@ -559,61 +737,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "德国牧羊犬因不放毛绒大象未过考核",
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E7%89%A7%E7%BE%8A%E7%8A%AC%E5%9B%A0%E4%B8%8D%E6%94%BE%E6%AF%9B%E7%BB%92%E5%A4%A7%E8%B1%A1%E6%9C%AA%E8%BF%87%E8%80%83%E6%A0%B8&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时13分 ~ 07时59分]"
-        },
-        {
-          "title": "野狗骨头定档",
-          "url": "https://www.douyin.com/hot/2556131",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时33分 ~ 03时14分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
-          "url": "https://wallstreetcn.com/livenews/3128161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时14分]"
-        },
-        {
-          "title": "野狗骨头拍出了宋威龙的死角",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%8B%8D%E5%87%BA%E4%BA%86%E5%AE%8B%E5%A8%81%E9%BE%99%E7%9A%84%E6%AD%BB%E8%A7%92%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
         }
       ]
     },
