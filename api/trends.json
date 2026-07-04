@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T06:52:12.345235+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-07-05T07:56:07.922147+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "豆包、千问：将下线智能体功能",
@@ -15,8 +15,35 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时56分]"
+        },
+        {
+          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
+          "url": "https://wallstreetcn.com/articles/3776196",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时56分]"
+        },
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -31,31 +58,6 @@
           "time_info": "[00时06分 ~ 06时52分]"
         },
         {
-          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
-          "url": "https://wallstreetcn.com/articles/3776196",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时52分]"
-        },
-        {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时52分]"
-        },
-        {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
           "url": "https://www.cls.cn/detail/2417079",
           "source": "财联社热门",
@@ -64,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -75,8 +77,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时56分]"
+        },
+        {
+          "title": "经纬度：具身智能进入“从1到100”的爆发期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511330",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
@@ -85,18 +100,6 @@
           "ranks": [
             18,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时52分]"
-        },
-        {
-          "title": "经纬度：具身智能进入“从1到100”的爆发期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511330",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -113,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时52分]"
+        },
+        {
+          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+          "url": "https://wallstreetcn.com/articles/3776203",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 07时56分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -140,11 +154,12 @@
             15,
             5,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "野狗骨头",
@@ -154,11 +169,12 @@
             17,
             13,
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时12分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[03时12分 ~ 07时56分]"
         },
         {
           "title": "网红狗狗现场观看阿根廷vs佛得角",
@@ -217,11 +233,12 @@
           "url": "https://www.zhihu.com/question/2050992107284964141",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 06时52分]"
+          "appearance_count": 4,
+          "time_info": "[06时51分 ~ 07时56分]"
         }
       ]
     }
