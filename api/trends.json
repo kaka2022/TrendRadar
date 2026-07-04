@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T05:52:26.732468+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-07-05T06:52:12.345235+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时52分]"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时52分]"
         },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -39,19 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时52分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时52分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -63,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时52分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -75,8 +64,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时52分]"
+        },
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时52分]"
+          "time_info": "[00时06分 ~ 06时52分]"
         },
         {
           "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
@@ -87,8 +87,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时52分]"
         },
         {
           "title": "经纬度：具身智能进入“从1到100”的爆发期",
@@ -99,8 +99,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时52分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -139,11 +139,12 @@
             18,
             15,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时52分]"
         },
         {
           "title": "野狗骨头",
@@ -152,11 +153,12 @@
           "ranks": [
             17,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[03时12分 ~ 06时52分]"
         },
         {
           "title": "网红狗狗现场观看阿根廷vs佛得角",
@@ -203,6 +205,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时58分 ~ 05时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么现在 DeepSeek 快速模式豆包化？",
+          "url": "https://www.zhihu.com/question/2050992107284964141",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 06时52分]"
         }
       ]
     }
