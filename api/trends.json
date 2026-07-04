@@ -1,725 +1,155 @@
 {
-  "generated_at": "2026-07-04T23:02:27.600710+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-07-05T00:06:40.540956+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 44,
+      "match_count": 9,
       "titles": [
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
+          "title": "豆包、千问：将下线智能体功能",
+          "url": "https://wallstreetcn.com/articles/3776193",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 07时09分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时08分 ~ 23时02分]"
-        },
-        {
-          "title": "4名大学生出题 AI考了0分",
-          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E9%A2%98+AI%E8%80%83%E4%BA%860%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 07时09分]"
-        },
-        {
-          "title": "豆包、千问：将下线智能体功能",
-          "url": "https://wallstreetcn.com/articles/3776193",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时13分 ~ 23时02分]"
-        },
-        {
-          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
-          "url": "https://www.cls.cn/detail/2417079",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时16分 ~ 23时02分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时16分 ~ 14时13分]"
-        },
-        {
-          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2056394331271999624",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18,
-            16,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时16分 ~ 10时08分]"
-        },
-        {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 04时56分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 07时09分]"
-        },
-        {
-          "title": "曝阿里7月10日起全面禁用Claude",
-          "url": "https://www.toutiao.com/trending/7658254613019102783/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            7,
-            10,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 07时09分]"
-        },
-        {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 07时09分]"
-        },
-        {
-          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2056384180200498322",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 07时09分]"
-        },
-        {
-          "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时00分 ~ 07时09分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
           "url": "https://wallstreetcn.com/articles/3776196",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
+          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
+          "url": "https://www.cls.cn/detail/2417079",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时01分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
           "url": "https://wallstreetcn.com/livenews/3128944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 23时02分]"
-        },
-        {
-          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
-          "url": "https://wallstreetcn.com/articles/3776091",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 04时56分]"
-        },
-        {
-          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
-          "url": "https://wallstreetcn.com/livenews/3128844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时01分 ~ 10时08分]"
-        },
-        {
-          "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
-          "url": "https://wallstreetcn.com/livenews/3128806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
-          "url": "https://wallstreetcn.com/livenews/3128834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 07时09分]"
-        },
-        {
-          "title": "常州市市长周伟调研人工智能上游产业",
-          "url": "https://flash.jin10.com/detail/20260704100159012800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 14时13分]"
-        },
-        {
-          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
-          "url": "https://wallstreetcn.com/livenews/3128832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 07时09分]"
-        },
-        {
-          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
-          "url": "https://flash.jin10.com/detail/20260704095032353800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 14时13分]"
-        },
-        {
-          "title": "Meta股价因AI进展不及预期下跌",
-          "url": "https://www.douyin.com/hot/2556589",
-          "source": "抖音",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 03时07分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
-          "title": "韩国AI大跃进",
-          "url": "https://wallstreetcn.com/articles/3776121",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 10时08分]"
-        },
-        {
-          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
-          "url": "https://wallstreetcn.com/livenews/3128826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 07时09分]"
-        },
-        {
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://wallstreetcn.com/articles/3776134",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 14时13分]"
-        },
-        {
-          "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
-          "url": "https://wallstreetcn.com/livenews/3128913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时21分]"
-        },
-        {
-          "title": "曝摄像头AirPodsPro项目暂停",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%91%84%E5%83%8F%E5%A4%B4AirPodsPro%E9%A1%B9%E7%9B%AE%E6%9A%82%E5%81%9C%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33517511",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
-        },
-        {
-          "title": "韩国政府趁热打铁：斥资312万亿韩元在东南地区打造物理AI中心",
-          "url": "https://www.cls.cn/detail/2416582",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
-          "url": "https://flash.jin10.com/detail/20260704084017236800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "无界动力张玉峰：2025年全球人形机器人产量约2万台 商用落地仍接近空白",
-          "url": "https://flash.jin10.com/detail/20260704111528600800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
-          "url": "https://flash.jin10.com/detail/20260704150630005800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "time_info": "00时06分"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
           "url": "https://flash.jin10.com/detail/20260704205119305800",
           "source": "金十数据",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "Claude：正在调查多个模型中出现的异常错误。",
-          "url": "https://flash.jin10.com/detail/20260704083232326800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "00时06分"
         },
         {
-          "title": "豆包智能体功能将下线",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%99%BA%E8%83%BD%E4%BD%93%E5%8A%9F%E8%83%BD%E5%B0%86%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "经纬度：具身智能进入“从1到100”的爆发期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511330",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "如何看待传统导演扎堆入局 AI 影视，是行业风口还是影视行业再也离不开 AI 了？",
-          "url": "https://www.zhihu.com/question/2056439444681515610",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "千问：拟人化互动类智能体及用户自建智能体功能将于7月10日正式下线",
-          "url": "https://wallstreetcn.com/livenews/3128878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://wallstreetcn.com/livenews/3128902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "千问：拟人化互动类智能体及用户自建智能体功能将于7月10日正式下线",
-          "url": "https://flash.jin10.com/detail/20260704102911165800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "豆包：智能体功能将于7月15日下线",
-          "url": "https://flash.jin10.com/detail/20260704101207903800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "豆包：智能体功能将于7月15日下线",
-          "url": "https://wallstreetcn.com/livenews/3128874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "豆包千问建议提前备份重要内容",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E5%8D%83%E9%97%AE%E5%BB%BA%E8%AE%AE%E6%8F%90%E5%89%8D%E5%A4%87%E4%BB%BD%E9%87%8D%E8%A6%81%E5%86%85%E5%AE%B9%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "UP主流量大挑战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B5%81%E9%87%8F%E5%A4%A7%E6%8C%91%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            18,
-            24,
-            29,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时16分 ~ 23时02分]"
-        },
-        {
-          "title": "B站Up主被骂,反手炫大平层",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355828&amp;topic_name=B%E7%AB%99Up%E4%B8%BB%E8%A2%AB%E9%AA%82%2C%E5%8F%8D%E6%89%8B%E7%82%AB%E5%A4%A7%E5%B9%B3%E5%B1%82",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            22,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时16分 ~ 21时06分]"
-        },
-        {
-          "title": "《新闻联播》正在直播",
-          "url": "https://www.toutiao.com/trending/7658623926741929510/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
-        },
-        {
-          "title": "媒体评699分农家女孩被自媒体围堵",
-          "url": "https://www.toutiao.com/trending/7658598386362224170/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时06分]"
-        },
-        {
-          "title": "法国队入驻B站",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%E9%98%9F%E5%85%A5%E9%A9%BBB%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时13分 ~ 17时17分]"
-        },
-        {
-          "title": "如何评价 2026 年 7 月米哈游《崩坏星穹铁道》4.4 版本前瞻直播【鸣笛于归寂之时】？",
-          "url": "https://www.zhihu.com/question/2056095293502969435",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "time_info": "00时06分"
         }
       ]
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.33%，暂报2234.25点，上周五结束交易以来（7*24）累计上涨5.08%，6月27-30日低位持稳于2100点附近，7月1-3日持续上扬。 MarketVectorTM数字资产100中盘指数涨1.85%，报2573.64点，最近七天累涨3.75%。 MarketVector数字资产100指数涨0.95%，报12402.25点，最近七天累涨4.56%。 目前，Solana涨0.64%、最近七天迄今累涨13%，狗狗币涨2.98%、最近七天迄今累涨1.37%，XRP涨2.77%、、最近七天迄今累涨6.81%。 比特币涨0.85%，暂报62032.74美元，最近七天迄今累涨4.07%；以太坊涨1.97%，暂报1732.62美元，最近七天迄今累涨10.49%。",
-          "url": "https://wallstreetcn.com/livenews/3128802",
-          "source": "华尔街见闻-快讯",
+          "title": "网红狗狗现场观看阿根廷vs佛得角",
+          "url": "https://www.toutiao.com/trending/7658505561717260329/",
+          "source": "今日头条",
           "ranks": [
-            6,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时07分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "5条狗出逃3小时内致1死1伤主人获刑",
           "url": "https://www.toutiao.com/trending/7658262930987565119/",
           "source": "今日头条",
           "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
-        },
-        {
-          "title": "外卖员送餐途中救起落水小狗",
-          "url": "https://www.toutiao.com/trending/7657702502019743790/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
-        },
-        {
-          "title": "野狗骨头 我让你现在亲我你敢吗",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%20%E6%88%91%E8%AE%A9%E4%BD%A0%E7%8E%B0%E5%9C%A8%E4%BA%B2%E6%88%91%E4%BD%A0%E6%95%A2%E5%90%97&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时13分"
+          "time_info": "00时06分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
+          "title": "UP主流量大挑战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B5%81%E9%87%8F%E5%A4%A7%E6%8C%91%E6%88%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时13分 ~ 21时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宇树高管谈具身智能ChatGPT时刻",
-          "url": "https://flash.jin10.com/detail/20260704110855518800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "宠物 宠物经济 宠物寄养 宠物食品 宠物医疗 宠物美容 宠物保险 猫粮 狗粮 宠物智能用品 宠物殡葬 携宠出行",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "赖清德吃狗粮，还称赞“味道很棒、很香”",
-          "url": "https://news.ifeng.com/c/8uSxVxGG2cv",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时16分 ~ 10时08分]"
+          "time_info": "00时06分"
         }
       ]
     }
