@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T01:01:48.755578+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-06T02:07:19.347453+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776219",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时07分]"
         },
         {
           "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时07分]"
         },
         {
           "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
@@ -36,9 +37,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 02时07分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -48,19 +49,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时07分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时07分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -70,8 +72,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时07分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -81,8 +83,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时07分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -91,9 +93,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 02时07分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -102,15 +104,15 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 02时07分]"
         }
       ]
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "野狗骨头收视率",
@@ -120,19 +122,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时07分]"
         },
         {
           "title": "野狗骨头开播",
           "url": "https://www.douyin.com/hot/2559137",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时07分]"
         },
         {
           "title": "野狗骨头没错这就是南方烧烤",
@@ -155,34 +158,58 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时00分 ~ 01时01分]"
+        },
+        {
+          "title": "野狗骨头cp名 陈靖可",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4cp%E5%90%8D%20%E9%99%88%E9%9D%96%E5%8F%AF&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         }
       ]
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "番茄新书流量下滑 48.4%，起点付费读者暴跌 10 万，网文是在衰退吗？",
           "url": "https://www.zhihu.com/question/2056035813520102531",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时07分]"
         },
         {
           "title": "哈兰德发抖音晒赛前新发型",
           "url": "https://www.douyin.com/hot/2559690",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时07分]"
+        },
+        {
+          "title": "全抖音网友都在问难题",
+          "url": "https://www.douyin.com/hot/2559151",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         }
       ]
     },
@@ -195,11 +222,29 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宠物 宠物经济 宠物寄养 宠物食品 宠物医疗 宠物美容 宠物保险 猫粮 狗粮 宠物智能用品 宠物殡葬 携宠出行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "是否要学赖清德吃宠物肉干？李四川幽默回应",
+          "url": "https://news.ifeng.com/c/8uWUrBywt2Z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         }
       ]
     }
