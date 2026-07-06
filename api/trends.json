@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T06:56:39.045389+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-07-06T08:02:04.944403+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,51 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时02分]"
         },
         {
           "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
           "url": "https://www.cls.cn/detail/2417200",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时02分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时02分]"
+        },
+        {
+          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2417353",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时02分]"
         },
         {
           "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
@@ -36,11 +65,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 08时02分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -54,41 +84,17 @@
           "time_info": "[01时00分 ~ 06时56分]"
         },
         {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时56分]"
-        },
-        {
-          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2417353",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时56分]"
-        },
-        {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
           "url": "https://wallstreetcn.com/livenews/3129011",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 08时02分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -109,11 +115,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 08时02分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -152,11 +159,12 @@
             23,
             21,
             30,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时02分]"
         },
         {
           "title": "野狗骨头收视率",
@@ -171,6 +179,19 @@
           "time_info": "[01时00分 ~ 04时08分]"
         },
         {
+          "title": "野狗骨头",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 08时02分]"
+        },
+        {
           "title": "野狗骨头cp名 陈靖可",
           "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4cp%E5%90%8D%20%E9%99%88%E9%9D%96%E5%8F%AF&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -181,18 +202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时07分 ~ 04时08分]"
-        },
-        {
-          "title": "野狗骨头",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时55分]"
         },
         {
           "title": "野狗骨头没错这就是南方烧烤",
@@ -230,11 +239,12 @@
             14,
             6,
             7,
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时02分]"
         },
         {
           "title": "哈兰德发抖音晒赛前新发型",
@@ -267,11 +277,12 @@
           "url": "https://www.douyin.com/hot/2559690",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 08时02分]"
         }
       ]
     },
@@ -288,8 +299,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时02分]"
         }
       ]
     },
@@ -305,8 +316,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时07分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[02时07分 ~ 08时02分]"
         }
       ]
     }
