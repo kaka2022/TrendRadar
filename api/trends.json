@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T16:14:35.872971+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-07-06T20:40:47.773208+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -56,11 +56,12 @@
             10,
             11,
             15,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时00分 ~ 16时14分]"
+          "appearance_count": 12,
+          "time_info": "[01时00分 ~ 20时40分]"
         },
         {
           "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
@@ -161,6 +162,30 @@
           "time_info": "[05时55分 ~ 08时02分]"
         },
         {
+          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
+          "url": "https://www.cls.cn/detail/2417841",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时40分]"
+        },
+        {
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时40分]"
+        },
+        {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
           "url": "https://wallstreetcn.com/livenews/3128984",
           "source": "华尔街见闻-快讯",
@@ -183,37 +208,26 @@
           "time_info": "[11时53分 ~ 11时54分]"
         },
         {
-          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776245",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
           "title": "首届全球人工智能治理对话在日内瓦举行，将聚焦四大优先事项",
           "url": "https://wallstreetcn.com/livenews/3129238",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
         {
-          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
-          "url": "https://www.cls.cn/detail/2417841",
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "20时40分"
         },
         {
           "title": "AI芯片牛市遇关键考验：三星财报成“情绪分水岭”",
@@ -227,13 +241,24 @@
           "time_info": "11时54分"
         },
         {
+          "title": "Reddit利用AI打击网站上的AI营销垃圾信息。",
+          "url": "https://wallstreetcn.com/livenews/3129376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "机构：AI高端MLCC激励日韩大厂订单出货比创新高，下半年缺货风险提升",
           "url": "https://wallstreetcn.com/livenews/3129218",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -244,9 +269,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "德福科技：拟定增募资不超过28亿元，用于5万吨人工智能高端电子电路AI铜箔项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3129358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "谁在提前退出AI盛宴",
@@ -263,7 +299,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "番茄新书流量下滑 48.4%，起点付费读者暴跌 10 万，网文是在衰退吗？",
@@ -287,7 +323,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -306,6 +342,19 @@
           "time_info": "[01时00分 ~ 05时55分]"
         },
         {
+          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 20时40分]"
+        },
+        {
           "title": "全抖音网友都在问难题",
           "url": "https://www.douyin.com/hot/2559151",
           "source": "抖音",
@@ -316,18 +365,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时07分 ~ 06时56分]"
-        },
-        {
-          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 16时14分]"
         },
         {
           "title": "哈兰德发抖音晒赛前理发照",
@@ -342,6 +379,28 @@
           "time_info": "[06时56分 ~ 08时02分]"
         },
         {
+          "title": "金十交易学院正在直播中",
+          "url": "https://flash.jin10.com/detail/20260706202011091800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "GMA助教梦梦正在直播中",
+          "url": "https://flash.jin10.com/detail/20260706201104420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "恒生科技指数上涨1%。零跑汽车涨超6%，快手、小鹏集团、京东健康涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3129103",
           "source": "华尔街见闻-快讯",
@@ -353,6 +412,28 @@
           "time_info": "11时54分"
         },
         {
+          "title": "抖音电商运动消费趋势报告：观赛季足球相关商品成交额同比增长113%",
+          "url": "https://wallstreetcn.com/livenews/3129370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "哈兰德抖音粉丝突破500万",
+          "url": "https://www.douyin.com/hot/2560737",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "港股科网股走强，腾讯控股(00700.HK)、快手(01024.HK)、阿里健康(00241.HK)涨超5%，美团(03690.HK)涨3.5%，阿里巴巴(09988.HK)、哔哩哔哩(09626.HK)涨2.8%，京东(09618.HK)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260706110012085800",
           "source": "金十数据",
@@ -362,12 +443,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "交易学院直播中",
+          "url": "https://flash.jin10.com/detail/20260706200035928800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "野狗骨头开播",
@@ -443,6 +535,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时00分 ~ 01时01分]"
+        },
+        {
+          "title": "美国国庆日为何举行吃热狗比赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%BA%86%E6%97%A5%E4%B8%BA%E4%BD%95%E4%B8%BE%E8%A1%8C%E5%90%83%E7%83%AD%E7%8B%97%E6%AF%94%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
