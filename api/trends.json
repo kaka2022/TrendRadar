@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T19:41:06.517162+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-07-07T22:13:00.066135+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
@@ -31,6 +31,18 @@
           "time_info": "[00时14分 ~ 08时02分]"
         },
         {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时44分 ~ 22时12分]"
+        },
+        {
           "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
           "url": "https://www.cls.cn/detail/2418780",
           "source": "财联社热门",
@@ -38,18 +50,6 @@
             9,
             5,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 19时41分]"
-        },
-        {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -117,6 +117,28 @@
           "time_info": "12时45分"
         },
         {
+          "title": "我国人形机器人整机产量有望破十万台",
+          "url": "https://www.toutiao.com/trending/7659749336267640329/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "人形机器人成高端制造出口新名片",
+          "url": "https://www.douyin.com/hot/2562518",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "xAI将旗下X账号更名为SpaceXAI。",
           "url": "https://flash.jin10.com/detail/20260707042933753800",
           "source": "金十数据",
@@ -126,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "上海市消保委：今年上半年共享租赁和AI相关投诉频发",
+          "url": "https://wallstreetcn.com/livenews/3130042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "前苹果员工创办的中国AI眼镜公司获腾讯、美团投资，估值达10亿美元",
@@ -259,7 +292,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -275,15 +308,37 @@
           "time_info": "12时45分"
         },
         {
+          "title": "报道：智谱考虑自研AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3130039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "荷兰国际集团：科技投资者重新审视AI投资",
           "url": "https://flash.jin10.com/detail/20260707190544697800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
+          "url": "https://wallstreetcn.com/articles/3776368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850566&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/1kpbDlnwLmXOUl-HjThIH.jpg/lite\" height=\"120\"/></a>",
@@ -295,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "纳指波动率已创逾二十年新高！AI交易拥挤拉响警报",
+          "url": "https://flash.jin10.com/detail/20260707212807719800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "英国监管机构审查凸显金融服务AI风险",
@@ -328,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "李开复：AI迈入决策时代，一号位主导推进AI将改善经营业绩表现",
+          "url": "https://wallstreetcn.com/livenews/3130028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "Solstice斥资145亿美元收购Element Solutions，进一步聚焦AI市场",
@@ -476,7 +553,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
@@ -502,22 +579,23 @@
           "time_info": "[19时40分 ~ 19时41分]"
         },
         {
+          "title": "哈兰德抖音粉丝数超过挪威人口",
+          "url": "https://www.douyin.com/hot/2562452",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时12分]"
+        },
+        {
           "title": "套现超百亿元 腾讯大幅减持快手退出主要股东行列",
           "url": "https://www.cls.cn/detail/2418836",
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
-        },
-        {
-          "title": "哈兰德抖音粉丝数超过挪威人口",
-          "url": "https://www.douyin.com/hot/2562452",
-          "source": "抖音",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -555,6 +633,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
+          "title": "小红书上市前夕被前员工举报",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B8%8A%E5%B8%82%E5%89%8D%E5%A4%95%E8%A2%AB%E5%89%8D%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "如何看待郭德纲直播称「儿子三个月不回家，让郭麒麟剧组导演跪着等自己」，父子俩到底谁在较劲？",
+          "url": "https://www.zhihu.com/question/2057250524936852697",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "港股午评：科指冲高回落半日跌0.28% 快手跌9.5%",
@@ -604,7 +704,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -616,8 +716,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 19时41分]"
+          "appearance_count": 7,
+          "time_info": "[12时44分 ~ 22时12分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -633,6 +733,30 @@
           "time_info": "[12时44分 ~ 19时41分]"
         },
         {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时12分]"
+        },
+        {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时12分]"
+        },
+        {
           "title": "前华为天才少年吐槽DeepSeek面试",
           "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -642,28 +766,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
-        },
-        {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "DeepSeek面试",
@@ -686,12 +788,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
+          "title": "DeepSeek被曝自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "曾舜晞抱孟子义的狗自拍",
@@ -717,6 +830,17 @@
           "time_info": "[19时40分 ~ 19时41分]"
         },
         {
+          "title": "野狗骨头这段我真昏天地暗了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E8%BF%99%E6%AE%B5%E6%88%91%E7%9C%9F%E6%98%8F%E5%A4%A9%E5%9C%B0%E6%9A%97%E4%BA%86%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.01%，暂报2257.60点，北京时间20:00以来呈现出V形反转走势。 MarketVectorTM数字资产100中盘指数涨1.70%，报2633.91点。 MarketVector数字资产100指数涨1.36，报12739.11点。 目前，Solana涨1.30%，狗狗币跌0.65%，XRP涨1.43%。 比特币涨1.50%，暂报63675.80美元；以太坊涨0.65%，暂报1791.66美元。",
           "url": "https://wallstreetcn.com/livenews/3129509",
           "source": "华尔街见闻-快讯",
@@ -726,6 +850,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Alphabet旗下谷歌公司宣布，已向总部位于德国的Proxima Fusion提供4.11亿欧元（约合4.68亿美元）的融资，支持其建造欧洲首座商业聚变发电厂。",
+          "url": "https://wallstreetcn.com/livenews/3130034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     }
