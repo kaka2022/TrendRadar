@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T01:24:51.071911+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-07-09T03:12:52.457136+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时12分]"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时12分]"
         },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -37,8 +37,41 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时12分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时12分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时12分]"
+        },
+        {
+          "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
+          "url": "https://wallstreetcn.com/livenews/3130843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时12分"
         },
         {
           "title": "看空AI就是踏空？私募又争起来了，没买过AI的有什么资格吹哨？",
@@ -52,15 +85,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "xAI：Grok 4.5目前尚未在欧盟上线，未接入SpaceX旗下任何xAI产品，也未开放至API控制台；预计7月中旬在欧盟推出可用服务。",
+          "url": "https://flash.jin10.com/detail/20260709023953811800",
+          "source": "金十数据",
           "ranks": [
-            15
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时12分"
         },
         {
           "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
@@ -85,17 +118,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
           "title": "淡马锡投资组合价值突破4000亿美元，对AI的押注提升回报率",
           "url": "https://wallstreetcn.com/livenews/3130810",
           "source": "华尔街见闻-快讯",
@@ -110,7 +132,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -150,11 +172,51 @@
           "url": "https://www.zhihu.com/question/2058166406420460573",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时12分]"
+        },
+        {
+          "title": "OpenAI推出GPT-Live语音模型",
+          "url": "https://wallstreetcn.com/livenews/3130838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宠物 宠物经济 宠物寄养 宠物食品 宠物医疗 宠物美容 宠物保险 猫粮 狗粮 宠物智能用品 宠物殡葬 携宠出行",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "猫粮品牌回应疑致小猫瘫痪",
+          "url": "https://www.baidu.com/s?wd=%E7%8C%AB%E7%B2%AE%E5%93%81%E7%89%8C%E5%9B%9E%E5%BA%94%E7%96%91%E8%87%B4%E5%B0%8F%E7%8C%AB%E7%98%AB%E7%97%AA",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "千只瘫痪小猫超65%吃同一品牌猫粮",
+          "url": "https://www.toutiao.com/trending/7659979082461265956/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     },
@@ -170,8 +232,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时12分]"
         },
         {
           "title": "为什么今年「一人一车房车自驾游」逐渐消失在自媒体视野中？",
@@ -195,11 +257,12 @@
           "url": "https://www.zhihu.com/question/2058168270499176758",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时12分]"
         }
       ]
     },
