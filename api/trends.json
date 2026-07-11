@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T22:24:52.048532+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-07-11T23:47:52.868238+08:00",
+  "total_titles_processed": 1544,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时54分 ~ 22时24分]"
+          "appearance_count": 14,
+          "time_info": "[06时54分 ~ 23时47分]"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -40,6 +40,19 @@
           "time_info": "[00时18分 ~ 17时21分]"
         },
         {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时58分 ~ 23时47分]"
+        },
+        {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
           "url": "https://wallstreetcn.com/articles/3776651",
           "source": "华尔街见闻",
@@ -54,19 +67,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时18分 ~ 15时12分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时58分 ~ 22时24分]"
         },
         {
           "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
@@ -93,6 +93,22 @@
           "time_info": "[00时18分 ~ 07时53分]"
         },
         {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 23时47分]"
+        },
+        {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
           "url": "https://wallstreetcn.com/articles/3776606",
           "source": "华尔街见闻",
@@ -115,21 +131,6 @@
           "time_info": "[06时54分 ~ 06时55分]"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 22时24分]"
-        },
-        {
           "title": "当哈佛学生高喊「f*ckAI」，复旦学生已开始考 AI，这反映了东西方教育理念对人工智能的何种差异？",
           "url": "https://www.zhihu.com/question/2057634712668082970",
           "source": "知乎",
@@ -139,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时58分 ~ 23时47分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -165,15 +177,16 @@
           "time_info": "[02时19分 ~ 04时17分]"
         },
         {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.toutiao.com/trending/7660829419656888339/",
-          "source": "今日头条",
+          "title": "当哈兰德遇到豆包",
+          "url": "https://www.douyin.com/hot/2567460",
+          "source": "抖音",
           "ranks": [
-            11
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 22时24分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时47分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -199,15 +212,27 @@
           "time_info": "[09时56分 ~ 17时21分]"
         },
         {
-          "title": "当哈兰德遇到豆包",
-          "url": "https://www.douyin.com/hot/2567460",
-          "source": "抖音",
+          "title": "重回AI一线？Meta单周大涨15%",
+          "url": "https://wallstreetcn.com/articles/3776692",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时24分]"
+          "time_info": "[22时24分 ~ 23时47分]"
+        },
+        {
+          "title": "全球主权财富基金加大对AI投资",
+          "url": "https://flash.jin10.com/detail/20260711213544573800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时47分]"
         },
         {
           "title": "《功夫女足》上映 AI预测总票房超10亿",
@@ -230,28 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 06时55分]"
-        },
-        {
-          "title": "重回AI一线？Meta单周大涨15%",
-          "url": "https://wallstreetcn.com/articles/3776692",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "全球主权财富基金加大对AI投资",
-          "url": "https://flash.jin10.com/detail/20260711213544573800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "日本砸钱抢印度AI精英赢面几何",
@@ -403,7 +406,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "怎样看待育碧紧急禁止《刺客信条：黑旗 记忆重置》的所有直播？",
@@ -439,11 +442,12 @@
           "url": "https://s.weibo.com/weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时47分]"
         },
         {
           "title": "如何评价《明日方舟终末地》相伴庆典‌「向渊行」版本前瞻节目直播？",
@@ -462,11 +466,23 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%9B%B4%E6%92%AD%E6%91%98%E5%81%87%E5%8F%91%E7%89%87%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时47分]"
+        },
+        {
+          "title": "记者直播时手机被台风吹走",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%9B%B4%E6%92%AD%E6%97%B6%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "23时47分"
         }
       ]
     },
@@ -492,9 +508,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宠物 宠物经济 宠物寄养 宠物食品 宠物医疗 宠物美容 宠物保险 猫粮 狗粮 宠物智能用品 宠物殡葬 携宠出行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多地出现宠物狗使用公共直饮水",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%AE%A0%E7%89%A9%E7%8B%97%E4%BD%BF%E7%94%A8%E5%85%AC%E5%85%B1%E7%9B%B4%E9%A5%AE%E6%B0%B4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         }
       ]
     }
