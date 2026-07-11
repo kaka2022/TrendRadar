@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T00:46:48.027712+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-12T01:49:17.052739+08:00",
+  "total_titles_processed": 338,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时49分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时49分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时49分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时49分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -59,19 +59,49 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时49分]"
         },
         {
           "title": "当哈兰德遇到豆包",
           "url": "https://www.douyin.com/hot/2567460",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "记者直播时手机被台风吹走",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%9B%B4%E6%92%AD%E6%97%B6%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时49分]"
+        },
+        {
+          "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33557236",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "01时49分"
         }
       ]
     },
@@ -84,28 +114,12 @@
           "url": "https://www.douyin.com/hot/2567260",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "记者直播时手机被台风吹走",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%9B%B4%E6%92%AD%E6%97%B6%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时49分]"
         }
       ]
     }
