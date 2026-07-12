@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T02:55:35.425065+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-07-13T04:04:18.457228+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -16,30 +16,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "维金斯抖音直播谈字母哥加盟",
           "url": "https://www.douyin.com/hot/2568025",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "台风把演出吹到线上，空场直播浪漫依旧",
           "url": "https://m.thepaper.cn/newsDetail_forward_33568963",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "霍尔木兹海峡商业航运流量大幅下降",
@@ -49,8 +51,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "全抖音都在鼓励哈兰德",
@@ -61,8 +63,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "鹿晗范志毅直播",
@@ -82,7 +84,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         }
@@ -100,8 +102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -111,8 +113,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -122,8 +124,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -133,8 +135,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
@@ -142,11 +144,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 02时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时04分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -174,8 +177,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "大狗叫是什么梗",
@@ -187,19 +190,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         },
         {
           "title": "洪水退去 狗狗踱步守候房子",
           "url": "https://www.baidu.com/s?wd=%E6%B4%AA%E6%B0%B4%E9%80%80%E5%8E%BB+%E7%8B%97%E7%8B%97%E8%B8%B1%E6%AD%A5%E5%AE%88%E5%80%99%E6%88%BF%E5%AD%90",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 04时04分]"
         }
       ]
     },
@@ -215,8 +219,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时04分]"
         }
       ]
     }
