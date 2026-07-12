@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T13:32:00.666234+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-07-12T16:05:08.367257+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 13时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 16时05分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 13时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 16时05分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -83,6 +83,18 @@
           "time_info": "[00时46分 ~ 07时47分]"
         },
         {
+          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
+          "url": "https://wallstreetcn.com/articles/3776704",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 16时05分]"
+        },
+        {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
@@ -93,6 +105,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 07时47分]"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 16时05分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -106,27 +129,16 @@
           "time_info": "[04时01分 ~ 05时43分]"
         },
         {
-          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
-          "url": "https://wallstreetcn.com/articles/3776704",
-          "source": "华尔街见闻",
+          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
+          "url": "https://wallstreetcn.com/livenews/3132380",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 13时32分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
+            10,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "time_info": "[13时32分 ~ 16时05分]"
         },
         {
           "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
@@ -140,6 +152,17 @@
           "time_info": "[13时31分 ~ 13时32分]"
         },
         {
+          "title": "机构：HBM4价格今年下半年或涨至4-5美元/千比特 AI需求与产能瓶颈致全球DRAM半数产能被大厂锁定",
+          "url": "https://flash.jin10.com/detail/20260712150627108800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "据福克斯新闻：人工智能连续第三个月成为美国裁员的主要原因。",
           "url": "https://flash.jin10.com/detail/20260712090326604800",
           "source": "金十数据",
@@ -151,15 +174,15 @@
           "time_info": "09时59分"
         },
         {
-          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
-          "url": "https://wallstreetcn.com/livenews/3132380",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国股市“便宜”未必是机会，AI热潮难掩周期性阴影",
+          "url": "https://flash.jin10.com/detail/20260712141642422800",
+          "source": "金十数据",
           "ranks": [
-            10
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "16时05分"
         }
       ]
     },
@@ -177,8 +200,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时49分 ~ 13时32分]"
+          "appearance_count": 13,
+          "time_info": "[01时49分 ~ 16时05分]"
         },
         {
           "title": "记者直播时手机被台风吹走",
@@ -210,6 +233,18 @@
           "time_info": "[02时50分 ~ 05时43分]"
         },
         {
+          "title": "全抖音都在鼓励哈兰德",
+          "url": "https://www.douyin.com/hot/2567817",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 16时05分]"
+        },
+        {
           "title": "章若楠直播摘假发片",
           "url": "https://www.toutiao.com/trending/7661259707227226175/",
           "source": "今日头条",
@@ -220,17 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时47分 ~ 09时59分]"
-        },
-        {
-          "title": "全抖音都在鼓励哈兰德",
-          "url": "https://www.douyin.com/hot/2567817",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "记者系安全绳直播 差点被吹跑",
@@ -258,18 +282,19 @@
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本死要面子,拟禁吃猫狗",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356111&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%AD%BB%E8%A6%81%E9%9D%A2%E5%AD%90%2C%E6%8B%9F%E7%A6%81%E5%90%83%E7%8C%AB%E7%8B%97",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 16时05分]"
         },
         {
           "title": "檀健次的小狗有多幸福",
@@ -293,6 +318,49 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "大狗叫是什么梗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%8B%97%E5%8F%AB%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
+          "url": "https://www.zhihu.com/question/2055029429290771542",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            7,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时50分 ~ 09时59分]"
+        },
+        {
+          "title": "商业航天“DeepSeek时刻”到了吗",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E2%80%9CDeepSeek%E6%97%B6%E5%88%BB%E2%80%9D%E5%88%B0%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
         }
       ]
     },
@@ -322,27 +390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 13时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
-          "url": "https://www.zhihu.com/question/2055029429290771542",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            7,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时50分 ~ 09时59分]"
         }
       ]
     }
