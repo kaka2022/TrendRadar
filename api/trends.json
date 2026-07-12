@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T04:04:18.457228+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-07-13T05:43:48.056272+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "维金斯抖音直播谈字母哥加盟",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "台风把演出吹到线上，空场直播浪漫依旧",
@@ -40,8 +40,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "霍尔木兹海峡商业航运流量大幅下降",
@@ -51,8 +51,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "全抖音都在鼓励哈兰德",
@@ -87,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "央视曝光家电直播测评骗局",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%AE%B6%E7%94%B5%E7%9B%B4%E6%92%AD%E6%B5%8B%E8%AF%84%E9%AA%97%E5%B1%80",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
@@ -102,8 +113,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -113,8 +124,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -124,8 +135,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -135,8 +146,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
@@ -177,8 +188,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "大狗叫是什么梗",
@@ -190,8 +201,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时43分]"
         },
         {
           "title": "洪水退去 狗狗踱步守候房子",
@@ -199,11 +210,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            27
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 05时43分]"
         }
       ]
     },
@@ -219,8 +231,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时43分]"
         }
       ]
     }
