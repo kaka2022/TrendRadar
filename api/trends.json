@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T16:05:08.367257+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-07-12T18:20:46.938735+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 16时05分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 18时20分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 16时05分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 18时20分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -88,11 +88,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 16时05分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 18时20分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
@@ -114,8 +115,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 16时05分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 18时20分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -134,11 +135,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 16时05分]"
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 18时20分]"
         },
         {
           "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
@@ -158,7 +160,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -180,7 +182,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         }
@@ -188,7 +190,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
@@ -220,6 +222,28 @@
           "time_info": "[00时46分 ~ 07时47分]"
         },
         {
+          "title": "BML线下现场会正在直播中",
+          "url": "https://search.bilibili.com/all?keyword=BML%E7%BA%BF%E4%B8%8B%E7%8E%B0%E5%9C%BA%E4%BC%9A%E6%AD%A3%E5%9C%A8%E7%9B%B4%E6%92%AD%E4%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "霍尔木兹海峡商业航运流量大幅下降",
+          "url": "https://wallstreetcn.com/livenews/3132413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "桃黑黑直播回应",
           "url": "https://s.weibo.com/weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -238,11 +262,12 @@
           "source": "抖音",
           "ranks": [
             19,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 16时05分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 18时20分]"
         },
         {
           "title": "章若楠直播摘假发片",
@@ -255,6 +280,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时47分 ~ 09时59分]"
+        },
+        {
+          "title": "蔡徐坤直播",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9B%B4%E6%92%AD&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "记者系安全绳直播 差点被吹跑",
@@ -277,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "霍尔木兹海峡商业航运流量大幅下降",
+          "url": "https://flash.jin10.com/detail/20260712165712446800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
@@ -293,8 +340,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 16时05分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 18时20分]"
         },
         {
           "title": "檀健次的小狗有多幸福",
@@ -333,6 +380,46 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时47分]"
+        },
+        {
+          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -361,35 +448,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时04分 ~ 16时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
-          "url": "https://flash.jin10.com/detail/20260712043502920800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时43分 ~ 07时47分]"
-        },
-        {
-          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
         }
       ]
     }
