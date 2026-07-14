@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T09:48:05.358339+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-07-14T12:45:25.081022+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 12时45分]"
         },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 12时45分]"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 12时45分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -87,13 +87,24 @@
           "time_info": "[01时10分 ~ 04时53分]"
         },
         {
+          "title": "AI预测法国vs西班牙赛果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "LG电子与GS E&C共同开发下一代AI家居解决方案",
           "url": "https://flash.jin10.com/detail/20260714094041891800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -104,9 +115,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "QuestMobile发布AI应用市场发展半年报，豆包月活居首",
+          "url": "https://wallstreetcn.com/livenews/3133308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
@@ -161,11 +183,12 @@
           "url": "https://www.douyin.com/hot/2570068",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时45分]"
         },
         {
           "title": "中国自研AI芯片取得架构突破",
@@ -234,6 +257,17 @@
           "time_info": "07时46分"
         },
         {
+          "title": "台风淹水致商铺狼藉图片为AI合成",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
           "url": "https://flash.jin10.com/detail/20260714043115058800",
           "source": "金十数据",
@@ -265,67 +299,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 4,
-      "titles": [
+        },
         {
-          "title": "两只小狗挑战同时按铃",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E5%8F%AA%E5%B0%8F%E7%8B%97%E6%8C%91%E6%88%98%E5%90%8C%E6%97%B6%E6%8C%89%E9%93%83",
-          "source": "bilibili 热搜",
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            16,
-            17,
-            13,
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "据英国金融时报：威尔士党(Plaid Cymru) 籍威尔士首席大臣向“未来首相”安迪·伯纳姆发起挑战，要求其通过向位于卡迪夫的威尔士政府下放一系列新权力，来证明其对权力下放政策的承诺。",
+          "url": "https://flash.jin10.com/detail/20260714120511509800",
+          "source": "金十数据",
+          "ranks": [
             22
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 09时48分]"
-        },
-        {
-          "title": "日本死要面子,拟禁吃猫狗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356111&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%AD%BB%E8%A6%81%E9%9D%A2%E5%AD%90%2C%E6%8B%9F%E7%A6%81%E5%90%83%E7%8C%AB%E7%8B%97",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 09时48分]"
-        },
-        {
-          "title": "暑假档只剩野狗骨头有广了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E6%A1%A3%E5%8F%AA%E5%89%A9%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%9C%89%E5%B9%BF%E4%BA%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.18%，暂报2156.48点。 MarketVectorTM数字资产100中盘指数跌3.47%，报2580.37点。 MarketVector数字资产100指数跌2.95%，报12395.59点。 目前，Solana跌3.03%，狗狗币跌2.52%，XRP跌2.91%。 比特币跌3.04%，暂报62208.11美元；以太坊跌2.78%，暂报1769.52美元。",
-          "url": "https://wallstreetcn.com/livenews/3133014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "12时45分"
         }
       ]
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "周星驰星女郎雪野入驻抖音",
@@ -333,11 +334,23 @@
           "source": "抖音",
           "ranks": [
             20,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 12时45分]"
+        },
+        {
+          "title": "于文文来B站了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E6%96%87%E6%96%87%E6%9D%A5B%E7%AB%99%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "佛得角门将涨粉断层第一",
@@ -364,6 +377,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "快手：近期累计拦截、整改、下架违规微短剧七百余部",
+          "url": "https://flash.jin10.com/detail/20260714120628903800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "佛得角门将涨粉断层第一",
           "url": "https://www.toutiao.com/trending/7661877724442050601/",
           "source": "今日头条",
@@ -373,6 +397,112 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "kpop史诗级直播被下架",
+          "url": "https://s.weibo.com/weibo?q=kpop%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%9B%B4%E6%92%AD%E8%A2%AB%E4%B8%8B%E6%9E%B6&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "两只小狗挑战同时按铃",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E5%8F%AA%E5%B0%8F%E7%8B%97%E6%8C%91%E6%88%98%E5%90%8C%E6%97%B6%E6%8C%89%E9%93%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            16,
+            17,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 12时45分]"
+        },
+        {
+          "title": "日本死要面子,拟禁吃猫狗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356111&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%AD%BB%E8%A6%81%E9%9D%A2%E5%AD%90%2C%E6%8B%9F%E7%A6%81%E5%90%83%E7%8C%AB%E7%8B%97",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 12时45分]"
+        },
+        {
+          "title": "暑假档只剩野狗骨头有广了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E6%A1%A3%E5%8F%AA%E5%89%A9%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%9C%89%E5%B9%BF%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.18%，暂报2156.48点。 MarketVectorTM数字资产100中盘指数跌3.47%，报2580.37点。 MarketVector数字资产100指数跌2.95%，报12395.59点。 目前，Solana跌3.03%，狗狗币跌2.52%，XRP跌2.91%。 比特币跌3.04%，暂报62208.11美元；以太坊跌2.78%，暂报1769.52美元。",
+          "url": "https://wallstreetcn.com/livenews/3133014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "野狗骨头前任初恋修罗场",
+          "url": "https://www.douyin.com/hot/2570608",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
+          "url": "https://flash.jin10.com/detail/20260714122538668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         }
       ]
     },
@@ -388,11 +518,12 @@
             18,
             11,
             8,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时16分 ~ 09时48分]"
+          "appearance_count": 10,
+          "time_info": "[03时16分 ~ 12时45分]"
         },
         {
           "title": "顾客带宠物犬上桌，店员未及时发现劝阻，沈阳市监部门：责令整改",
@@ -404,8 +535,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 12时45分]"
         }
       ]
     },
