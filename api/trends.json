@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T12:45:47.586775+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-07-15T15:09:46.633367+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 12时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 15时09分]"
         },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
@@ -57,8 +57,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 12时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 15时09分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -95,11 +95,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 15时09分]"
         },
         {
           "title": "UP主解读AI浪潮下的资本周期",
@@ -188,6 +189,18 @@
           "time_info": "[04时53分 ~ 05时51分]"
         },
         {
+          "title": "AI短剧以假乱真了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 15时09分]"
+        },
+        {
           "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
           "url": "https://flash.jin10.com/detail/20260715004912134800",
           "source": "金十数据",
@@ -271,9 +284,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "AI 编程时代，被誉为「软件工程圣经」的《人月神话》，有哪些理论过时了？",
+          "url": "https://www.zhihu.com/question/2058996805182960802",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "印媒：“悄然转向”，印度企业青睐中国AI大模型",
@@ -293,20 +317,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
         {
-          "title": "AI短剧以假乱真了",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "京东AI Agent与腾讯元宝正式打通小程序生态",
+          "url": "https://wallstreetcn.com/livenews/3134144",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时45分"
+          "time_info": "15时09分"
         },
         {
           "title": "为什么目前 AI 得设备是用 mac 为主，而不是熟知的 Windows？",
@@ -326,7 +350,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -433,7 +457,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -485,7 +509,7 @@
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "两只小狗挑战同时按铃",
@@ -500,6 +524,17 @@
           "time_info": "[01时06分 ~ 03时07分]"
         },
         {
+          "title": "“我一降价 你还不是像狗一样跑来”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E4%B8%80%E9%99%8D%E4%BB%B7+%E4%BD%A0%E8%BF%98%E4%B8%8D%E6%98%AF%E5%83%8F%E7%8B%97%E4%B8%80%E6%A0%B7%E8%B7%91%E6%9D%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 15时09分]"
+        },
+        {
           "title": "深度解析新剧野狗骨头",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E6%96%B0%E5%89%A7%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4",
           "source": "bilibili 热搜",
@@ -511,26 +546,26 @@
           "time_info": "04时53分"
         },
         {
-          "title": "“我一降价 你还不是像狗一样跑来”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E4%B8%80%E9%99%8D%E4%BB%B7+%E4%BD%A0%E8%BF%98%E4%B8%8D%E6%98%AF%E5%83%8F%E7%8B%97%E4%B8%80%E6%A0%B7%E8%B7%91%E6%9D%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
           "title": "野狗骨头车内吻戏",
           "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E8%BD%A6%E5%86%85%E5%90%BB%E6%88%8F&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "野狗骨头",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "贵阳一小区两只未牵绳德牧咬死柴犬",
@@ -576,28 +611,30 @@
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 15时09分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 15时09分]"
         }
       ]
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "大衣哥回应不注册抖音账号",
@@ -625,13 +662,24 @@
           "time_info": "09时44分"
         },
         {
+          "title": "kpl直播黑屏",
+          "url": "https://s.weibo.com/weibo?q=kpl%E7%9B%B4%E6%92%AD%E9%BB%91%E5%B1%8F&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "LOL怀旧服PBE直播",
           "url": "https://search.bilibili.com/all?keyword=LOL%E6%80%80%E6%97%A7%E6%9C%8DPBE%E7%9B%B4%E6%92%AD",
           "source": "bilibili 热搜",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         }
