@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T02:59:48.232348+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-07-16T04:10:57.476994+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -15,20 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时59分]"
-        },
-        {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 04时10分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -38,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 04时10分]"
         },
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
@@ -50,8 +38,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 04时10分]"
+        },
+        {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 04时10分]"
         },
         {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
@@ -81,11 +82,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 04时10分]"
         },
         {
           "title": "AI拿冠军,摄影比赛闹笑话",
@@ -95,8 +97,31 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 04时10分]"
+        },
+        {
+          "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
+          "url": "https://www.zhihu.com/question/2058593981005665566",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时59分]"
+          "time_info": "[02时59分 ~ 04时10分]"
+        },
+        {
+          "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
+          "url": "https://www.zhihu.com/question/2058593716542222509",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时10分]"
         },
         {
           "title": "据The Information：为推动公司安全体系和人工智能转型，微软(MSFT.O)新任安全负责人海耶特·加洛特已替换至少8名曾向前任安全负责人查理·贝尔汇报的高管。",
@@ -105,7 +130,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -127,7 +152,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -138,18 +163,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
-          "url": "https://www.zhihu.com/question/2058593981005665566",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -165,17 +179,6 @@
           "time_info": "01时09分"
         },
         {
-          "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
-          "url": "https://www.zhihu.com/question/2058593716542222509",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
           "title": "美联储主席沃什：如果AI企业让投资者感到失望，资本可能会枯竭。",
           "url": "https://wallstreetcn.com/livenews/3134505",
           "source": "华尔街见闻-快讯",
@@ -185,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "微软在安全业务更换八名高管、裁员数百人，将侧重于网络防御方面的AI。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3134561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         },
         {
           "title": "美联储主席沃什：美联储是一个由共识主导的机构，并没有所谓的“魔棒”（magic wand）。 美联储存在一系列意见，不希望依靠任何个别成员的意见。",
@@ -223,8 +237,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 04时10分]"
         },
         {
           "title": "成都一汽车销售门店让流浪狗乘凉",
@@ -233,7 +247,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -249,11 +263,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 04时10分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -263,8 +278,36 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 04时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
+          "url": "https://wallstreetcn.com/livenews/3134592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "谷歌公司下周将允许第三方应用商城登陆其应用商店。 谷歌在与Epic的官司中撤销了要求修改法院判决的诉求。",
+          "url": "https://wallstreetcn.com/livenews/3134515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         }
       ]
     },
@@ -278,39 +321,24 @@
           "source": "微博",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 04时10分]"
         },
         {
           "title": "雀骨抖音追剧团",
           "url": "https://www.douyin.com/hot/2572497",
           "source": "抖音",
           "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌公司下周将允许第三方应用商城登陆其应用商店。 谷歌在与Epic的官司中撤销了要求修改法院判决的诉求。",
-          "url": "https://wallstreetcn.com/livenews/3134515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            28,
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时10分]"
         }
       ]
     }
