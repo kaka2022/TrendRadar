@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T05:52:34.151492+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-07-16T06:53:06.382168+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时53分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时53分]"
         },
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时53分]"
         },
         {
           "title": "国行苹果AI完成备案",
@@ -52,8 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时53分]"
         },
         {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
@@ -67,15 +67,16 @@
           "time_info": "01时09分"
         },
         {
-          "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
-          "url": "https://wallstreetcn.com/livenews/3134622",
-          "source": "华尔街见闻-快讯",
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
           "ranks": [
-            2
+            15,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时53分]"
         },
         {
           "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
@@ -87,6 +88,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
+          "url": "https://wallstreetcn.com/livenews/3134622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时53分]"
         },
         {
           "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
@@ -103,16 +116,39 @@
           "time_info": "[01时09分 ~ 05时52分]"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
+          "title": "世界人工智能大会逛展攻略来了",
+          "url": "https://www.douyin.com/hot/2570881",
+          "source": "抖音",
           "ranks": [
-            15,
-            16
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 06时53分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 06时53分]"
+        },
+        {
+          "title": "xAI：Grok Build现在开源",
+          "url": "https://wallstreetcn.com/livenews/3134605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时53分]"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -124,6 +160,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 04时10分]"
+        },
+        {
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 06时53分]"
         },
         {
           "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
@@ -149,24 +196,13 @@
           "time_info": "02时59分"
         },
         {
-          "title": "世界人工智能大会逛展攻略来了",
-          "url": "https://www.douyin.com/hot/2570881",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
           "title": "SPACEXAI：开源Grok Build，SPACEXAI的编码代理和TUI。",
           "url": "https://flash.jin10.com/detail/20260716043259996800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -193,24 +229,13 @@
           "time_info": "02时59分"
         },
         {
-          "title": "xAI：Grok Build现在开源",
-          "url": "https://wallstreetcn.com/livenews/3134605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
           "title": "贝森特主持金融会议 聚焦地缘政治风险与AI主题",
           "url": "https://flash.jin10.com/detail/20260716042723261800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -262,7 +287,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -280,22 +305,24 @@
           "url": "https://wallstreetcn.com/livenews/3134609",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时53分]"
         },
         {
           "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
           "url": "https://wallstreetcn.com/livenews/3134608",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时53分]"
         },
         {
           "title": "谷歌公司下周将允许第三方应用商城登陆其应用商店。 谷歌在与Epic的官司中撤销了要求修改法院判决的诉求。",
@@ -307,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元；谷歌A涨3.17%，巴菲特称他启动了伯克希尔哈撒韦对谷歌母公司Alphabet的投资。 “超大”市值科技股指数涨1.12%，报446.55点。",
+          "url": "https://wallstreetcn.com/livenews/3134606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     },
@@ -321,11 +359,12 @@
           "ranks": [
             8,
             7,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 06时53分]"
         },
         {
           "title": "雀骨抖音追剧团",
@@ -334,22 +373,24 @@
           "ranks": [
             28,
             18,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[02时59分 ~ 06时53分]"
         },
         {
           "title": "为什么很多爆款心理文案是「伪心理学」？普通人辨别时容易踩哪些误区？",
           "url": "https://www.zhihu.com/question/2059920152658027762",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时53分]"
         },
         {
           "title": "NiKo更新B站直播切片",
@@ -358,9 +399,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时53分]"
         }
       ]
     },
@@ -368,6 +409,17 @@
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
       "match_count": 3,
       "titles": [
+        {
+          "title": "罗技分销商因发「像狗一样」辱客广告，被市场监管部门罚款 20 万，如何看待这一处罚结果？有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/2060545155124441600",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时53分]"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.21%，暂报2201.16点，北京时间20:48曾出现一波显著的拉升行情。 MarketVectorTM数字资产100中盘指数跌1.37%，报2601.54点，美股开盘前后冲高回落。 MarketVector数字资产100指数涨0.59%，报12956.63点。 目前，Solana涨0.31%，狗狗币跌0.62%，XRP持平。 比特币涨0.66%，暂报64969.74美元；以太坊涨1.95%，暂报1913.81美元。",
           "url": "https://wallstreetcn.com/livenews/3134531",
@@ -379,17 +431,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 02时59分]"
-        },
-        {
-          "title": "罗技分销商因发「像狗一样」辱客广告，被市场监管部门罚款 20 万，如何看待这一处罚结果？有哪些警示意义？",
-          "url": "https://www.zhihu.com/question/2060545155124441600",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时52分]"
         },
         {
           "title": "成都一汽车销售门店让流浪狗乘凉",
@@ -419,8 +460,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时53分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -428,11 +469,12 @@
           "source": "微博",
           "ranks": [
             11,
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时53分]"
         }
       ]
     }
