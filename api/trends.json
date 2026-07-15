@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T06:53:06.382168+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-07-16T07:54:01.832531+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时54分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时54分]"
         },
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时54分]"
         },
         {
           "title": "国行苹果AI完成备案",
@@ -49,11 +50,25 @@
             2,
             4,
             8,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时54分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时54分]"
         },
         {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
@@ -67,16 +82,18 @@
           "time_info": "01时09分"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
+          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
+          "url": "https://www.zhihu.com/question/2053497628416030104",
+          "source": "知乎",
           "ranks": [
-            15,
-            16
+            18,
+            11,
+            10,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时53分]"
+          "time_info": "[01时09分 ~ 07时54分]"
         },
         {
           "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
@@ -95,25 +112,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时54分]"
         },
         {
-          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
-          "url": "https://www.zhihu.com/question/2053497628416030104",
-          "source": "知乎",
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            11,
             10,
-            19
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时52分]"
+          "time_info": "[06时52分 ~ 07时54分]"
+        },
+        {
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时52分 ~ 07时54分]"
         },
         {
           "title": "世界人工智能大会逛展攻略来了",
@@ -128,15 +155,15 @@
           "time_info": "[01时09分 ~ 06时53分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
+          "title": "小米人形机器人",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
+          "time_info": "[07时53分 ~ 07时54分]"
         },
         {
           "title": "xAI：Grok Build现在开源",
@@ -162,17 +189,6 @@
           "time_info": "[02时59分 ~ 04时10分]"
         },
         {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
-        },
-        {
           "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
           "url": "https://www.zhihu.com/question/2058593716542222509",
           "source": "知乎",
@@ -194,6 +210,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "英伟达：推出全新Jetson Thor计算机，以推进主流机器人技术和边缘人工智能（Edge AI）。 日本企业正利用NVIDIA Nemotron开源模型构建AI模型。 使用NVIDIA Nemotron的公司包括引能仕、NTT DATA和日立。 扩大与丰田的合作伙伴关系，以推进汽车、机器人和城市领域的具身智能。",
+          "url": "https://wallstreetcn.com/livenews/3134643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "SpaceXAI宣布开源Grok Build",
+          "url": "https://flash.jin10.com/detail/20260716071515031800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "SPACEXAI：开源Grok Build，SPACEXAI的编码代理和TUI。",
@@ -249,6 +287,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：与丰田扩大合作伙伴关系，推动汽车、机器人和城市领域的物理人工智能发展。",
+          "url": "https://flash.jin10.com/detail/20260716070324992800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：日本公司正在使用英伟达的Nemotron以构建人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260716070209815800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "美联储主席沃什：如果AI企业让投资者感到失望，资本可能会枯竭。",
@@ -342,7 +402,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         }
@@ -360,11 +420,12 @@
             8,
             7,
             10,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 07时54分]"
         },
         {
           "title": "雀骨抖音追剧团",
@@ -374,11 +435,12 @@
             28,
             18,
             26,
-            27
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时59分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[02时59分 ~ 07时54分]"
         },
         {
           "title": "为什么很多爆款心理文案是「伪心理学」？普通人辨别时容易踩哪些误区？",
@@ -389,19 +451,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时52分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[05时52分 ~ 07时54分]"
         },
         {
           "title": "NiKo更新B站直播切片",
           "url": "https://search.bilibili.com/all?keyword=NiKo%E6%9B%B4%E6%96%B0B%E7%AB%99%E7%9B%B4%E6%92%AD%E5%88%87%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时52分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[05时52分 ~ 07时54分]"
         }
       ]
     },
@@ -417,8 +480,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时54分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.21%，暂报2201.16点，北京时间20:48曾出现一波显著的拉升行情。 MarketVectorTM数字资产100中盘指数跌1.37%，报2601.54点，美股开盘前后冲高回落。 MarketVector数字资产100指数涨0.59%，报12956.63点。 目前，Solana涨0.31%，狗狗币跌0.62%，XRP持平。 比特币涨0.66%，暂报64969.74美元；以太坊涨1.95%，暂报1913.81美元。",
@@ -450,6 +513,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            19,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时54分]"
+        },
+        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
@@ -458,19 +535,6 @@
             12,
             11,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时53分]"
-        },
-        {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            19,
-            12
           ],
           "is_new": false,
           "appearance_count": 6,
