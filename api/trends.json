@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T17:51:54.090056+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-07-17T19:17:56.897044+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 81,
+      "match_count": 87,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 17时51分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 19时17分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -66,6 +66,29 @@
           "time_info": "[01时07分 ~ 07时54分]"
         },
         {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://www.cls.cn/detail/2429309",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 19时17分]"
+        },
+        {
+          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
+          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 19时17分]"
+        },
+        {
           "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
           "url": "https://www.zhihu.com/question/2061204677446964906",
           "source": "知乎",
@@ -79,16 +102,30 @@
           "time_info": "[13时12分 ~ 17时51分]"
         },
         {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://www.cls.cn/detail/2429309",
+          "title": "国家发改委发布《人工智能合作发展行动计划》",
+          "url": "https://www.cls.cn/detail/2429332",
           "source": "财联社热门",
           "ranks": [
-            4,
-            1
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时12分 ~ 17时51分]"
+          "time_info": "[15时56分 ~ 19时17分]"
+        },
+        {
+          "title": "2026世界人工智能大会有哪些不同",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 19时17分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
@@ -104,29 +141,6 @@
           "time_info": "[01时07分 ~ 09时58分]"
         },
         {
-          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
-          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 17时51分]"
-        },
-        {
-          "title": "国家发改委发布《人工智能合作发展行动计划》",
-          "url": "https://www.cls.cn/detail/2429332",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 17时51分]"
-        },
-        {
           "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
           "url": "https://www.zhihu.com/question/2060635206651065501",
           "source": "知乎",
@@ -138,19 +152,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时07分 ~ 05时58分]"
-        },
-        {
-          "title": "2026世界人工智能大会有哪些不同",
-          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 17时51分]"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -210,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "2026世界人工智能大会何以圈粉",
+          "url": "https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BD%95%E4%BB%A5%E5%9C%88%E7%B2%89%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时17分]"
         },
         {
           "title": "财联社、科创板日报记者探营WAIC 2026：从超节点算力到进厂机器人 AI与物理世界开启“无界融合”",
@@ -279,9 +291,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "UP主手搓WAIC逛展小助手",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "世界人工智能大会今天开幕",
@@ -295,17 +318,6 @@
           "time_info": "13时12分"
         },
         {
-          "title": "2026世界人工智能大会何以圈粉",
-          "url": "https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BD%95%E4%BB%A5%E5%9C%88%E7%B2%89%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "AI站稳产业圈顶流C位",
           "url": "https://www.douyin.com/hot/2574370",
           "source": "抖音",
@@ -315,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
+        },
+        {
+          "title": "中国拉群搞AI,28国兄弟入伙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "中国企业发布全球最大规模的开源模型Kimi K3",
@@ -356,9 +379,36 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
+          "url": "https://wallstreetcn.com/articles/3777138",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 19时17分]"
+        },
+        {
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 19时17分]"
         },
         {
           "title": "财晓得｜中国AI跑出加速度背后的四重底气",
@@ -387,8 +437,20 @@
           "time_info": "[07时54分 ~ 13时12分]"
         },
         {
-          "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
-          "url": "https://wallstreetcn.com/articles/3777138",
+          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://wallstreetcn.com/articles/3777168",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时17分]"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
           "source": "华尔街见闻",
           "ranks": [
             10,
@@ -397,20 +459,45 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时12分 ~ 17时51分]"
+          "time_info": "[15时56分 ~ 19时17分]"
         },
         {
-          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
-          "source": "澎湃新闻",
+          "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）",
+          "url": "https://www.cls.cn/detail/2429345",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            11,
-            10
+            9,
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时12分 ~ 17时51分]"
+          "time_info": "[15时56分 ~ 19时17分]"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 19时17分]"
+        },
+        {
+          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 19时17分]"
         },
         {
           "title": "月之暗面Kimi K3上线！系全球最大规模开源模型 支持视觉理解、100万token上下文",
@@ -435,30 +522,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 09时58分]"
-        },
-        {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://wallstreetcn.com/articles/3777174",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 17时51分]"
-        },
-        {
-          "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）",
-          "url": "https://www.cls.cn/detail/2429345",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 17时51分]"
         },
         {
           "title": "美国团队用宇树 G1 人形机器人完成猪胆囊切除，论文作者称距离人体临床还很远，这件事含金量到底有多高？",
@@ -495,27 +558,40 @@
           "time_info": "[15时56分 ~ 17时51分]"
         },
         {
-          "title": "玉渊谭天丨中国AI的发展逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
-          "source": "澎湃新闻",
+          "title": "16位诺贝尔奖得主联名发出AI警告",
+          "url": "https://s.weibo.com/weibo?q=%2316%E4%BD%8D%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E5%90%8D%E5%8F%91%E5%87%BAAI%E8%AD%A6%E5%91%8A%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 17时51分]"
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时17分]"
         },
         {
-          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
-          "source": "澎湃新闻",
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            20
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 17时51分]"
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时17分]"
+        },
+        {
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主席声明（全文）",
+          "url": "https://www.cls.cn/detail/2429383",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时17分]"
         },
         {
           "title": "2026世界人工智能大会太火了",
@@ -574,28 +650,6 @@
           "time_info": "05时58分"
         },
         {
-          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://wallstreetcn.com/articles/3777168",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "16位诺贝尔奖得主联名发出AI警告",
-          "url": "https://s.weibo.com/weibo?q=%2316%E4%BD%8D%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E5%90%8D%E5%8F%91%E5%87%BAAI%E8%AD%A6%E5%91%8A%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "奈飞(NFLX.O)：AI将让电影（质量）变得更好，但不会取代人类。",
           "url": "https://flash.jin10.com/detail/20260717052254473800",
           "source": "金十数据",
@@ -635,7 +689,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -646,7 +700,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -660,17 +714,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
-        },
-        {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
@@ -706,17 +749,6 @@
           "time_info": "15时57分"
         },
         {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主席声明（全文）",
-          "url": "https://www.cls.cn/detail/2429383",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "马斯克评Kimi K3模型跑分情况：厉害。",
           "url": "https://flash.jin10.com/detail/20260717051020541800",
           "source": "金十数据",
@@ -748,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "美格智能：端侧AI、机器人等领域产品是否能取得预期效益存在不确定性",
+          "url": "https://flash.jin10.com/detail/20260717183249094800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "SpaceX AI：Grok 4.5已上线Grok Build、Cursor和SpaceX AI Console。",
@@ -792,6 +835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
+          "url": "https://www.zhihu.com/question/2059240244864611894",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "国家发改委发布人工智能合作发展行动计划",
@@ -844,7 +898,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -877,7 +931,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -899,7 +953,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -913,6 +967,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "上海人工智能实验室发布新一代科学发现平台",
+          "url": "https://wallstreetcn.com/livenews/3135639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "2026世界人工智能大会暨人工智能全球治理高级别会议于7月17日在上海开幕。国家主席习近平将出席大会开幕式并发表主旨讲话。（央视新闻）",
@@ -935,6 +1000,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "优刻得与上海理工在WAIC 2026发布“太空算力”样机",
+          "url": "https://wallstreetcn.com/livenews/3135636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
@@ -1125,7 +1201,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "跟着抖音网友吃一天",
@@ -1136,11 +1212,12 @@
             1,
             2,
             21,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 17时51分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 19时17分]"
         },
         {
           "title": "流星花园全系列上线B站",
@@ -1156,6 +1233,29 @@
           "time_info": "[01时07分 ~ 07时54分]"
         },
         {
+          "title": "《新闻联播》正在直播",
+          "url": "https://www.toutiao.com/trending/7662578686872423942/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "Verity团队来B站了",
+          "url": "https://search.bilibili.com/all?keyword=Verity%E5%9B%A2%E9%98%9F%E6%9D%A5B%E7%AB%99%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时17分]"
+        },
+        {
           "title": "功夫女足这条抖音艺术已成",
           "url": "https://www.douyin.com/hot/2572892",
           "source": "抖音",
@@ -1166,17 +1266,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 09时58分]"
-        },
-        {
-          "title": "Verity团队来B站了",
-          "url": "https://search.bilibili.com/all?keyword=Verity%E5%9B%A2%E9%98%9F%E6%9D%A5B%E7%AB%99%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "丁禹兮给粉丝直播新歌彩排",
@@ -1204,8 +1293,20 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 19时17分]"
+        },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
           "url": "https://flash.jin10.com/detail/20260717004805940800",
@@ -1218,18 +1319,6 @@
           "time_info": "01时08分"
         },
         {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 17时51分]"
-        },
-        {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
           "url": "https://flash.jin10.com/detail/20260717022344954800",
           "source": "金十数据",
@@ -1239,6 +1328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "一些现就职于OpenAI的前苹果员工收到了法律信函。（英国《金融时报》）",
+          "url": "https://wallstreetcn.com/livenews/3135650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
@@ -1301,8 +1401,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 17时51分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 19时17分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
