@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T02:13:52.335441+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-07-22T04:17:06.072781+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "英媒爆料：中美正计划9月举行AI会谈",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "世界人工智能大会达成丰硕成果",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -37,8 +37,71 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
+        },
+        {
+          "title": "我在豆包养宠物",
+          "url": "https://www.douyin.com/hot/2579333",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
+        },
+        {
+          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+          "url": "https://www.zhihu.com/question/2061915732447687216",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
+        },
+        {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
+        },
+        {
+          "title": "不要用豆包解决人际关系矛盾",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E7%94%A8%E8%B1%86%E5%8C%85%E8%A7%A3%E5%86%B3%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB%E7%9F%9B%E7%9B%BE&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
@@ -51,65 +114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 02时13分]"
-        },
-        {
-          "title": "我在豆包养宠物",
-          "url": "https://www.douyin.com/hot/2579333",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
-        },
-        {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
-        },
-        {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
-        },
-        {
-          "title": "不要用豆包解决人际关系矛盾",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E7%94%A8%E8%B1%86%E5%8C%85%E8%A7%A3%E5%86%B3%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB%E7%9F%9B%E7%9B%BE&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
-        },
-        {
-          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
-          "url": "https://www.zhihu.com/question/2061915732447687216",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
         },
         {
           "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
@@ -147,15 +151,37 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
+          "title": "实探月之暗面Kimi：K3之后，算力、开源与商业化怎么走？",
+          "url": "https://www.cls.cn/detail/2432968",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 04时17分]"
+        },
+        {
           "title": "SpaceXAI：将把GROK引入微软Outlook。GROK的前景是一个Microsoft 365插件，今天已向所有付费X和SUPERGROK用户开放。",
           "url": "https://flash.jin10.com/detail/20260722005434261800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "面壁智能李大海：未来端侧AI的70%市场将由第三方模型厂商提供",
@@ -171,59 +197,31 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：Gemini 3.6 Flash具备快速理解上下文能力，可帮助用户打造专属创意工具。",
-          "url": "https://flash.jin10.com/detail/20260722000525610800",
+          "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
+          "url": "https://flash.jin10.com/detail/20260722034543375800",
           "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
-        },
-        {
-          "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
-          "url": "https://wallstreetcn.com/livenews/3137668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "谷歌发布一系列更低成本的Gemini模型",
-          "url": "https://flash.jin10.com/detail/20260722004534436800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
+          "time_info": "04时17分"
+        },
+        {
+          "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3137736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
         {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
@@ -232,8 +230,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
@@ -242,9 +240,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "OpenAI新增两名独董到董事会。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -264,7 +273,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         }
@@ -272,7 +281,7 @@
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "网红狗被宰杀,身价才2千",
@@ -282,8 +291,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "野狗骨头大结局",
@@ -294,8 +303,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "主人遛狗不拴绳遭路人扇耳光",
@@ -305,8 +314,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
+        },
+        {
+          "title": "遛狗惊扰陌生人起冲突？当事人回应",
+          "url": "https://www.baidu.com/s?wd=%E9%81%9B%E7%8B%97%E6%83%8A%E6%89%B0%E9%99%8C%E7%94%9F%E4%BA%BA%E8%B5%B7%E5%86%B2%E7%AA%81%EF%BC%9F%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 04时17分]"
         },
         {
           "title": "女子辟谣遛狗不牵绳与男子冲突",
@@ -322,8 +342,58 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini 3.6 Flash具备快速理解上下文能力，可帮助用户打造专属创意工具。",
+          "url": "https://flash.jin10.com/detail/20260722000525610800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
+          "url": "https://wallstreetcn.com/livenews/3137668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "谷歌发布一系列更低成本的Gemini模型",
+          "url": "https://flash.jin10.com/detail/20260722004534436800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "B站全面整改Bin哥相关视频",
@@ -333,8 +403,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "抖音网友生日祝福接力",
@@ -342,11 +412,23 @@
           "source": "抖音",
           "ranks": [
             18,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
+        },
+        {
+          "title": "如何评价《绝区零》在游戏活动界面里，把 3.1 版本 PV 的内置跳转链接从 B 站改成了抖音精选？",
+          "url": "https://www.zhihu.com/question/2061595522134282638",
+          "source": "知乎",
+          "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 04时17分]"
         }
       ]
     },
@@ -362,8 +444,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         }
       ]
     }
