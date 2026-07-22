@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T19:02:23.652130+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-07-22T20:44:19.604841+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "世界人工智能大会达成丰硕成果",
@@ -102,6 +102,28 @@
           "time_info": "[00时36分 ~ 07时53分]"
         },
         {
+          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
+          "url": "https://www.cls.cn/detail/2433795",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 20时44分]"
+        },
+        {
+          "title": "看见中国AI产业的“硬核家底”",
+          "url": "https://www.toutiao.com/trending/7664428554470113321/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 20时44分]"
+        },
+        {
           "title": "情侣用 AI 判断菌子毒性采了 10 余斤，被本地小孩哥筛选只剩 2 斤，AI 和小孩哥谁的判断更准？为啥会有不同？",
           "url": "https://www.zhihu.com/question/2062587249968129781",
           "source": "知乎",
@@ -115,6 +137,29 @@
           "time_info": "[07时53分 ~ 19时02分]"
         },
         {
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时44分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时44分]"
+        },
+        {
           "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
           "url": "https://wallstreetcn.com/articles/3777546",
           "source": "华尔街见闻",
@@ -125,28 +170,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时59分 ~ 16时14分]"
-        },
-        {
-          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
-          "url": "https://www.cls.cn/detail/2433795",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 19时02分]"
-        },
-        {
-          "title": "看见中国AI产业的“硬核家底”",
-          "url": "https://www.toutiao.com/trending/7664428554470113321/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 19时02分]"
         },
         {
           "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
@@ -176,26 +199,54 @@
           "time_info": "[09时55分 ~ 16时14分]"
         },
         {
-          "title": "两个AI演员比内娱待爆艺人都火",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB",
-          "source": "百度热搜",
+          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
+          "url": "https://www.zhihu.com/question/2062858490343953648",
+          "source": "知乎",
           "ranks": [
-            2
+            16,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 20时44分]"
         },
         {
-          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 20时44分]"
+        },
+        {
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 20时44分]"
+        },
+        {
+          "title": "别再给AI乱传文件了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时44分]"
         },
         {
           "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
@@ -233,18 +284,6 @@
           "time_info": "[13时14分 ~ 16时14分]"
         },
         {
-          "title": "两个AI演员比内娱待爆艺人都火",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 19时02分]"
-        },
-        {
           "title": "如何看待申真谞二比一战胜围棋人工智能「KataGo」？",
           "url": "https://www.zhihu.com/question/2062927366180157304",
           "source": "知乎",
@@ -279,30 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 02时13分]"
-        },
-        {
-          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
-          "url": "https://www.zhihu.com/question/2062858490343953648",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 19时02分]"
-        },
-        {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 19时02分]"
         },
         {
           "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
@@ -464,6 +479,17 @@
           "time_info": "13时14分"
         },
         {
+          "title": "国务院国资委：深入实施“AI+”专项行动",
+          "url": "https://flash.jin10.com/detail/20260722200541476800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "白宫拟将数千亿美元科研资金向AI和个人科学家倾斜",
           "url": "https://flash.jin10.com/detail/20260722062234546800",
           "source": "金十数据",
@@ -484,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "国务院国资委：深入实施“AI+”专项行动",
+          "url": "https://wallstreetcn.com/livenews/3138207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "《这一秒过火》更换原AI片头",
@@ -574,6 +611,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "【中微半导：预计2026年上半年净利润同比增长90.82%】中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长的同时产品价格上涨，公司营收及利润实现双增长。",
+          "url": "https://wallstreetcn.com/livenews/3138201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "港股大模型股持续走低，智谱(02513.HK)回调跌超10%，MINIMAX-W(00100.HK)跌超5%。",
           "url": "https://flash.jin10.com/detail/20260722093959452800",
           "source": "金十数据",
@@ -583,6 +631,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "宏利金融公司：将采用微软(MSFT.O)前沿套件并部署Microsoft Agent 365用于企业人工智能应用。",
+          "url": "https://flash.jin10.com/detail/20260722200158003800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "机构：2026年AI基建支出料增长56%至4970亿美元 Arm架构取代x86成主流算力平台",
+          "url": "https://flash.jin10.com/detail/20260722200136509800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "成都：到2027年 实现人工智能核心产业规模突破2600亿元、增速超30%",
@@ -673,17 +743,6 @@
           "time_info": "09时55分"
         },
         {
-          "title": "别再给AI乱传文件了",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "面壁智能李大海：未来端侧AI的70%市场将由第三方模型厂商提供",
           "url": "https://wallstreetcn.com/livenews/3137660",
           "source": "华尔街见闻-快讯",
@@ -720,11 +779,12 @@
             6,
             9,
             14,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 20时44分]"
         },
         {
           "title": "主人遛狗不拴绳遭路人扇耳光",
@@ -768,6 +828,19 @@
           "time_info": "[04时16分 ~ 07时53分]"
         },
         {
+          "title": "女友在商场被没拴绳的狗吓到，男子摔狗并掌掴狗主人，警方介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33628173",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 20时44分]"
+        },
+        {
           "title": "杜飞凭什么可以打破「舔狗舔到最后一无所有」的魔咒？",
           "url": "https://www.zhihu.com/question/1913846622506419769",
           "source": "知乎",
@@ -779,6 +852,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时55分 ~ 19时02分]"
+        },
+        {
+          "title": "机器狗已入职泰山：承担运垃圾工作",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E7%8B%97%E5%B7%B2%E5%85%A5%E8%81%8C%E6%B3%B0%E5%B1%B1%EF%BC%9A%E6%89%BF%E6%8B%85%E8%BF%90%E5%9E%83%E5%9C%BE%E5%B7%A5%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 20时44分]"
         },
         {
           "title": "警方介入烈性犬惊吓外卖员事件",
@@ -816,18 +901,6 @@
           "time_info": "[07时53分 ~ 09时55分]"
         },
         {
-          "title": "女友在商场被没拴绳的狗吓到，男子摔狗并掌掴狗主人，警方介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33628173",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 19时02分]"
-        },
-        {
           "title": "女子辟谣遛狗不牵绳与男子冲突",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BE%9F%E8%B0%A3%E9%81%9B%E7%8B%97%E4%B8%8D%E7%89%B5%E7%BB%B3%E4%B8%8E%E7%94%B7%E5%AD%90%E5%86%B2%E7%AA%81%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -850,24 +923,13 @@
           "time_info": "[06时57分 ~ 06时58分]"
         },
         {
-          "title": "机器狗已入职泰山：承担运垃圾工作",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E7%8B%97%E5%B7%B2%E5%85%A5%E8%81%8C%E6%B3%B0%E5%B1%B1%EF%BC%9A%E6%89%BF%E6%8B%85%E8%BF%90%E5%9E%83%E5%9C%BE%E5%B7%A5%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
           "title": "洗浴中心回应有顾客带狗进入女浴室",
           "url": "https://www.toutiao.com/trending/7664491163076329522/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -886,7 +948,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -910,8 +972,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 20时44分]"
         },
         {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
@@ -941,11 +1003,12 @@
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时44分]"
         },
         {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
@@ -968,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "市场消息：OpenAI将推出面向企业的新软件OpenAI Presence。",
+          "url": "https://flash.jin10.com/detail/20260722200848203800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
@@ -1028,7 +1102,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "B站全面整改Bin哥相关视频",
@@ -1039,11 +1113,12 @@
             12,
             15,
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 20时44分]"
         },
         {
           "title": "抖音网友生日祝福接力",
@@ -1086,6 +1161,28 @@
           "time_info": "[04时16分 ~ 05时59分]"
         },
         {
+          "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
+          "url": "https://www.zhihu.com/question/2063228417642967287",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时44分]"
+        },
+        {
+          "title": "正在直播中",
+          "url": "https://flash.jin10.com/detail/20260722201008294800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "小红书回应“上市因前员工举报受阻”",
           "url": "https://www.toutiao.com/trending/7665189791004102163/",
           "source": "今日头条",
@@ -1097,15 +1194,15 @@
           "time_info": "13时14分"
         },
         {
-          "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
-          "url": "https://www.zhihu.com/question/2063228417642967287",
-          "source": "知乎",
+          "title": "黄金上方压力重重，多头这波反击能走多远？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260722200107605800",
+          "source": "金十数据",
           "ranks": [
-            16
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "20时44分"
         },
         {
           "title": "双高胎直播",
@@ -1114,7 +1211,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1227,11 +1324,29 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宠物 宠物经济 宠物寄养 宠物食品 宠物医疗 宠物美容 宠物保险 猫粮 狗粮 宠物智能用品 宠物殡葬 携宠出行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "主播称下单狗粮直送救助站却只发空包裹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E4%B8%8B%E5%8D%95%E7%8B%97%E7%B2%AE%E7%9B%B4%E9%80%81%E6%95%91%E5%8A%A9%E7%AB%99%E5%8D%B4%E5%8F%AA%E5%8F%91%E7%A9%BA%E5%8C%85%E8%A3%B9%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
         }
       ]
     },
@@ -1246,11 +1361,12 @@
           "ranks": [
             12,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 20时44分]"
         }
       ]
     }
