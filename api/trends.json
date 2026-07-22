@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-23T06:01:27.323612+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-07-23T07:08:47.836153+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
           "url": "https://wallstreetcn.com/articles/3777680",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
@@ -45,11 +46,12 @@
           "url": "https://wallstreetcn.com/livenews/3138425",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时08分]"
         },
         {
           "title": "Reddit股价大跌，媒体报道称其可能限制谷歌访问权限",
@@ -70,7 +72,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -81,9 +83,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "谷歌Q2云业务超预期飙升82%，云积压订单达5140亿美元，AI投入开始兑现｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "【谷歌母公司上调全年资本开支预期】谷歌母公司Alphabet：预计全年资本开支1950亿-2050亿美元，原来预计1800亿-1900亿美元。仍然预计2027财年资本开支将“大幅”增长。",
@@ -92,7 +105,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -103,9 +116,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "周四亚太盘初，纳指期货跌0.3%，谷歌A与特斯拉掀开美国科技股业绩报告序幕。",
+          "url": "https://wallstreetcn.com/livenews/3138440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "SK海力士(SKHY.O)美股盘后涨4.5%，美光科技(MU.O)涨2%，特斯拉(TSLA.O)跌3%，谷歌A(GOOGL.O)跌4%，",
@@ -114,7 +138,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -125,7 +149,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -133,7 +157,7 @@
     },
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -156,8 +180,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -168,8 +192,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -179,11 +203,12 @@
             1,
             6,
             9,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -192,11 +217,12 @@
           "ranks": [
             13,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
@@ -207,8 +233,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "前所未有的人工智能失控事故！中方救场",
@@ -218,8 +244,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
+        },
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
@@ -227,11 +264,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时09分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时09分 ~ 07时08分]"
         },
         {
           "title": "业内：Kimi“熔断”杨植麟也“摸高”",
@@ -245,13 +283,24 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
+          "title": "特斯拉(TSLA.O)AI业务副总裁：预计未来在更多城市推出Robotaxi所需的时间将继续缩短。",
+          "url": "https://flash.jin10.com/detail/20260723060349803800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
           "title": "特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产。 半拖车与Megapack 3仍然按生产进度推进。",
           "url": "https://wallstreetcn.com/livenews/3138398",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -270,19 +319,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
           "url": "https://wallstreetcn.com/articles/3777699",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -294,19 +344,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -316,8 +367,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -364,11 +415,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
@@ -378,8 +430,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "小红书回应IPO传闻：相关信息均不属实",
@@ -390,8 +442,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "C罗世界杯期间涨粉超千万",
@@ -443,8 +495,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
+        },
+        {
+          "title": "柴犬故意学猫猫揣手手",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%B4%E7%8A%AC%E6%95%85%E6%84%8F%E5%AD%A6%E7%8C%AB%E7%8C%AB%E6%8F%A3%E6%89%8B%E6%89%8B%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时08分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
@@ -456,17 +520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
-        },
-        {
-          "title": "柴犬故意学猫猫揣手手",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%B4%E7%8A%AC%E6%95%85%E6%84%8F%E5%AD%A6%E7%8C%AB%E7%8C%AB%E6%8F%A3%E6%89%8B%E6%89%8B%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         }
       ]
     },
@@ -482,8 +535,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         },
         {
           "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
@@ -495,8 +548,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时06分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 07时08分]"
         }
       ]
     },
@@ -512,8 +565,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时08分]"
         }
       ]
     }
