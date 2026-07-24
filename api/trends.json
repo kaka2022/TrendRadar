@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T20:16:47.399719+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-07-24T22:48:32.181905+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时59分 ~ 20时16分]"
+          "appearance_count": 12,
+          "time_info": "[05时59分 ~ 22时48分]"
         },
         {
           "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
@@ -122,6 +122,19 @@
           "time_info": "[01时12分 ~ 06时59分]"
         },
         {
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 22时48分]"
+        },
+        {
           "title": "AMD(AMD.O)发布Helios人工智能服务器整机柜。",
           "url": "https://flash.jin10.com/detail/20260724004744566800",
           "source": "金十数据",
@@ -164,19 +177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
-        },
-        {
-          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777819",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时55分 ~ 20时16分]"
         },
         {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计AI加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。",
@@ -252,18 +252,6 @@
           "time_info": "[13时43分 ~ 20时16分]"
         },
         {
-          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
-          "url": "https://www.cls.cn/detail/2435979",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时13分 ~ 20时16分]"
-        },
-        {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
           "url": "https://wallstreetcn.com/articles/3777836",
           "source": "华尔街见闻",
@@ -272,8 +260,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时13分 ~ 20时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 22时48分]"
         },
         {
           "title": "豆包帮我拍广告大片",
@@ -282,6 +270,18 @@
           "ranks": [
             9,
             10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 22时48分]"
+        },
+        {
+          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
+          "url": "https://www.cls.cn/detail/2435979",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -412,6 +412,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "25家科技巨头联名签署公开信：力挺开放权重AI模型（全文翻译）",
+          "url": "https://flash.jin10.com/detail/20260724222659975800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美五大科技巨头AI隐性债务被曝达1.65万亿美元",
           "url": "https://wallstreetcn.com/livenews/3139023",
           "source": "华尔街见闻-快讯",
@@ -421,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "分析师：英伟达正扮演AI时代“资本配置者”的角色",
@@ -443,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "7月24日，微软联合IBM、Meta、等20余家美国科技公司发表名为《开放权重与美国人工智能领导力》的公开信，呼吁开放权重AI模型。 公开信认为，1. 开放权重扩大了对 AI 经济的参与途径。 开放权重强化了市场竞争。 开放权重赋予客户更大的控制权。 开放与 AI 安全及保障。",
+          "url": "https://wallstreetcn.com/livenews/3139514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "新加坡政府投资公司GIC：目标是投资人工智能（AI）物理基础设施，包括数据中心所需的电力和电网设施。",
@@ -522,6 +555,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "AI重现狼牙山五壮士英雄壮举",
+          "url": "https://www.toutiao.com/trending/7666058970050183209/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "xAI：将GROK 4.5推出至iOS、Android、Web和X。",
           "url": "https://flash.jin10.com/detail/20260723235349553800",
           "source": "金十数据",
@@ -569,7 +613,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何看待旭旭宝宝展示水军「复制粘贴式同款黑文案」，硬刚黑粉报警且「每条有效水军证据悬赏 10 万元」？",
@@ -642,6 +686,20 @@
           "time_info": "19时35分"
         },
         {
+          "title": "马上评｜有一种流量像西瓜一样甜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33649786",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 22时48分]"
+        },
+        {
           "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
           "url": "https://www.zhihu.com/question/2063292318887539352",
           "source": "知乎",
@@ -651,19 +709,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时12分 ~ 04时54分]"
-        },
-        {
-          "title": "马上评｜有一种流量像西瓜一样甜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33649786",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时13分 ~ 20时16分]"
         },
         {
           "title": "数学之外的邓煜：知乎大神、动漫、诗人",
@@ -676,6 +721,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时43分 ~ 16时13分]"
+        },
+        {
+          "title": "直播丨一毛两毛没人要，一元一斤抢着收！河南滞销西瓜遇上“反向砍价”的人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33646229",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 22时48分]"
         },
         {
           "title": "赵又廷说没流量接不到商业大片",
@@ -706,7 +763,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -717,7 +774,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -728,20 +785,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
         {
-          "title": "直播丨一毛两毛没人要，一元一斤抢着收！河南滞销西瓜遇上“反向砍价”的人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33646229",
-          "source": "澎湃新闻",
+          "title": "宋亚轩 拍抖音就要胆子大",
+          "url": "https://www.douyin.com/hot/2583950",
+          "source": "抖音",
           "ranks": [
-            19
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时16分"
+          "time_info": "22时48分"
         }
       ]
     },
@@ -758,8 +815,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时13分 ~ 20时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 22时48分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -779,11 +836,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 20时16分]"
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 22时48分]"
         },
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -977,11 +1035,12 @@
           "url": "https://www.toutiao.com/trending/7666047460997058074/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 22时48分]"
         },
         {
           "title": "【中国人寿回应减持兆易创新】中国人寿7月20日披露，该公司名下8个单一资管计划于7月8日同日卖出兆易创新约110.97万股，变现约6.82亿元，卖出均价611.46——624.61元/股。7月24日，中国人寿相关业务负责人回应称，公司的股票管理人对二级市场个股增持或减持，属于常态化投资行为，均基于投资配置需要。（上证报）",
@@ -1060,7 +1119,7 @@
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "动保举报拉狗车,救狗未果反害狗",
@@ -1072,6 +1131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "宇树发布新机器狗",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E6%9C%BA%E5%99%A8%E7%8B%97&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     }
