@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T08:01:34.596973+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-07-24T10:55:44.024521+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
@@ -36,11 +36,12 @@
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时59分 ~ 08时01分]"
+          "appearance_count": 7,
+          "time_info": "[05时59分 ~ 10时55分]"
         },
         {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
@@ -49,11 +50,12 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 08时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 10时55分]"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -92,8 +94,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 08时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 10时55分]"
         },
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -209,6 +211,17 @@
           "time_info": "[06时58分 ~ 06时59分]"
         },
         {
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "AMD(AMD.O)：预计到2030年，人工智能加速器市场将达到1.4万亿美元。",
           "url": "https://flash.jin10.com/detail/20260724003935431800",
           "source": "金十数据",
@@ -231,6 +244,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
+          "url": "https://www.cls.cn/detail/2435740",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "人工智能热潮提振市场 对冲基金资产增速创历史新高",
           "url": "https://flash.jin10.com/detail/20260724025420081800",
           "source": "金十数据",
@@ -240,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "一夜蒸发近8千亿美元！“七巨头”迎一年多来最猛下跌，AI狂欢结束了？",
+          "url": "https://flash.jin10.com/detail/20260724104649902800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "苹果未能将所有AI语音训练诉讼案归入同一法官审理",
@@ -262,6 +297,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "分析师：英伟达正扮演AI时代“资本配置者”的角色",
+          "url": "https://flash.jin10.com/detail/20260724103848115800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "中国AI大反超，美国还能挡多久？",
+          "url": "https://news.ifeng.com/c/8uzcXG8YK32",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "新加坡政府投资公司GIC：目标是投资人工智能（AI）物理基础设施，包括数据中心所需的电力和电网设施。",
@@ -303,7 +360,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -314,9 +371,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "上证指数跌超1%，深证成指、创业板指此前跌超1%；贵金属、电力、人形机器人、数字媒体、小金属等板块走低。",
+          "url": "https://flash.jin10.com/detail/20260724103358696800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "xAI：将Grok 4.5投放到苹果公司iOS、安卓、网页、以及X平台。",
@@ -390,8 +458,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 08时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 10时55分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -445,6 +513,78 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
+          "url": "https://flash.jin10.com/detail/20260724072353724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "微软(MSFT.O)正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing。",
+          "url": "https://flash.jin10.com/detail/20260724003316532800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "OpenAI：预计将大规模部署AMD的Helios。",
+          "url": "https://wallstreetcn.com/livenews/3139011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "OpenAI入侵Hugging Face，引发美国国会提出“AI紧急关停”法案",
+          "url": "https://wallstreetcn.com/livenews/3139178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
+          "url": "https://wallstreetcn.com/livenews/3139010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
+          "url": "https://flash.jin10.com/detail/20260724034515352800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
       "match_count": 6,
       "titles": [
@@ -454,11 +594,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 08时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 10时55分]"
         },
         {
           "title": "邓煜 知乎",
@@ -487,8 +628,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 08时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 10时55分]"
         },
         {
           "title": "抖音网友祝贺邓煜王虹获奖",
@@ -499,11 +640,12 @@
             25,
             27,
             12,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 08时01分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 10时55分]"
         },
         {
           "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
@@ -530,67 +672,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
-          "url": "https://flash.jin10.com/detail/20260724072353724800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "微软(MSFT.O)正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing。",
-          "url": "https://flash.jin10.com/detail/20260724003316532800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "OpenAI：预计将大规模部署AMD的Helios。",
-          "url": "https://wallstreetcn.com/livenews/3139011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
-          "url": "https://wallstreetcn.com/livenews/3139010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
-          "url": "https://flash.jin10.com/detail/20260724034515352800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "宠物 宠物经济 宠物寄养 宠物食品 宠物医疗 宠物美容 宠物保险 猫粮 狗粮 宠物智能用品 宠物殡葬 携宠出行",
       "match_count": 2,
       "titles": [
@@ -599,11 +680,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356445&amp;topic_name=%E5%AE%A0%E7%89%A9%E7%8C%AA%E5%8F%98%E5%86%BB%E8%82%89%2C%E6%97%A5%E7%BB%BC%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 08时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 10时55分]"
         },
         {
           "title": "这其实是你的宠物突然想你了",
@@ -633,6 +715,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "动保举报拉狗车,救狗未果反害狗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356455&amp;topic_name=%E5%8A%A8%E4%BF%9D%E4%B8%BE%E6%8A%A5%E6%8B%89%E7%8B%97%E8%BD%A6%2C%E6%95%91%E7%8B%97%E6%9C%AA%E6%9E%9C%E5%8F%8D%E5%AE%B3%E7%8B%97",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
