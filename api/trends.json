@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-25T21:27:05.436211+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-07-25T22:57:50.305044+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时59分 ~ 22时57分]"
+        },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3777754",
@@ -17,6 +30,22 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 05时59分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5,
+            7,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时59分 ~ 22时57分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -33,32 +62,20 @@
           "time_info": "[00时37分 ~ 11时59分]"
         },
         {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
           "ranks": [
-            2,
-            5,
-            7,
-            8,
-            9
+            18,
+            12,
+            13,
+            4,
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时59分 ~ 21时27分]"
-        },
-        {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时59分 ~ 21时27分]"
+          "time_info": "[14时18分 ~ 22时57分]"
         },
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -72,21 +89,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 05时59分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时18分 ~ 21时27分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -226,15 +228,17 @@
           "time_info": "02时14分"
         },
         {
-          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
-          "url": "https://wallstreetcn.com/livenews/3139752",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 22时57分]"
         },
         {
           "title": "Claude Opus 5发布",
@@ -265,6 +269,18 @@
           "time_info": "[00时37分 ~ 08时10分]"
         },
         {
+          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
+          "url": "https://wallstreetcn.com/livenews/3139752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时57分]"
+        },
+        {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
@@ -274,6 +290,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 04时14分]"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 22时57分]"
+        },
+        {
+          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 22时57分]"
         },
         {
           "title": "AI重现狼牙山五壮士英雄壮举",
@@ -289,62 +329,29 @@
           "time_info": "[00时37分 ~ 04时14分]"
         },
         {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 21时27分]"
-        },
-        {
-          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
-          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 21时27分]"
-        },
-        {
-          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 21时27分]"
-        },
-        {
           "title": "马斯克：中国很有可能成AI领导者",
           "url": "https://www.toutiao.com/trending/7666381434109578761/",
           "source": "今日头条",
           "ranks": [
             17,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 22时57分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
           "url": "https://wallstreetcn.com/articles/3777898",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 22时57分]"
         },
         {
           "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
@@ -502,6 +509,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "Meta Platforms(META.O)：未来几周内，Meta AI 的新功能将扩展至更多国家及平台（包括WhatsApp）。",
           "url": "https://flash.jin10.com/detail/20260725010411292800",
           "source": "金十数据",
@@ -634,6 +652,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
           "url": "https://wallstreetcn.com/livenews/3139690",
           "source": "华尔街见闻-快讯",
@@ -698,6 +727,17 @@
           "time_info": "[19时59分 ~ 21时27分]"
         },
         {
+          "title": "保罗乔治直播锐评抖音海选球迷",
+          "url": "https://www.douyin.com/hot/2584941",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 22时57分]"
+        },
+        {
           "title": "河南瓜农控诉有网红博流量低价收瓜",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%93%9C%E5%86%9C%E6%8E%A7%E8%AF%89%E6%9C%89%E7%BD%91%E7%BA%A2%E5%8D%9A%E6%B5%81%E9%87%8F%E4%BD%8E%E4%BB%B7%E6%94%B6%E7%93%9C",
           "source": "百度热搜",
@@ -714,17 +754,6 @@
           "source": "微博",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
-        },
-        {
-          "title": "保罗乔治直播锐评抖音海选球迷",
-          "url": "https://www.douyin.com/hot/2584941",
-          "source": "抖音",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 2,
