@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T05:47:27.366840+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-07-26T06:46:21.974955+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -16,8 +16,24 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
+        },
+        {
+          "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
+          "url": "https://www.zhihu.com/question/2064106505993971519",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            13,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
         },
         {
           "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
@@ -28,11 +44,73 @@
             14,
             20,
             19,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            12,
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
+        },
+        {
+          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
+        },
+        {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
+        },
+        {
+          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
+          "url": "https://wallstreetcn.com/livenews/3139752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时46分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
@@ -44,69 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
-          "url": "https://www.zhihu.com/question/2064106505993971519",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            13,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时47分]"
-        },
-        {
-          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
-          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时47分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时47分]"
-        },
-        {
-          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时47分]"
-        },
-        {
-          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时47分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -135,17 +150,6 @@
           "time_info": "[00时02分 ~ 05时47分]"
         },
         {
-          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
-          "url": "https://wallstreetcn.com/livenews/3139752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时47分]"
-        },
-        {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
           "url": "https://wallstreetcn.com/articles/3777898",
           "source": "华尔街见闻",
@@ -166,8 +170,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 06时46分]"
+        },
+        {
+          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
+          "url": "https://wallstreetcn.com/articles/3777919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         },
         {
           "title": "AI已经摸不透柯洁了",
@@ -176,7 +191,50 @@
           "ranks": [
             14
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "狗在马路上玩滑板转头撞上车",
+          "url": "https://www.baidu.com/s?wd=%E7%8B%97%E5%9C%A8%E9%A9%AC%E8%B7%AF%E4%B8%8A%E7%8E%A9%E6%BB%91%E6%9D%BF%E8%BD%AC%E5%A4%B4%E6%92%9E%E4%B8%8A%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25,
+            24,
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时46分]"
+        },
+        {
+          "title": "阳台上突然出现了六只小狗头",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%8F%B0%E4%B8%8A%E7%AA%81%E7%84%B6%E5%87%BA%E7%8E%B0%E4%BA%86%E5%85%AD%E5%8F%AA%E5%B0%8F%E7%8B%97%E5%A4%B4%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "小狗吹空调看到女主人辅导作业立刻溜走",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E5%90%B9%E7%A9%BA%E8%B0%83%E7%9C%8B%E5%88%B0%E5%A5%B3%E4%B8%BB%E4%BA%BA%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E7%AB%8B%E5%88%BB%E6%BA%9C%E8%B5%B0&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         }
@@ -187,58 +245,29 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
-          "url": "https://flash.jin10.com/detail/20260726044659225800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
           "url": "https://flash.jin10.com/detail/20260726031905539800",
           "source": "金十数据",
           "ranks": [
             5,
-            16
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时46分]"
+        },
+        {
+          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
+          "url": "https://flash.jin10.com/detail/20260726044659225800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "狗在马路上玩滑板转头撞上车",
-          "url": "https://www.baidu.com/s?wd=%E7%8B%97%E5%9C%A8%E9%A9%AC%E8%B7%AF%E4%B8%8A%E7%8E%A9%E6%BB%91%E6%9D%BF%E8%BD%AC%E5%A4%B4%E6%92%9E%E4%B8%8A%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            25,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时47分]"
-        },
-        {
-          "title": "小狗吹空调看到女主人辅导作业立刻溜走",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E5%90%B9%E7%A9%BA%E8%B0%83%E7%9C%8B%E5%88%B0%E5%A5%B3%E4%B8%BB%E4%BA%BA%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E7%AB%8B%E5%88%BB%E6%BA%9C%E8%B5%B0&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "time_info": "[05时47分 ~ 06时46分]"
         }
       ]
     },
@@ -252,11 +281,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 06时46分]"
         },
         {
           "title": "保罗乔治直播锐评抖音海选球迷",
