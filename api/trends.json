@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T00:02:30.996090+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-26T01:04:57.490784+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,16 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
@@ -30,26 +31,28 @@
           "time_info": "00时02分"
         },
         {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
           "ranks": [
-            5
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
           "url": "https://wallstreetcn.com/articles/3777898",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -59,19 +62,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -81,8 +85,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
@@ -92,8 +96,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
+        },
+        {
+          "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
+          "url": "https://www.zhihu.com/question/2064106505993971519",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
@@ -103,19 +119,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
-          "url": "https://www.zhihu.com/question/2064106505993971519",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -125,8 +130,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -136,8 +141,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         }
       ]
     },
@@ -145,6 +150,18 @@
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
       "match_count": 2,
       "titles": [
+        {
+          "title": "河南瓜农控诉有网红博流量低价收瓜",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%93%9C%E5%86%9C%E6%8E%A7%E8%AF%89%E6%9C%89%E7%BD%91%E7%BA%A2%E5%8D%9A%E6%B5%81%E9%87%8F%E4%BD%8E%E4%BB%B7%E6%94%B6%E7%93%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
+        },
         {
           "title": "保罗乔治直播锐评抖音海选球迷",
           "url": "https://www.douyin.com/hot/2584941",
@@ -155,17 +172,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "河南瓜农控诉有网红博流量低价收瓜",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%93%9C%E5%86%9C%E6%8E%A7%E8%AF%89%E6%9C%89%E7%BD%91%E7%BA%A2%E5%8D%9A%E6%B5%81%E9%87%8F%E4%BD%8E%E4%BB%B7%E6%94%B6%E7%93%9C",
+          "title": "狗在马路上玩滑板转头撞上车",
+          "url": "https://www.baidu.com/s?wd=%E7%8B%97%E5%9C%A8%E9%A9%AC%E8%B7%AF%E4%B8%8A%E7%8E%A9%E6%BB%91%E6%9D%BF%E8%BD%AC%E5%A4%B4%E6%92%9E%E4%B8%8A%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            30
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时04分"
         }
       ]
     }
