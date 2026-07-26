@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T07:54:50.518536+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-07-26T10:02:26.605761+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时02分]"
         },
         {
           "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
@@ -30,11 +31,37 @@
             13,
             8,
             6,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时02分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时02分]"
+        },
+        {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时02分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -68,36 +95,25 @@
           "time_info": "[00时02分 ~ 07时54分]"
         },
         {
+          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+          "url": "https://wallstreetcn.com/articles/3777925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时57分 ~ 10时02分]"
+        },
+        {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
           "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时54分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时54分]"
-        },
-        {
-          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -125,19 +141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
-          "url": "https://wallstreetcn.com/articles/3777925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 07时54分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -183,22 +186,90 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 10时02分]"
         },
         {
           "title": "AI已经摸不透柯洁了",
           "url": "https://www.douyin.com/hot/2584747",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 10时02分]"
+        },
+        {
+          "title": "怎么看美军将禁止用中国人形机器人",
+          "url": "https://www.toutiao.com/trending/7666500754231791131/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时47分"
+          "time_info": "10时02分"
+        },
+        {
+          "title": "SK崔泰源：韩国需转型为“AI原生”国家",
+          "url": "https://flash.jin10.com/detail/20260726091430894800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "AI算命 个人数据意识",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%AE%97%E5%91%BD%20%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE%E6%84%8F%E8%AF%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "Kimi K3再引关注，瑞银：中国模型的结构性成本优势有望长期保持",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660556",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
+          "url": "https://www.zhihu.com/question/2064306906437571115",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "AI 会让艺术「更繁荣」还是「更廉价」？",
@@ -207,9 +278,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "全国首个低空智慧物流大模型落地郑州",
+          "url": "https://flash.jin10.com/detail/20260726084550683800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "假如莫奈遇上AI机器人",
@@ -218,7 +300,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         }
@@ -245,6 +327,18 @@
           "time_info": "[01时04分 ~ 07时54分]"
         },
         {
+          "title": "小狗吹空调看到女主人辅导作业溜走",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E5%90%B9%E7%A9%BA%E8%B0%83%E7%9C%8B%E5%88%B0%E5%A5%B3%E4%B8%BB%E4%BA%BA%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E6%BA%9C%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时02分]"
+        },
+        {
           "title": "阳台上突然出现了六只小狗头",
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%8F%B0%E4%B8%8A%E7%AA%81%E7%84%B6%E5%87%BA%E7%8E%B0%E4%BA%86%E5%85%AD%E5%8F%AA%E5%B0%8F%E7%8B%97%E5%A4%B4%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -254,17 +348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
-        },
-        {
-          "title": "小狗吹空调看到女主人辅导作业溜走",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E5%90%B9%E7%A9%BA%E8%B0%83%E7%9C%8B%E5%88%B0%E5%A5%B3%E4%B8%BB%E4%BA%BA%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E6%BA%9C%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "小狗吹空调看到女主人辅导作业立刻溜走",
