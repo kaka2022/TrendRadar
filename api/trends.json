@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T09:51:05.835379+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-07-28T12:58:50.631000+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 50,
+      "match_count": 63,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -20,6 +20,34 @@
           "time_info": "[00时10分 ~ 09时51分]"
         },
         {
+          "title": "外媒丑化Kimi创始人惹众怒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356529&amp;topic_name=%E5%A4%96%E5%AA%92%E4%B8%91%E5%8C%96Kimi%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%83%B9%E4%BC%97%E6%80%92",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            12,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 12时58分]"
+        },
+        {
+          "title": "侵权零成本!电竞选手遭AI换脸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            20,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 12时58分]"
+        },
+        {
           "title": "国内首部AI长片首播",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD",
           "source": "百度热搜",
@@ -32,30 +60,27 @@
           "time_info": "[00时10分 ~ 07时02分]"
         },
         {
-          "title": "外媒丑化Kimi创始人惹众怒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356529&amp;topic_name=%E5%A4%96%E5%AA%92%E4%B8%91%E5%8C%96Kimi%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%83%B9%E4%BC%97%E6%80%92",
-          "source": "贴吧",
+          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            12,
-            13
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
         },
         {
-          "title": "侵权零成本!电竞选手遭AI换脸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
-          "source": "贴吧",
+          "title": "如何评价 KIMI K3 正式开源，以及同步发布出技术报告？",
+          "url": "https://www.zhihu.com/question/2065214142915654338",
+          "source": "知乎",
           "ranks": [
-            17,
-            20,
-            21
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
         },
         {
           "title": "各个行业被AI取代的概率",
@@ -70,17 +95,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时10分 ~ 07时02分]"
-        },
-        {
-          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
-          "url": "https://wallstreetcn.com/articles/3777993",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
@@ -109,26 +123,26 @@
           "time_info": "[05时59分 ~ 06时00分]"
         },
         {
-          "title": "如何评价 KIMI K3 正式开源，以及同步发布出技术报告？",
-          "url": "https://www.zhihu.com/question/2065214142915654338",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
           "title": "AI应用端逆势走强，南天信息直线涨停，科蓝软件涨超15%，高伟达、格尔软件、麦迪科技、思特奇跟涨。",
           "url": "https://wallstreetcn.com/livenews/3140631",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://wallstreetcn.com/livenews/3140739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
@@ -152,6 +166,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://flash.jin10.com/detail/20260728122609482800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
+          "url": "https://www.cls.cn/detail/2438458",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
         },
         {
           "title": "Kimi K3开放日：模型权重、技术报告和关键Infra技术同步开放",
@@ -231,6 +268,17 @@
           "time_info": "[00时10分 ~ 06时00分]"
         },
         {
+          "title": "佛得角门将签约泪洒现场？图是AI的",
+          "url": "https://www.toutiao.com/trending/7666819334011584518/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
+        },
+        {
           "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
           "url": "https://www.cls.cn/detail/2438154",
           "source": "财联社热门",
@@ -241,6 +289,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时16分 ~ 06时00分]"
+        },
+        {
+          "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
+          "url": "https://www.zhihu.com/question/2063239728175043416",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时58分]"
         },
         {
           "title": "全球AI竞争将如何发展",
@@ -266,28 +325,6 @@
           "time_info": "[00时10分 ~ 02时20分]"
         },
         {
-          "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
-          "url": "https://www.cls.cn/detail/2438458",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "佛得角门将签约泪洒现场？图是AI的",
-          "url": "https://www.toutiao.com/trending/7666819334011584518/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
           "title": "奥尔特曼宣称人类已处于\"奇点\"之中 AI将带来巨大积极影响",
           "url": "https://www.cls.cn/detail/2437876",
           "source": "财联社热门",
@@ -304,17 +341,6 @@
           "source": "微博",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
-          "url": "https://www.zhihu.com/question/2063239728175043416",
-          "source": "知乎",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -357,6 +383,17 @@
           "time_info": "[02时20分 ~ 04时16分]"
         },
         {
+          "title": "AI烧钱疑虑重燃，韩股重挫10%再熔断，日股跌4%、铠侠大跌18%，芯片股全线承压",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "Microsoft AI：推出MAI-Cyber-1-Flash，这是我们自主研发的新型网络安全模型。",
           "url": "https://flash.jin10.com/detail/20260728014141537800",
           "source": "金十数据",
@@ -368,6 +405,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "月之暗面全面开源Kimi K3！30分钟登顶开源社区趋势榜 国内外云厂商集体宣布Day0适配",
+          "url": "https://www.cls.cn/detail/2438566",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "惠誉评级：人工智能市场的修正正成为主要信用风险。",
           "url": "https://flash.jin10.com/detail/20260728013709597800",
           "source": "金十数据",
@@ -377,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "港股午评：恒指收跌0.11% AI硬件股大幅回调",
+          "url": "https://flash.jin10.com/detail/20260728120430398800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "黄仁勋将赴美国国会山，讨论AI领导地位与开源问题",
@@ -399,6 +458,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "比亚迪人形机器人8月郑州“上岗” 商业服务场景或率先落地",
+          "url": "https://www.cls.cn/detail/2438718",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "IDC：2025年中国AI游戏云市场规模已达18.6亿人民币",
+          "url": "https://flash.jin10.com/detail/20260728120152293800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "林志颖回应Kimi网上照片",
@@ -495,7 +576,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -511,6 +592,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-28）",
+          "url": "https://flash.jin10.com/detail/20260728115559661800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "报道：特朗普政府即将敲定AI自愿监管框架",
           "url": "https://wallstreetcn.com/livenews/3140508",
           "source": "华尔街见闻-快讯",
@@ -522,6 +614,17 @@
           "time_info": "06时00分"
         },
         {
+          "title": "AI漫剧就是一场巨大的侵权事件",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%AB%E5%89%A7%E5%B0%B1%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E4%BE%B5%E6%9D%83%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
           "url": "https://wallstreetcn.com/livenews/3140439",
           "source": "华尔街见闻-快讯",
@@ -531,6 +634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
+          "url": "https://www.zhihu.com/question/2065097727604741240",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "Kimi AI：此外，该款模型还具有全新的模型架构，单位计算资源带来的智能水平提升了2.5倍，并非只是简单增加参数规模。与此同时，除了Kimi K3，我们还将开放更多支撑该模型运行的技术栈，包括高性能注意力计算内核、MoE通信库和支持大规模运行智能体环境的基础设施。",
@@ -561,9 +675,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "智谱股价在香港市场一度跌20%，MiniMax股价跌逾11%，此前月之暗面开放Kimi K3模型供公众下载。",
+          "url": "https://wallstreetcn.com/livenews/3140700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "A股午评：创业板指大幅回调跌5.37% AI硬件板块重挫",
+          "url": "https://flash.jin10.com/detail/20260728115102973800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "受AI热潮推动，贝莱德韩国ETF连续第三周录得资金净流入",
@@ -575,6 +711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美韩科技股联动加深，AI投资共振或令投资者担忧",
+          "url": "https://flash.jin10.com/detail/20260728114529869800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "佛得角门将签约“泪洒现场”图是AI",
@@ -591,7 +738,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "敬一丹公众号疑辟谣脑溢血传闻",
@@ -613,11 +760,12 @@
             6,
             5,
             9,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 09时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 12时58分]"
         },
         {
           "title": "Mrbeast野兽游戏首入驻B站",
@@ -693,6 +841,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 07时02分]"
+        },
+        {
+          "title": "两姐妹刷短视频后相约挑战天竺山",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%A7%90%E5%A6%B9%E5%88%B7%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%8E%E7%9B%B8%E7%BA%A6%E6%8C%91%E6%88%98%E5%A4%A9%E7%AB%BA%E5%B1%B1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         }
       ]
     },
@@ -707,11 +866,12 @@
           "ranks": [
             12,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 09时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 12时58分]"
         },
         {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
@@ -758,11 +918,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时20分 ~ 09时51分]"
+          "appearance_count": 8,
+          "time_info": "[02时20分 ~ 12时58分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
