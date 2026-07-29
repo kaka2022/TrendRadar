@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-29T09:53:29.688390+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-07-29T13:16:09.689352+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "AI泡沫的金丝雀，刚刚死去.....",
+          "url": "https://wallstreetcn.com/articles/3778131",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 13时16分]"
+        },
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
           "url": "https://www.cls.cn/detail/2439291",
@@ -20,18 +34,45 @@
           "time_info": "[01时21分 ~ 09时53分]"
         },
         {
-          "title": "AI泡沫的金丝雀，刚刚死去.....",
-          "url": "https://wallstreetcn.com/articles/3778131",
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
           "source": "华尔街见闻",
           "ranks": [
-            5,
+            8,
+            7,
+            3,
             4,
-            2,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 09时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 13时16分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 13时16分]"
+        },
+        {
+          "title": "Kimi K3官方教程来了",
+          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 13时16分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -46,43 +87,17 @@
           "time_info": "[01时21分 ~ 06时53分]"
         },
         {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7,
+            9,
             3,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 09时53分]"
-        },
-        {
-          "title": "Kimi K3官方教程来了",
-          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 09时53分]"
-        },
-        {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 09时53分]"
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 13时16分]"
         },
         {
           "title": "对话Kimi领投人叶奇意",
@@ -110,6 +125,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时21分 ~ 09时53分]"
+        },
+        {
+          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
+          "url": "https://www.cls.cn/detail/2439413",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时12分 ~ 13时16分]"
+        },
+        {
+          "title": "AI剧 一本万利",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%89%A7%20%E4%B8%80%E6%9C%AC%E4%B8%87%E5%88%A9&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "印度成首个被AI做空的国家",
@@ -171,18 +210,6 @@
           "time_info": "07时54分"
         },
         {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 09时53分]"
-        },
-        {
           "title": "AI短剧半年规模超220亿元，产业爆发重塑内容生产逻辑",
           "url": "https://wallstreetcn.com/livenews/3141243",
           "source": "华尔街见闻-快讯",
@@ -194,6 +221,19 @@
           "time_info": "07时54分"
         },
         {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 13时16分]"
+        },
+        {
           "title": "AI公司 原版书籍销毁",
           "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -202,19 +242,6 @@
             18,
             27,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时12分 ~ 09时53分]"
-        },
-        {
-          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
-          "url": "https://www.cls.cn/detail/2439413",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -234,16 +261,16 @@
           "time_info": "[01时21分 ~ 09时53分]"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
+          "title": "月之暗面计划 8 月启动上市前最后一轮融资，估值 500 亿美元，Kimi K3 能否撑起千亿估值？",
+          "url": "https://www.zhihu.com/question/2063300922223153511",
+          "source": "知乎",
           "ranks": [
-            10,
-            8
+            13,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时53分 ~ 09时53分]"
+          "time_info": "[09时53分 ~ 13时16分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -258,6 +285,39 @@
           "time_info": "[03时12分 ~ 06时53分]"
         },
         {
+          "title": "会计被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
           "title": "AI重现被困师生救援事件",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%87%8D%E7%8E%B0%E8%A2%AB%E5%9B%B0%E5%B8%88%E7%94%9F%E6%95%91%E6%8F%B4%E4%BA%8B%E4%BB%B6",
           "source": "bilibili 热搜",
@@ -267,6 +327,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 01时22分]"
+        },
+        {
+          "title": "一觉没睡和豆包聊了8个小时",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E8%A7%89%E6%B2%A1%E7%9D%A1%E5%92%8C%E8%B1%86%E5%8C%85%E8%81%8A%E4%BA%868%E4%B8%AA%E5%B0%8F%E6%97%B6&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "AI帮他69次投递拿下工作",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BB%9669%E6%AC%A1%E6%8A%95%E9%80%92%E6%8B%BF%E4%B8%8B%E5%B7%A5%E4%BD%9C&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "抖火杯AI番外大电影",
@@ -312,17 +394,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
-        },
-        {
-          "title": "月之暗面计划 8 月启动上市前最后一轮融资，估值 500 亿美元，Kimi K3 能否撑起千亿估值？",
-          "url": "https://www.zhihu.com/question/2063300922223153511",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
         },
         {
           "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
@@ -391,6 +462,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "AI抛售引发杠杆警报！华尔街银行要求对冲基金追加保证金",
+          "url": "https://flash.jin10.com/detail/20260729123134359800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "周二（7月28日），美股存储芯片与硬件供应链指数跌9.11%，连续三个交易日下跌（累跌20.20%），报172.37点，较6月22日所创收盘历史最高位累计回撤将近37.31%。 美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。此外，SK海力士ADR跌8.98%。 科技股七巨头（Magnificent 7）指数涨0.75%，报210.21点。 “超大”市值科技股指数跌0.40%，报411.70点。 美股超大规模云服务商（Hyperscalers）涨0.78%，报87.55点。 信息科技指数跌3.75%，报367.08点。 人工智能（AI）赢家指数跌5.22%，报350.07点。 AI软件先驱指数涨1.11%，报109.59点。",
           "url": "https://wallstreetcn.com/livenews/3141190",
           "source": "华尔街见闻-快讯",
@@ -441,7 +523,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         }
@@ -449,7 +531,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "抖音乒乓百分大战再现里约对决",
@@ -460,8 +542,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 09时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 13时16分]"
         },
         {
           "title": "又一名小红书前员工曝「距期权归属仅剩 8 天被解除劳动合同」，具体情况如何？其中涉及哪些法律问题？",
@@ -496,9 +578,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "如何看待那英在直播中说「那个冉莹颖是吧，她就是个败家的玩意」？这算真性情吗？",
+          "url": "https://www.zhihu.com/question/2065376504578400455",
+          "source": "知乎",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 13时16分]"
         },
         {
           "title": "蜘蛛侠抖音观影团vlog",
@@ -513,16 +607,26 @@
           "time_info": "[07时54分 ~ 09时53分]"
         },
         {
-          "title": "如何看待那英在直播中说「那个冉莹颖是吧，她就是个败家的玩意」？这算真性情吗？",
-          "url": "https://www.zhihu.com/question/2065376504578400455",
-          "source": "知乎",
+          "title": "抖音乒乓百分大战下次见",
+          "url": "https://www.douyin.com/hot/2588999",
+          "source": "抖音",
           "ranks": [
-            15,
-            20
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时54分 ~ 09时53分]"
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "功夫女足20亿解锁周星驰惊喜抖音",
+          "url": "https://www.douyin.com/hot/2588946",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "网红霸占无居民海岛直播荒岛改造被查",
@@ -603,7 +707,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         }
@@ -648,11 +752,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 09时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 13时16分]"
         }
       ]
     },
