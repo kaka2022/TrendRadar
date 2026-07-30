@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T20:26:32.964832+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-07-30T23:06:31.478060+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
@@ -24,6 +24,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时07分 ~ 18时16分]"
+        },
+        {
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 23时06分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -67,21 +82,6 @@
           "time_info": "[01时07分 ~ 15时31分]"
         },
         {
-          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778264",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 20时26分]"
-        },
-        {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
           "url": "https://wallstreetcn.com/articles/3778177",
           "source": "华尔街见闻",
@@ -93,6 +93,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 09时46分]"
+        },
+        {
+          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
+          "url": "https://wallstreetcn.com/articles/3778258",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 23时06分]"
         },
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -123,19 +136,6 @@
           "time_info": "[07时57分 ~ 18时16分]"
         },
         {
-          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
-          "url": "https://wallstreetcn.com/articles/3778258",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 20时26分]"
-        },
-        {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
           "url": "https://www.cls.cn/detail/2440260",
           "source": "财联社热门",
@@ -153,11 +153,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 23时06分]"
         },
         {
           "title": "Meta Platforms(META.O)首席执行官：得益于人工智能，公司正在打造全新体验，产品交付速度加快。",
@@ -188,7 +189,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -199,7 +200,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -248,6 +249,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "豆包究竟见过多少人的糗事",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%A9%B6%E7%AB%9F%E8%A7%81%E8%BF%87%E5%A4%9A%E5%B0%91%E4%BA%BA%E7%9A%84%E7%B3%97%E4%BA%8B&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "美联储主席沃什：人工智能投资为未来增长奠定基础。",
           "url": "https://flash.jin10.com/detail/20260730023737858800",
           "source": "金十数据",
@@ -271,6 +283,28 @@
           "time_info": "[05时54分 ~ 06时55分]"
         },
         {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 23时06分]"
+        },
+        {
+          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
+          "url": "https://wallstreetcn.com/articles/3778268",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 23时06分]"
+        },
+        {
           "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
           "url": "https://www.zhihu.com/question/2065158710427751418",
           "source": "知乎",
@@ -282,28 +316,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 07时57分]"
-        },
-        {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 20时26分]"
-        },
-        {
-          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
-          "url": "https://wallstreetcn.com/articles/3778268",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 20时26分]"
         },
         {
           "title": "AI手机大战全面开打",
@@ -387,6 +399,17 @@
           "time_info": "[07时57分 ~ 09时46分]"
         },
         {
+          "title": "豆包飞书团队合并",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%A3%9E%E4%B9%A6%E5%9B%A2%E9%98%9F%E5%90%88%E5%B9%B6%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "字节跳动To B战略升级：豆包、飞书、火山引擎组织调整，聚焦AI企业服务",
           "url": "https://wallstreetcn.com/livenews/3142026",
           "source": "华尔街见闻-快讯",
@@ -398,6 +421,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "百亿级量化私募设立AGI公司",
+          "url": "https://wallstreetcn.com/livenews/3142527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "伊拉克真主党旅（Kataib Hezbollah）：将把沙特阿拉伯境内美国的“工具”（代理人/相关设施）作为打击目标。 对美国和沙特阿拉伯的联合袭击作出反击是不可避免的。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
           "url": "https://wallstreetcn.com/livenews/3141783",
           "source": "华尔街见闻-快讯",
@@ -407,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "微软CEO：AI模型应易于切换",
@@ -459,7 +504,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -495,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "AI公司开始抢绝版纸质书",
+          "url": "https://www.toutiao.com/trending/7668311942666128942/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "Meta Platforms(META.O)首席执行官：对新型人工智能创意工具的需求强劲。",
@@ -569,7 +625,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -588,7 +644,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "网红私占宁波无人岛直播改造被查处，个人可以开发利用无居民海岛吗？荒岛为何不能随意建房、居住？",
@@ -639,11 +695,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 23时06分]"
         },
         {
           "title": "司晓迪反复碰瓷艺人收割流量该管了",
@@ -686,6 +743,19 @@
           "time_info": "[15时31分 ~ 18时16分]"
         },
         {
+          "title": "如何看待董宇辉与周星驰的直播互动？",
+          "url": "https://www.zhihu.com/question/2065928846315205455",
+          "source": "知乎",
+          "ranks": [
+            19,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 23时06分]"
+        },
+        {
           "title": "街霸6选手MenaRD入驻B站",
           "url": "https://search.bilibili.com/all?keyword=%E8%A1%97%E9%9C%B86%E9%80%89%E6%89%8BMenaRD%E5%85%A5%E9%A9%BBB%E7%AB%99",
           "source": "bilibili 热搜",
@@ -709,18 +779,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时02分 ~ 05时54分]"
-        },
-        {
-          "title": "如何看待董宇辉与周星驰的直播互动？",
-          "url": "https://www.zhihu.com/question/2065928846315205455",
-          "source": "知乎",
-          "ranks": [
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 20时26分]"
         },
         {
           "title": "全抖音都在cos这个八仙",
@@ -751,7 +809,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -762,7 +820,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -773,7 +831,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -789,15 +847,37 @@
           "time_info": "04时45分"
         },
         {
+          "title": "小米澎程 N90 Max 推广文案中误将公路车轮径写成 25 寸惹争议，公路车轮径应为多少，该如何写？",
+          "url": "https://www.zhihu.com/question/2065822819670402411",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "利率决议落地，黄金继续震荡，僵局还要持续多久？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
           "url": "https://flash.jin10.com/detail/20260730201020657800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "功夫女足20亿解锁周星驰惊喜抖音",
+          "url": "https://www.douyin.com/hot/2588946",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "正在直播",
@@ -830,6 +910,17 @@
           "time_info": "[09时46分 ~ 20时26分]"
         },
         {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 23时06分]"
+        },
+        {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
           "url": "https://www.zhihu.com/question/2065729146383071132",
           "source": "知乎",
@@ -840,17 +931,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 15时31分]"
-        },
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
         },
         {
           "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
