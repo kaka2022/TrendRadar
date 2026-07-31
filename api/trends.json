@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-08-01T06:01:27.958459+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-08-01T07:03:39.554931+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
+        },
+        {
+          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
+          "url": "https://wallstreetcn.com/articles/3778381",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
+        },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
           "url": "https://wallstreetcn.com/articles/3778379",
@@ -19,39 +44,16 @@
           "time_info": "[01时25分 ~ 06时01分]"
         },
         {
-          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
-          "url": "https://www.cls.cn/detail/2442818",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
-        },
-        {
-          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
-          "url": "https://wallstreetcn.com/articles/3778381",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
-        },
-        {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
           "url": "https://wallstreetcn.com/articles/3778376",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -59,11 +61,24 @@
           "source": "抖音",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
+        },
+        {
+          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
+          "url": "https://wallstreetcn.com/articles/3778413",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -74,19 +89,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
         },
         {
-          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
-          "url": "https://wallstreetcn.com/articles/3778413",
+          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
+          "url": "https://wallstreetcn.com/articles/3778421",
           "source": "华尔街见闻",
           "ranks": [
+            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -94,22 +110,61 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
         },
         {
-          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
-          "url": "https://wallstreetcn.com/articles/3778421",
+          "title": "保时捷女销冠回应被AI合成不雅视频",
+          "url": "https://www.toutiao.com/trending/7668540826486865930/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14,
+            24,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
+        },
+        {
+          "title": "市场不相信“神话”：“AI股神”死于杠杆？",
+          "url": "https://wallstreetcn.com/articles/3778378",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
+        },
+        {
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
+        },
+        {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
@@ -123,31 +178,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "保时捷女销冠回应被AI合成不雅视频",
-          "url": "https://www.toutiao.com/trending/7668540826486865930/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            14,
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
-        },
-        {
-          "title": "市场不相信“神话”：“AI股神”死于杠杆？",
-          "url": "https://wallstreetcn.com/articles/3778378",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
-        },
-        {
           "title": "AI男主都能带货了",
           "url": "https://www.baidu.com/s?wd=AI%E7%94%B7%E4%B8%BB%E9%83%BD%E8%83%BD%E5%B8%A6%E8%B4%A7%E4%BA%86",
           "source": "百度热搜",
@@ -156,17 +186,6 @@
             24,
             15,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
-        },
-        {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -197,6 +216,19 @@
           "time_info": "[01时25分 ~ 04时57分]"
         },
         {
+          "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
+          "url": "https://flash.jin10.com/detail/20260801042925321800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时03分]"
+        },
+        {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
           "url": "https://www.zhihu.com/question/2065499504187371980",
           "source": "知乎",
@@ -208,44 +240,55 @@
           "time_info": "[01时25分 ~ 06时01分]"
         },
         {
-          "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
-          "url": "https://flash.jin10.com/detail/20260801042925321800",
-          "source": "金十数据",
+          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143503",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            16
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "华尔街AI股神高杠杆爆仓出局",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97AI%E8%82%A1%E7%A5%9E%E9%AB%98%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93%E5%87%BA%E5%B1%80%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
           "url": "https://flash.jin10.com/detail/20260801052034583800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
-          "url": "https://wallstreetcn.com/livenews/3143487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时03分]"
         },
         {
           "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
@@ -260,16 +303,29 @@
           "time_info": "[04时57分 ~ 06时01分]"
         },
         {
+          "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
+          "url": "https://wallstreetcn.com/livenews/3143487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时03分]"
+        },
+        {
           "title": "消息人士：OpenAI调查人员发现更多AI智能体突破隔离的证据",
           "url": "https://flash.jin10.com/detail/20260801042118367800",
           "source": "金十数据",
           "ranks": [
             12,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时03分]"
         },
         {
           "title": "市场消息：据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
@@ -277,11 +333,23 @@
           "source": "金十数据",
           "ranks": [
             13,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时03分]"
+        },
+        {
+          "title": "报道：OpenAI本周预览了AI模型Astra",
+          "url": "https://wallstreetcn.com/livenews/3143500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
@@ -298,7 +366,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -307,11 +375,12 @@
           "ranks": [
             1,
             4,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -320,11 +389,12 @@
           "ranks": [
             8,
             9,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
         },
         {
           "title": "DeepSeek拟在内蒙古建超算中心",
@@ -333,11 +403,23 @@
           "ranks": [
             10,
             20,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时03分]"
+        },
+        {
+          "title": "如何评价 Deepseek-V4-Flash 正式版？",
+          "url": "https://www.zhihu.com/question/2066525148576998707",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -366,18 +448,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
           "url": "https://flash.jin10.com/detail/20260801052517590800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时03分]"
+        },
+        {
+          "title": "因担忧虚假图像，谷歌撤回地球AI工具",
+          "url": "https://wallstreetcn.com/livenews/3143502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "07时03分"
         },
         {
           "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
@@ -415,8 +509,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
         },
         {
           "title": "低价大流量卡将集体退场",
@@ -425,11 +519,12 @@
           "ranks": [
             2,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
         },
         {
           "title": "如何评价 2026 年 7 月米哈游《原神》7.0 前瞻直播【无神怜爱的雪国】？",
