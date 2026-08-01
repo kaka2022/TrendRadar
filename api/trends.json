@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T10:04:56.067013+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-08-01T13:48:57.443340+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 13时48分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 13时48分]"
         },
         {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 13时48分]"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
@@ -88,11 +88,38 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 13时48分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 13时48分]"
+        },
+        {
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 13时48分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -108,29 +135,15 @@
           "time_info": "[01时25分 ~ 10时04分]"
         },
         {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            10,
-            13
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时04分]"
-        },
-        {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时04分]"
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 13时48分]"
         },
         {
           "title": "保时捷女销冠回应被AI合成不雅视频",
@@ -146,17 +159,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时25分 ~ 07时03分]"
-        },
-        {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时03分 ~ 10时04分]"
         },
         {
           "title": "市场不相信“神话”：“AI股神”死于杠杆？",
@@ -197,6 +199,18 @@
           "time_info": "01时25分"
         },
         {
+          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
+          "url": "https://www.zhihu.com/question/2066465758503252393",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时48分]"
+        },
+        {
           "title": "华尔街自2020年以来最大规模资金轮动，暴露AI交易拥挤风险",
           "url": "https://wallstreetcn.com/livenews/3143459",
           "source": "华尔街见闻-快讯",
@@ -219,6 +233,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时25分 ~ 04时57分]"
+        },
+        {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 13时48分]"
         },
         {
           "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
@@ -257,18 +284,6 @@
           "time_info": "[07时03分 ~ 10时04分]"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时03分 ~ 10时04分]"
-        },
-        {
           "title": "华尔街AI股神高杠杆爆仓出局",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97AI%E8%82%A1%E7%A5%9E%E9%AB%98%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93%E5%87%BA%E5%B1%80%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -287,18 +302,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
-          "url": "https://www.zhihu.com/question/2066465758503252393",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -309,7 +313,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -320,7 +324,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -331,7 +335,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -342,9 +346,159 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "AI女团选秀108位参赛9人成团",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%A5%B3%E5%9B%A2%E9%80%89%E7%A7%80108%E4%BD%8D%E5%8F%82%E8%B5%9B9%E4%BA%BA%E6%88%90%E5%9B%A2&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "媒体：AI正着手打造更强的下一代AI",
+          "url": "https://www.toutiao.com/trending/7668632163583004201/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2066521165246489298",
+          "source": "知乎",
+          "ranks": [
+            1,
+            4,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时03分]"
+        },
+        {
+          "title": "DeepSeek V4 Flash正式版强在哪",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            25,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 10时04分]"
+        },
+        {
+          "title": "DeepSeek拟在内蒙古建超算中心",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            20,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时03分]"
+        },
+        {
+          "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "如何评价 Deepseek-V4-Flash 正式版？",
+          "url": "https://www.zhihu.com/question/2066525148576998707",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
+          "url": "https://www.zhihu.com/question/2066526486505461299",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时13分]"
+        },
+        {
+          "title": "实测DeepSeek V4 Flash",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时48分]"
+        },
+        {
+          "title": "DeepSeek-V4-Flash 正式版API上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "DeepSeekV4Flash正式版跑分出炉",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E8%B7%91%E5%88%86%E5%87%BA%E7%82%89%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     },
@@ -419,11 +573,12 @@
           "url": "https://wallstreetcn.com/articles/3778448",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时48分]"
         },
         {
           "title": "美媒：OpenAI面临投资者担忧与竞争压力，IPO或推迟至明年",
@@ -432,7 +587,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -454,7 +609,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -468,100 +623,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2066521165246489298",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时03分]"
-        },
-        {
-          "title": "DeepSeek V4 Flash正式版强在哪",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            25,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时04分]"
-        },
-        {
-          "title": "DeepSeek拟在内蒙古建超算中心",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            20,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 07时03分]"
-        },
-        {
-          "title": "实测DeepSeek V4 Flash",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "如何评价 Deepseek-V4-Flash 正式版？",
-          "url": "https://www.zhihu.com/question/2066525148576998707",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
-          "url": "https://www.zhihu.com/question/2066526486505461299",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时13分]"
-        },
-        {
-          "title": "DeepSeek-V4-Flash 正式版API上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
         }
       ]
     },
@@ -619,7 +680,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "低价大流量卡将集体退场",
@@ -658,6 +719,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 03时13分]"
+        },
+        {
+          "title": "小澈直播被封",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     },
@@ -672,11 +744,12 @@
           "ranks": [
             30,
             26,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 10时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 13时48分]"
         },
         {
           "title": "白狗偷猪腿 店员狂追没追上",
@@ -700,11 +773,12 @@
           "url": "https://www.toutiao.com/trending/7668537380344725542/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时48分]"
         }
       ]
     }
