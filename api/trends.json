@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T16:08:13.992744+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-08-01T18:29:51.947754+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 16时08分]"
+          "appearance_count": 12,
+          "time_info": "[01时25分 ~ 18时29分]"
         },
         {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
@@ -58,6 +59,17 @@
           "time_info": "[01时25分 ~ 06时01分]"
         },
         {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时03分 ~ 18时29分]"
+        },
+        {
           "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
           "url": "https://wallstreetcn.com/articles/3778413",
           "source": "华尔街见闻",
@@ -81,19 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 16时08分]"
-        },
-        {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时03分 ~ 16时08分]"
+          "appearance_count": 12,
+          "time_info": "[01时25分 ~ 18时29分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -107,8 +108,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 16时08分]"
+          "appearance_count": 12,
+          "time_info": "[01时25分 ~ 18时29分]"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
@@ -190,6 +191,19 @@
           "time_info": "[01时25分 ~ 10时04分]"
         },
         {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时03分 ~ 18时29分]"
+        },
+        {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
           "url": "https://www.cls.cn/detail/2442428",
           "source": "财联社热门",
@@ -212,19 +226,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时04分 ~ 16时08分]"
-        },
-        {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时03分 ~ 16时08分]"
         },
         {
           "title": "华尔街自2020年以来最大规模资金轮动，暴露AI交易拥挤风险",
@@ -251,6 +252,18 @@
           "time_info": "[01时25分 ~ 04时57分]"
         },
         {
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 18时29分]"
+        },
+        {
           "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
           "url": "https://flash.jin10.com/detail/20260801042925321800",
           "source": "金十数据",
@@ -262,6 +275,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 07时03分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 18时29分]"
+        },
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 18时29分]"
         },
         {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
@@ -298,42 +335,9 @@
           "time_info": "[07时03分 ~ 10时04分]"
         },
         {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 16时08分]"
-        },
-        {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 16时08分]"
-        },
-        {
           "title": "头部AI再失控 Claude黑进三家公司",
           "url": "https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8AI%E5%86%8D%E5%A4%B1%E6%8E%A7+Claude%E9%BB%91%E8%BF%9B%E4%B8%89%E5%AE%B6%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 16时08分]"
-        },
-        {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
           "ranks": [
             17
           ],
@@ -376,6 +380,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "00后AI股神清仓血亏1400亿",
           "url": "https://s.weibo.com/weibo?q=00%E5%90%8EAI%E8%82%A1%E7%A5%9E%E6%B8%85%E4%BB%93%E8%A1%80%E4%BA%8F1400%E4%BA%BF&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -385,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "Kimi K3为何引发市场热议",
@@ -462,8 +488,34 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 16时08分]"
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 18时29分]"
+        },
+        {
+          "title": "实测DeepSeek V4 Flash",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            18,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 18时29分]"
+        },
+        {
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 18时29分]"
         },
         {
           "title": "DeepSeek拟在内蒙古建超算中心",
@@ -491,19 +543,6 @@
           "time_info": "13时48分"
         },
         {
-          "title": "实测DeepSeek V4 Flash",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 16时08分]"
-        },
-        {
           "title": "如何评价 Deepseek-V4-Flash 正式版？",
           "url": "https://www.zhihu.com/question/2066525148576998707",
           "source": "知乎",
@@ -513,18 +552,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        },
-        {
-          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
-          "url": "https://www.zhihu.com/question/2066599476764964006",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 16时08分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -567,7 +594,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -595,11 +622,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 16时08分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 18时29分]"
         },
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
@@ -711,7 +739,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "低价大流量卡将集体退场",
@@ -740,6 +768,18 @@
           "time_info": "[01时25分 ~ 07时03分]"
         },
         {
+          "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
+          "url": "https://www.zhihu.com/question/2066605797186823402",
+          "source": "知乎",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 18时29分]"
+        },
+        {
           "title": "小澈直播被封",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -764,15 +804,15 @@
           "time_info": "[01时25分 ~ 03时13分]"
         },
         {
-          "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
-          "url": "https://www.zhihu.com/question/2066605797186823402",
-          "source": "知乎",
+          "title": "低价大流量卡将集体退场",
+          "url": "https://www.toutiao.com/trending/7667958339342762026/",
+          "source": "今日头条",
           "ranks": [
-            13
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 16时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
