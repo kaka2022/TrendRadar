@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T13:33:34.744402+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-08-02T16:10:24.047126+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -82,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 13时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 16时10分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -95,8 +95,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 13时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 16时10分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -123,6 +123,18 @@
           "time_info": "[00时54分 ~ 10时02分]"
         },
         {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 16时10分]"
+        },
+        {
           "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
           "url": "https://wallstreetcn.com/articles/3778491",
           "source": "华尔街见闻",
@@ -136,16 +148,15 @@
           "time_info": "[06时47分 ~ 13时33分]"
         },
         {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
+          "title": "中国AI大模型的优势在哪里",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            10
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 13时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
@@ -156,8 +167,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 16时10分]"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 16时10分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -183,15 +206,15 @@
           "time_info": "[00时53分 ~ 00时54分]"
         },
         {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "16时10分"
         },
         {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
@@ -200,7 +223,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -214,12 +237,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "天才女友 AI片头",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "人形机器人做家政：每小时30美元",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E5%AE%B6%E6%94%BF%EF%BC%9A%E6%AF%8F%E5%B0%8F%E6%97%B630%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         }
       ]
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
@@ -248,26 +293,16 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "宝蓝直播间冷清,首冠辅助过气",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356714&amp;topic_name=%E5%AE%9D%E8%93%9D%E7%9B%B4%E6%92%AD%E9%97%B4%E5%86%B7%E6%B8%85%2C%E9%A6%96%E5%86%A0%E8%BE%85%E5%8A%A9%E8%BF%87%E6%B0%94",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
           "title": "低价流量卡退场,用户直呼被宰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356718&amp;topic_name=%E4%BD%8E%E4%BB%B7%E6%B5%81%E9%87%8F%E5%8D%A1%E9%80%80%E5%9C%BA%2C%E7%94%A8%E6%88%B7%E7%9B%B4%E5%91%BC%E8%A2%AB%E5%AE%B0",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 16时10分]"
         },
         {
           "title": "小红书旅游帖 诈骗",
@@ -276,7 +311,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -293,6 +328,18 @@
           "time_info": "[00时53分 ~ 02时58分]"
         },
         {
+          "title": "宝蓝直播间冷清,首冠辅助过气",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356714&amp;topic_name=%E5%AE%9D%E8%93%9D%E7%9B%B4%E6%92%AD%E9%97%B4%E5%86%B7%E6%B8%85%2C%E9%A6%96%E5%86%A0%E8%BE%85%E5%8A%A9%E8%BF%87%E6%B0%94",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 16时10分]"
+        },
+        {
           "title": "谢贤前女友CoCo直播回应与张柏芝关系",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B4%A4%E5%89%8D%E5%A5%B3%E5%8F%8BCoCo%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%85%B3%E7%B3%BB%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -304,13 +351,36 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "抖音作者上手揭秘“天下第一刀”",
+          "url": "https://www.douyin.com/hot/2593694",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 16时10分]"
+        },
+        {
+          "title": "在抖音看演唱会直播",
+          "url": "https://www.douyin.com/hot/2593701",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
           "title": "迪丽热巴居然用这个文案还卡928",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B1%85%E7%84%B6%E7%94%A8%E8%BF%99%E4%B8%AA%E6%96%87%E6%A1%88%E8%BF%98%E5%8D%A1928%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -324,17 +394,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
-        },
-        {
-          "title": "抖音作者上手揭秘“天下第一刀”",
-          "url": "https://www.douyin.com/hot/2593694",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         }
       ]
     },
@@ -351,11 +410,12 @@
             24,
             22,
             26,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 13时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 16时10分]"
         },
         {
           "title": "美国两名男子打架 狗为护主互相撕咬",
@@ -375,9 +435,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 16时10分]"
         },
         {
           "title": "吴老狗霍仙姑感情线",
@@ -386,7 +446,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         }
@@ -402,11 +462,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 13时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 16时10分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -417,8 +478,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 13时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 16时10分]"
         },
         {
           "title": "OpenAI的10项数学突破含金量多高",
@@ -427,7 +488,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         }
