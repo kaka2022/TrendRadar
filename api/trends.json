@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T18:35:40.835766+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-08-03T21:35:48.324716+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 29,
+      "match_count": 36,
       "titles": [
         {
           "title": "国产大模型调用量全球领先",
@@ -144,6 +144,18 @@
           "time_info": "07时53分"
         },
         {
+          "title": "AI短剧女主60秒广告报价25万8",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB60%E7%A7%92%E5%B9%BF%E5%91%8A%E6%8A%A5%E4%BB%B725%E4%B8%878%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 21时35分]"
+        },
+        {
           "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
           "url": "https://www.cls.cn/detail/2443873",
           "source": "财联社热门",
@@ -154,6 +166,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时13分 ~ 18时35分]"
+        },
+        {
+          "title": "中金：AI之外还有什么值得买",
+          "url": "https://wallstreetcn.com/articles/3778538",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 21时35分]"
         },
         {
           "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
@@ -179,6 +203,30 @@
           "time_info": "[10时03分 ~ 14时13分]"
         },
         {
+          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708536",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 21时35分]"
+        },
+        {
+          "title": "UP主自制AI短片 洪流之上",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 21时35分]"
+        },
+        {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
           "url": "https://wallstreetcn.com/livenews/3143681",
           "source": "华尔街见闻-快讯",
@@ -202,26 +250,48 @@
           "time_info": "14时13分"
         },
         {
+          "title": "我用AI创造虚拟世界 弹幕即神谕",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%88%9B%E9%80%A0%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%20%E5%BC%B9%E5%B9%95%E5%8D%B3%E7%A5%9E%E8%B0%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2444244",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
           "url": "https://wallstreetcn.com/articles/3778511",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
         {
-          "title": "中金：AI之外还有什么值得买",
-          "url": "https://wallstreetcn.com/articles/3778538",
+          "title": "AI牛市最糟糕的时候过去了吗？华尔街：真正的考验才刚开始",
+          "url": "https://wallstreetcn.com/articles/3778561",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "21时35分"
         },
         {
           "title": "A股AI应用热门股利欧股份上午涨停后开板，午后再次封板，截至发稿，涨停板上有超53万手封板，报5.13元/股，总市值为347.39亿元，成交额为68.24亿元。",
@@ -246,35 +316,24 @@
           "time_info": "10时03分"
         },
         {
+          "title": "金珵科技李金金：我向联合国秘书长介绍“AI+制造”广阔前景 |“十五五”开新局当尖兵",
+          "url": "https://www.cls.cn/detail/2444220",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "美联储威廉姆斯：人工智能投资不会带来金融稳定风险。对人工智能行业的波动并不感到惊讶。",
           "url": "https://flash.jin10.com/detail/20260803180436783800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33708536",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "UP主自制AI短片 洪流之上",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -301,6 +360,28 @@
           "time_info": "07时53分"
         },
         {
+          "title": "AI短剧女主60秒广告报价25万8",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB60%E7%A7%92%E5%B9%BF%E5%91%8A%E6%8A%A5%E4%BB%B725%E4%B8%878",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "中国信通院：2025年我国人工智能产业规模超1.2万亿元",
+          "url": "https://wallstreetcn.com/livenews/3144151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "A股人形机器人概念走强，截至发稿，中大力德涨停，丰光精密、福莱新材、奥比中光等跟涨。",
           "url": "https://flash.jin10.com/detail/20260803094525669800",
           "source": "金十数据",
@@ -323,17 +404,6 @@
           "time_info": "14时13分"
         },
         {
-          "title": "AI短剧女主60秒广告报价25万8",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB60%E7%A7%92%E5%B9%BF%E5%91%8A%E6%8A%A5%E4%BB%B725%E4%B8%878%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "如何看待美国AI公司“焚书”",
           "url": "https://www.toutiao.com/trending/7669588607174184458/",
           "source": "今日头条",
@@ -343,12 +413,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "个人投资者用AI炮制谣言牟利被罚没48.5万元",
+          "url": "https://wallstreetcn.com/livenews/3144135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         }
       ]
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "低价流量卡退场,用户直呼被宰",
@@ -358,11 +439,12 @@
             3,
             5,
             16,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 18时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 21时35分]"
         },
         {
           "title": "宝蓝直播间冷清,首冠辅助过气",
@@ -407,11 +489,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33708573",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 21时35分]"
+        },
+        {
+          "title": "黄金波动幅度继续缩小，震荡僵局何时打破？应该关注哪些信号？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260803210544124800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "21时35分"
         },
         {
           "title": "如何看待某解说在二路直播中涉及 TheShy 的不当言论引发争议，联盟回应将进行处罚？",
@@ -425,15 +519,37 @@
           "time_info": "14时13分"
         },
         {
+          "title": "正在直播",
+          "url": "https://flash.jin10.com/detail/20260803205458017800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "米哈游终止与云南昊曦文化传媒合作并将其列入黑名单，游戏厂商和内容创作者之间的合作还有哪些坑需要注意？",
           "url": "https://www.zhihu.com/question/2067558770406683905",
           "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "加息预期压顶，黄金震荡区间来回拉锯，多头还有机会吗？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260803204052712800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "莫氏鸡煲老板说如果再来流量会关店",
@@ -472,7 +588,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -503,6 +619,17 @@
           "time_info": "[00时52分 ~ 06时48分]"
         },
         {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
           "url": "https://www.zhihu.com/question/2065010626171293829",
           "source": "知乎",
@@ -523,9 +650,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -534,7 +672,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
@@ -564,9 +702,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 21时35分]"
         },
         {
           "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
@@ -575,7 +713,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
@@ -606,7 +744,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
