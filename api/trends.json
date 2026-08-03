@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T14:13:56.242511+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-08-03T18:35:40.835766+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "国产大模型调用量全球领先",
@@ -50,11 +50,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 14时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 18时35分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -109,24 +110,25 @@
           "time_info": "[00时52分 ~ 06时48分]"
         },
         {
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 18时35分]"
+        },
+        {
           "title": "豆包简直是压力全吃之人",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%AE%80%E7%9B%B4%E6%98%AF%E5%8E%8B%E5%8A%9B%E5%85%A8%E5%90%83%E4%B9%8B%E4%BA%BA&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
-          "url": "https://www.cls.cn/detail/2443826",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -140,6 +142,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
+          "url": "https://www.cls.cn/detail/2443873",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 18时35分]"
         },
         {
           "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
@@ -183,9 +197,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
+          "url": "https://wallstreetcn.com/articles/3778511",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "中金：AI之外还有什么值得买",
+          "url": "https://wallstreetcn.com/articles/3778538",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "A股AI应用热门股利欧股份上午涨停后开板，午后再次封板，截至发稿，涨停板上有超53万手封板，报5.13元/股，总市值为347.39亿元，成交额为68.24亿元。",
@@ -194,7 +230,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -210,15 +246,37 @@
           "time_info": "10时03分"
         },
         {
-          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
-          "url": "https://www.cls.cn/detail/2443873",
-          "source": "财联社热门",
+          "title": "美联储威廉姆斯：人工智能投资不会带来金融稳定风险。对人工智能行业的波动并不感到惊讶。",
+          "url": "https://flash.jin10.com/detail/20260803180436783800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时13分"
+          "time_info": "18时35分"
+        },
+        {
+          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708536",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "UP主自制AI短片 洪流之上",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "A股AI应用端再度走强，吉宏股份涨停，此前传智教育6连板，天娱数科、恒银科技2连板，福昕软件、易点天下、蜂助手、利欧股份、蓝色光标等跟涨。",
@@ -260,9 +318,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "AI短剧女主60秒广告报价25万8",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB60%E7%A7%92%E5%B9%BF%E5%91%8A%E6%8A%A5%E4%BB%B725%E4%B8%878%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "如何看待美国AI公司“焚书”",
@@ -279,7 +348,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "低价流量卡退场,用户直呼被宰",
@@ -288,11 +357,12 @@
           "ranks": [
             3,
             5,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 14时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 18时35分]"
         },
         {
           "title": "宝蓝直播间冷清,首冠辅助过气",
@@ -325,11 +395,23 @@
           "source": "抖音",
           "ranks": [
             17,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 14时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 18时35分]"
+        },
+        {
+          "title": "音乐老师在校跳舞发抖音被家长投诉，回应“约谈”称会按学校要求来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708573",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "如何看待某解说在二路直播中涉及 TheShy 的不当言论引发争议，联盟回应将进行处罚？",
@@ -338,9 +420,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "米哈游终止与云南昊曦文化传媒合作并将其列入黑名单，游戏厂商和内容创作者之间的合作还有哪些坑需要注意？",
+          "url": "https://www.zhihu.com/question/2067558770406683905",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "莫氏鸡煲老板说如果再来流量会关店",
@@ -379,7 +472,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -422,29 +515,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时11分 ~ 07时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
-          "url": "https://www.zhihu.com/question/2065724643378570793",
-          "source": "知乎",
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.toutiao.com/trending/7669679149316836902/",
+          "source": "今日头条",
           "ranks": [
-            14
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时13分"
+          "time_info": "18时35分"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A8%A1%E5%9E%8B%E5%8D%95%E6%97%A5%E5%90%9E%E4%B8%8B8%E4%B8%87%E4%BA%BFToken",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -458,12 +556,34 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时52分 ~ 14时13分]"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         }
       ]
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小狗其实是知道自己是小狗的",
@@ -478,6 +598,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时59分 ~ 07时53分]"
+        },
+        {
+          "title": "双马尾小狗因长得“潦草”火出圈",
+          "url": "https://www.toutiao.com/trending/7669668424356839450/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     }
