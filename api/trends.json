@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T10:03:46.419941+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-08-03T14:13:56.242511+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "国产大模型调用量全球领先",
@@ -31,6 +31,32 @@
           "time_info": "[00时52分 ~ 10时03分]"
         },
         {
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 14时13分]"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 14时13分]"
+        },
+        {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
           "source": "澎湃新闻",
@@ -41,30 +67,6 @@
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时52分 ~ 10时03分]"
-        },
-        {
-          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
-          "url": "https://wallstreetcn.com/articles/3778505",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时03分]"
-        },
-        {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
           "time_info": "[00时52分 ~ 10时03分]"
         },
         {
@@ -107,6 +109,28 @@
           "time_info": "[00时52分 ~ 06时48分]"
         },
         {
+          "title": "豆包简直是压力全吃之人",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%AE%80%E7%9B%B4%E6%98%AF%E5%8E%8B%E5%8A%9B%E5%85%A8%E5%90%83%E4%B9%8B%E4%BA%BA&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "QFII二季度调仓呈现“头部化”特征，外资机构纷纷看好中国AI产业链",
           "url": "https://wallstreetcn.com/livenews/3143755",
           "source": "华尔街见闻-快讯",
@@ -130,6 +154,17 @@
           "time_info": "[07时53分 ~ 10时03分]"
         },
         {
+          "title": "涉及中国AI，两家英媒同日发文",
+          "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 14时13分]"
+        },
+        {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
           "url": "https://wallstreetcn.com/livenews/3143681",
           "source": "华尔街见闻-快讯",
@@ -142,26 +177,48 @@
           "time_info": "[00时52分 ~ 01时56分]"
         },
         {
+          "title": "高盛公布8月强推股名单：AI仍是最看好板块，这家万亿美元公司更是超预期",
+          "url": "https://flash.jin10.com/detail/20260803135103514800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "A股AI应用热门股利欧股份上午涨停后开板，午后再次封板，截至发稿，涨停板上有超53万手封板，报5.13元/股，总市值为347.39亿元，成交额为68.24亿元。",
+          "url": "https://flash.jin10.com/detail/20260803134324481800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "两台电脑交火跑AI是什么体验",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E5%8F%B0%E7%94%B5%E8%84%91%E4%BA%A4%E7%81%AB%E8%B7%91AI%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
         {
-          "title": "涉及中国AI，两家英媒同日发文",
-          "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
-          "source": "凤凰网",
+          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
+          "url": "https://www.cls.cn/detail/2443873",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "14时13分"
         },
         {
           "title": "A股AI应用端再度走强，吉宏股份涨停，此前传智教育6连板，天娱数科、恒银科技2连板，福昕软件、易点天下、蜂助手、利欧股份、蓝色光标等跟涨。",
@@ -170,7 +227,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -192,9 +249,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "AI应用端再爆发",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%BA%94%E7%94%A8%E7%AB%AF%E5%86%8D%E7%88%86%E5%8F%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "如何看待美国AI公司“焚书”",
@@ -203,7 +271,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         }
@@ -211,7 +279,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "低价流量卡退场,用户直呼被宰",
@@ -219,11 +287,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 14时13分]"
         },
         {
           "title": "宝蓝直播间冷清,首冠辅助过气",
@@ -231,11 +300,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 14时13分]"
         },
         {
           "title": "全抖音都在模仿痴迷名场面",
@@ -254,11 +324,23 @@
           "url": "https://www.douyin.com/hot/2593694",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 14时13分]"
+        },
+        {
+          "title": "如何看待某解说在二路直播中涉及 TheShy 的不当言论引发争议，联盟回应将进行处罚？",
+          "url": "https://www.zhihu.com/question/2067451866271703097",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "14时13分"
         },
         {
           "title": "莫氏鸡煲老板说如果再来流量会关店",
@@ -267,7 +349,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -278,7 +360,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -300,6 +382,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 14时13分]"
+        },
+        {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
           "url": "https://www.zhihu.com/question/2067212789714778007",
           "source": "知乎",
@@ -313,18 +408,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 06时48分]"
-        },
-        {
-          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
-          "url": "https://www.cls.cn/detail/2443548",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时03分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -343,6 +426,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -352,11 +452,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 14时13分]"
         }
       ]
     },
