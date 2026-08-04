@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-05T03:22:00.353682+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-08-05T05:04:55.221540+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 9,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "SpaceX二季度AI Segment资本开支158.3亿美元，分析师预期130.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3144942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
         {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
           "url": "https://www.cls.cn/detail/2445244",
@@ -16,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时04分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -27,19 +38,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时04分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
           "url": "https://wallstreetcn.com/articles/3778632",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时04分]"
+        },
+        {
+          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时04分]"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
@@ -54,15 +77,26 @@
           "time_info": "[01时38分 ~ 03时22分]"
         },
         {
-          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
-          "source": "澎湃新闻",
+          "title": "三星探索内存新技术：垂直堆叠于AI加速器之上 密度超传统HBM5十倍",
+          "url": "https://flash.jin10.com/detail/20260805042229616800",
+          "source": "金十数据",
           "ranks": [
-            18
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "SpaceX在AI领域亏损超预期",
+          "url": "https://wallstreetcn.com/livenews/3144935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "美媒：白宫不计划公开先进AI模型评估框架细节",
@@ -71,9 +105,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)2026年第二季度AI收入25.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20260805041049500800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
+          "url": "https://www.zhihu.com/question/2067720724765045518",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "据Axios：白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
@@ -82,7 +138,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -98,6 +154,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "zHBM！三星公布全新3D内存路线图，力争在AI技术领域取得领先",
+          "url": "https://wallstreetcn.com/livenews/3144926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "人不在工位一定要把豆包关了",
           "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E8%B1%86%E5%8C%85%E5%85%B3%E4%BA%86&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -107,6 +174,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "SpaceX宣布：与英伟达合作开发“星智AI1”卫星计算载荷，配置Rubin GPU和Vera CPU",
+          "url": "https://wallstreetcn.com/livenews/3144920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "黄仁勋：马斯克是AI竞赛的赢家，基于基础设施的“算力数学”使然",
+          "url": "https://wallstreetcn.com/livenews/3144917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)：SpaceX正与英伟达(NVDA.O)合作设计Starmind AI1卫星计算载荷。每颗Starmind卫星将搭载英伟达Rubin GPU和Vera CPU，用于提供数据中心级别的太空计算能力。",
+          "url": "https://flash.jin10.com/detail/20260805033433216800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "UP主用AI证伪经典数学猜想",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E8%AF%81%E4%BC%AA%E7%BB%8F%E5%85%B8%E6%95%B0%E5%AD%A6%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         }
       ]
     },
@@ -120,23 +231,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时22分]"
-        },
-        {
-          "title": "中国版“生物DeepSeek”诞生",
-          "url": "https://www.toutiao.com/trending/7670182284162502194/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时04分]"
         },
         {
           "title": "疑似梁文锋早期微博被扒",
@@ -146,8 +246,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时04分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -155,6 +255,18 @@
           "source": "百度热搜",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时04分]"
+        },
+        {
+          "title": "中国版“生物DeepSeek”诞生",
+          "url": "https://www.toutiao.com/trending/7670182284162502194/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -171,22 +283,24 @@
           "url": "https://www.toutiao.com/trending/7670156473317834806/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时04分]"
         },
         {
           "title": "大冰直播时牙冠脱落淡定捡起装回",
           "url": "https://www.toutiao.com/trending/7669799635478020132/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时04分]"
         },
         {
           "title": "抖音手瓦选秀大会",
@@ -197,8 +311,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时04分]"
         }
       ]
     },
@@ -214,8 +328,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时04分]"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -227,6 +341,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "每天提早上班就为了看别人家狗",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%8F%E5%A4%A9%E6%8F%90%E6%97%A9%E4%B8%8A%E7%8F%AD%E5%B0%B1%E4%B8%BA%E4%BA%86%E7%9C%8B%E5%88%AB%E4%BA%BA%E5%AE%B6%E7%8B%97&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         }
       ]
     }
