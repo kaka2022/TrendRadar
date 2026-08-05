@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T13:40:40.604000+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-08-05T16:25:01.640041+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "AI做题吊打日本名校状元",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时38分 ~ 13时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时38分 ~ 16时25分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -32,6 +33,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时38分 ~ 10时11分]"
+        },
+        {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 16时25分]"
         },
         {
           "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
@@ -55,18 +68,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时38分 ~ 07时58分]"
-        },
-        {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 13时40分]"
         },
         {
           "title": "阿里整合千问办公、腾讯升级 WorkBuddy 、字节合并飞书豆包，如今大厂为何集体押注 AI 办公？",
@@ -138,6 +139,28 @@
           "time_info": "[10时10分 ~ 13时40分]"
         },
         {
+          "title": "梁文峰会不会成为中国 AI 里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
+          "url": "https://www.cls.cn/detail/2446218",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
           "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
           "url": "https://wallstreetcn.com/livenews/3144979",
           "source": "华尔街见闻-快讯",
@@ -148,6 +171,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时58分]"
+        },
+        {
+          "title": "AI做的动物尺度太大了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "在对国内外各种 AI 大模型的讨论中，为什么很少提到小米的 MiMo 大模型，这个模型的水平如何，好用吗？",
@@ -225,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "鸿海：7月销售额9,465.1亿元台币，首次突破9,000亿新台币，同比增长54.2％。 展望第三季度，AI机架出货量预计将保持增长。 整体运营前景预计将实现环比和同比双增长。 仍有必要监测全球政经局势动荡所带来的影响。",
+          "url": "https://wallstreetcn.com/livenews/3145241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "SpaceX(SPCX.O)2026年第二季度AI收入25.61亿美元。",
@@ -315,6 +360,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长。",
+          "url": "https://flash.jin10.com/detail/20260805153519379800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "华泰证券：建议关注AI应用和国产模型两条投资主线",
           "url": "https://wallstreetcn.com/livenews/3145028",
           "source": "华尔街见闻-快讯",
@@ -332,7 +388,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -365,7 +421,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -398,7 +454,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -506,7 +562,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         }
@@ -534,9 +590,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时25分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -575,7 +631,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "抖音手瓦选秀大会",
@@ -586,11 +642,12 @@
             17,
             22,
             21,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时38分 ~ 13时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时38分 ~ 16时25分]"
         },
         {
           "title": "抖音7月处置色情低俗内容40.3万条",
@@ -627,16 +684,38 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时25分]"
+        },
+        {
+          "title": "央视曝午夜直播色情引流乱象",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%8D%88%E5%A4%9C%E7%9B%B4%E6%92%AD%E8%89%B2%E6%83%85%E5%BC%95%E6%B5%81%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         }
       ]
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "狗仔爆某天王歌手有私生子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356794&amp;topic_name=%E7%8B%97%E4%BB%94%E7%88%86%E6%9F%90%E5%A4%A9%E7%8E%8B%E6%AD%8C%E6%89%8B%E6%9C%89%E7%A7%81%E7%94%9F%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
         {
           "title": "每天提早上班就为了看别人家狗",
           "url": "https://s.weibo.com/weibo?q=%E6%AF%8F%E5%A4%A9%E6%8F%90%E6%97%A9%E4%B8%8A%E7%8F%AD%E5%B0%B1%E4%B8%BA%E4%BA%86%E7%9C%8B%E5%88%AB%E4%BA%BA%E5%AE%B6%E7%8B%97&t=31&band_rank=22&Refer=top",
@@ -655,11 +734,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33713963",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时25分]"
         }
       ]
     }
