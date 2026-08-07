@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T06:27:55.305055+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-08-08T07:27:52.584650+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何看待张一鸣与梁文峰被评「正以完全不同的方向迈向 AGI」？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -29,11 +29,12 @@
             9,
             17,
             5,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -44,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -55,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -68,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -79,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -108,6 +109,18 @@
           "time_info": "[01时23分 ~ 02时44分]"
         },
         {
+          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时47分 ~ 07时27分]"
+        },
+        {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3146852",
           "source": "华尔街见闻-快讯",
@@ -133,17 +146,6 @@
           "time_info": "[01时24分 ~ 01时43分]"
         },
         {
-          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时47分 ~ 06时27分]"
-        },
-        {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
           "url": "https://flash.jin10.com/detail/20260808032042397800",
           "source": "金十数据",
@@ -153,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -169,8 +182,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3146942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
           "url": "https://wallstreetcn.com/livenews/3146841",
@@ -266,11 +290,12 @@
             19,
             23,
             22,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -280,19 +305,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时47分 ~ 06时27分]"
+          "appearance_count": 5,
+          "time_info": "[03时47分 ~ 07时27分]"
         }
       ]
     },
@@ -306,11 +332,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
         },
         {
           "title": "利用未成年人喊网友“爸爸”博流量，多个主播账号被封禁",
@@ -318,11 +345,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
         },
         {
           "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
@@ -332,8 +360,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
         }
       ]
     },
@@ -350,8 +378,25 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "医生回应女子被狗舔脚确诊三级暴露",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%8B%97%E8%88%94%E8%84%9A%E7%A1%AE%E8%AF%8A%E4%B8%89%E7%BA%A7%E6%9A%B4%E9%9C%B2%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     }
