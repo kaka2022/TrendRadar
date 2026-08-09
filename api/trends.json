@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T01:24:44.152684+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-08-10T02:29:44.753704+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "网民AI造谣“西平灭门案”被行拘",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
@@ -60,8 +60,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "作者来整活,豆包成主角DS器灵",
@@ -71,8 +71,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -82,8 +82,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "期刊《中国经济问题》发布AI使用规范：不得替代作者开展实质性研究",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
+          "url": "https://www.zhihu.com/question/2068991097578021742",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         }
       ]
     },
@@ -107,11 +118,25 @@
           "url": "https://www.zhihu.com/question/2069321207866987893",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
+        },
+        {
+          "title": "羊群过马路 牧羊犬见有车飞奔而来",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8A%E7%BE%A4%E8%BF%87%E9%A9%AC%E8%B7%AF+%E7%89%A7%E7%BE%8A%E7%8A%AC%E8%A7%81%E6%9C%89%E8%BD%A6%E9%A3%9E%E5%A5%94%E8%80%8C%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "最会过马路的小狗出现了",
@@ -120,18 +145,6 @@
           "ranks": [
             9,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时24分]"
-        },
-        {
-          "title": "羊群过马路 牧羊犬见有车飞奔而来",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8A%E7%BE%A4%E8%BF%87%E9%A9%AC%E8%B7%AF+%E7%89%A7%E7%BE%8A%E7%8A%AC%E8%A7%81%E6%9C%89%E8%BD%A6%E9%A3%9E%E5%A5%94%E8%80%8C%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -149,11 +162,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "郑润泽发抖音是忘记加bgm了吗",
