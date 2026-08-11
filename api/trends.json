@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T11:29:17.372572+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-08-11T13:01:59.313442+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "今日起，豆包推荐酒店将收取佣金：综合扣费12%！",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 11时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 13时01分]"
         },
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 11时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 13时01分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -38,11 +38,12 @@
           "ranks": [
             5,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 11时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 13时01分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -51,11 +52,12 @@
           "ranks": [
             21,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 11时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 13时01分]"
         },
         {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
@@ -87,11 +89,12 @@
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 13时01分]"
         },
         {
           "title": "千问开放AI眼镜生态 支持自建导游、教练、巡检等多种skill",
@@ -100,7 +103,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -149,8 +152,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 13时01分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 13时01分]"
         },
         {
           "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
@@ -189,16 +205,16 @@
           "time_info": "[09时07分 ~ 11时29分]"
         },
         {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            7
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时07分 ~ 11时29分]"
+          "time_info": "[11时29分 ~ 13时01分]"
         },
         {
           "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
@@ -223,6 +239,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 09时07分]"
+        },
+        {
+          "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
+          "url": "https://www.zhihu.com/question/2070274629227083477",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 13时01分]"
         },
         {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
@@ -255,7 +283,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -293,17 +321,6 @@
           "time_info": "05时34分"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
           "title": "大摩启动1.5万亿美元美国创新基础设施计划 聚焦AI等前沿技术",
           "url": "https://flash.jin10.com/detail/20260811044638936800",
           "source": "金十数据",
@@ -335,17 +352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
-        },
-        {
-          "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
-          "url": "https://www.zhihu.com/question/2070274629227083477",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：（谈5000亿美元AI基建融资计划）相关交易将支持人工智能的广泛应用。资金全部来自第三方资本。",
@@ -392,6 +398,17 @@
           "time_info": "05时34分"
         },
         {
+          "title": "澳洲联储：鉴于人工智能的繁荣和对海湾冲突的韧性，全球增长前景上调。",
+          "url": "https://flash.jin10.com/detail/20260811123351573800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "券商密集上调科技股评级，AI产业链最受青睐",
           "url": "https://wallstreetcn.com/livenews/3147716",
           "source": "华尔街见闻-快讯",
@@ -420,7 +437,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -620,6 +637,47 @@
       ]
     },
     {
+      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "小狗被医院宣布死亡后自己跑回家",
+          "url": "https://www.toutiao.com/trending/7672273576690827327/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 13时01分]"
+        },
+        {
+          "title": "小狗被医院宣布死亡后自己跑回家",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%A2%AB%E5%8C%BB%E9%99%A2%E5%AE%A3%E5%B8%83%E6%AD%BB%E4%BA%A1%E5%90%8E%E8%87%AA%E5%B7%B1%E8%B7%91%E5%9B%9E%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 13时01分]"
+        },
+        {
+          "title": "被宣告死亡小狗跨越十几公里寻主人",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%A3%E5%91%8A%E6%AD%BB%E4%BA%A1%E5%B0%8F%E7%8B%97%E8%B7%A8%E8%B6%8A%E5%8D%81%E5%87%A0%E5%85%AC%E9%87%8C%E5%AF%BB%E4%B8%BB%E4%BA%BA%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -645,34 +703,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小狗被医院宣布死亡后自己跑回家",
-          "url": "https://www.toutiao.com/trending/7672273576690827327/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "小狗被医院宣布死亡后自己跑回家",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E8%A2%AB%E5%8C%BB%E9%99%A2%E5%AE%A3%E5%B8%83%E6%AD%BB%E4%BA%A1%E5%90%8E%E8%87%AA%E5%B7%B1%E8%B7%91%E5%9B%9E%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
         }
       ]
     },
