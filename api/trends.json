@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T14:54:05.609663+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-08-11T16:07:51.213617+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "今日起，豆包推荐酒店将收取佣金：综合扣费12%！",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 14时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 16时07分]"
         },
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 14时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 16时07分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -61,6 +61,45 @@
           "time_info": "[00时46分 ~ 14时54分]"
         },
         {
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 16时07分]"
+        },
+        {
+          "title": "AI在黎曼猜想上做出了什么突破",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5,
+            12,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 16时07分]"
+        },
+        {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 16时07分]"
+        },
+        {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
           "url": "https://www.cls.cn/detail/2450137",
           "source": "财联社热门",
@@ -73,29 +112,18 @@
           "time_info": "[00时46分 ~ 07时28分]"
         },
         {
-          "title": "AI在黎曼猜想上做出了什么突破",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
           "ranks": [
-            1,
-            5,
-            12,
-            10
+            10,
+            7,
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 14时54分]"
-        },
-        {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 16时07分]"
         },
         {
           "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
@@ -111,30 +139,16 @@
           "time_info": "[00时46分 ~ 07时28分]"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时54分]"
-        },
-        {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7,
             9,
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时54分]"
+          "time_info": "[11时29分 ~ 16时07分]"
         },
         {
           "title": "理想第二代AI眼镜预计明年下半年上市",
@@ -143,9 +157,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
+          "url": "https://www.zhihu.com/question/2070274629227083477",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 16时07分]"
         },
         {
           "title": "千问开放AI眼镜生态 支持自建导游、教练、巡检等多种skill",
@@ -187,34 +214,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 14时54分]"
-        },
-        {
-          "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
-          "url": "https://www.zhihu.com/question/2070274629227083477",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 14时54分]"
         },
         {
           "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
@@ -241,6 +243,31 @@
           "time_info": "[04时35分 ~ 05时34分]"
         },
         {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 16时07分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 16时07分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：全新融资平台将英伟达计算和全栈人工智能基础设施转变为全球资本可投资的资产类别。",
           "url": "https://flash.jin10.com/detail/20260811040810116800",
           "source": "金十数据",
@@ -253,28 +280,28 @@
           "time_info": "[04时35分 ~ 05时34分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
           "source": "抖音",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 14时54分]"
-        },
-        {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
           "ranks": [
             10,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时56分 ~ 14时54分]"
+          "time_info": "[14时53分 ~ 16时07分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 16时07分]"
         },
         {
           "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
@@ -335,28 +362,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 09时07分]"
-        },
-        {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
         },
         {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
@@ -460,6 +465,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "英伟达：AI实验室与AI初创公司都需要计算。",
           "url": "https://wallstreetcn.com/livenews/3147696",
           "source": "华尔街见闻-快讯",
@@ -469,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "A股人形机器人概念股午后拉升，巨轮智能、北特科技直线涨停，斯菱智驱涨超17%，瑞迪智驱、禾川科技、安培龙、丰光精密等跟涨。",
@@ -499,7 +526,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -510,9 +537,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "推荐酒店收佣金,豆包转行当中介",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357131&amp;topic_name=%E6%8E%A8%E8%8D%90%E9%85%92%E5%BA%97%E6%94%B6%E4%BD%A3%E9%87%91%2C%E8%B1%86%E5%8C%85%E8%BD%AC%E8%A1%8C%E5%BD%93%E4%B8%AD%E4%BB%8B",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "ai漫剧顶流已经出了8季了",
@@ -570,6 +608,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "ai大制作短剧到底什么水平",
+          "url": "https://s.weibo.com/weibo?q=%23ai%E5%A4%A7%E5%88%B6%E4%BD%9C%E7%9F%AD%E5%89%A7%E5%88%B0%E5%BA%95%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "胡锡进警惕AI消灭行业剥夺饭碗",
           "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AD%A6%E6%83%95AI%E6%B6%88%E7%81%AD%E8%A1%8C%E4%B8%9A%E5%89%A5%E5%A4%BA%E9%A5%AD%E7%A2%97&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -592,6 +641,17 @@
           "time_info": "11时29分"
         },
         {
+          "title": "让7个AI陷入囚徒困境",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A97%E4%B8%AAAI%E9%99%B7%E5%85%A5%E5%9B%9A%E5%BE%92%E5%9B%B0%E5%A2%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "报道：英伟达与多家公司围绕5000亿美元AI融资协议合作",
           "url": "https://wallstreetcn.com/livenews/3147615",
           "source": "华尔街见闻-快讯",
@@ -601,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "Kimi K3深度测评",
+          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E6%B7%B1%E5%BA%A6%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         }
       ]
     },
@@ -777,11 +848,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%96%9B%E5%87%AF%E7%90%AA%E6%9D%A5B%E7%AB%99%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 16时07分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
@@ -805,6 +877,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "深度求索开设“DeepSeek Harness团队”公众号",
+          "url": "https://flash.jin10.com/detail/20260811154106380800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2067921583944085650",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         }
       ]
     },
@@ -877,23 +988,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2067921583944085650",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
         }
       ]
     }
