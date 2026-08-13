@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T12:05:15.625703+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-08-13T16:15:37.794725+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "中国人形机器人一骑绝尘",
@@ -30,18 +30,6 @@
           "time_info": "[00时50分 ~ 06时33分]"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 12时05分]"
-        },
-        {
           "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
           "url": "https://wallstreetcn.com/articles/3779299",
           "source": "华尔街见闻",
@@ -52,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时54分 ~ 12时05分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 16时15分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -67,6 +55,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 09时17分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 16时15分]"
         },
         {
           "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
@@ -92,8 +93,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 12时05分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 16时15分]"
         },
         {
           "title": "英伟达最新开源大模型上线",
@@ -103,11 +104,12 @@
             8,
             17,
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 12时05分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 16时15分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -120,6 +122,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时50分 ~ 05时38分]"
+        },
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "WorkBuddy 重磅升级：内置 AI 原生资料库，支持更原生HTML、Markdown文档",
+          "url": "https://wallstreetcn.com/livenews/3149019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "三角洲AI夏日晚会",
@@ -214,7 +238,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -230,13 +254,24 @@
           "time_info": "07时34分"
         },
         {
+          "title": "情侣懒得拍婚纱照交给豆包",
+          "url": "https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E6%87%92%E5%BE%97%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E4%BA%A4%E7%BB%99%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "第二届世界人形机器人运动会将举行51个项目1301场比赛",
           "url": "https://wallstreetcn.com/livenews/3148888",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -269,7 +304,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -313,15 +348,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "鹏鼎控股：AI服务器PCB上半年营收近10亿元 高速光模块PCB突破6亿元",
+          "url": "https://flash.jin10.com/detail/20260813154705393800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -371,6 +417,18 @@
           "time_info": "[00时50分 ~ 09时17分]"
         },
         {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 16时15分]"
+        },
+        {
           "title": "DeepSeek发布V4Pro正式版",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -385,27 +443,17 @@
           "time_info": "[01时54分 ~ 09时17分]"
         },
         {
-          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时05分]"
-        },
-        {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
           "url": "https://www.cls.cn/detail/2452920",
           "source": "财联社热门",
           "ranks": [
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 16时15分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
@@ -413,11 +461,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 16时15分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -505,6 +554,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时34分 ~ 09时17分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "快把真正的DeepSeek V4 Pro还给我",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "腾讯CodeBuddy支持DeepSeek-V4-Pro正式版",
+          "url": "https://wallstreetcn.com/livenews/3148992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
@@ -512,6 +594,19 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 8,
       "titles": [
+        {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 16时15分]"
+        },
         {
           "title": "消息人士：谷歌重组部门全力发展Gemini",
           "url": "https://flash.jin10.com/detail/20260813021710644800",
@@ -533,18 +628,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 12时05分]"
         },
         {
           "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
@@ -610,7 +693,7 @@
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "文学行馕、天鹅浮空商店……上海书展爆款文创为何出圈？",
@@ -625,8 +708,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 12时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 16时15分]"
         },
         {
           "title": "媒体：炒作“雅典娜遇害”的人真在意她生死吗？网络不是无底线流量场",
@@ -648,11 +731,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 12时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 16时15分]"
         },
         {
           "title": "杰伦格林抖音海选球迷太夯了",
@@ -678,12 +762,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 12时05分]"
+        },
+        {
+          "title": "小象超市文案部来高人了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%B1%A1%E8%B6%85%E5%B8%82%E6%96%87%E6%A1%88%E9%83%A8%E6%9D%A5%E9%AB%98%E4%BA%BA%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "董卿 抖音评论被造谣",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E5%8D%BF%20%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E8%A2%AB%E9%80%A0%E8%B0%A3&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "顾客餐盘喂狗,店家倒大霉",
@@ -691,11 +797,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 12时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 16时15分]"
         },
         {
           "title": "顾客用餐盘喂狗餐厅致歉 到底是谁错",
@@ -729,13 +836,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时16分 ~ 09时17分]"
+        },
+        {
+          "title": "台湾新款机器狗被踹倒要7秒起身被嘲",
+          "url": "https://www.toutiao.com/trending/7673052724426506303/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
     {
       "keyword_group": "副业 兼职 远程办公 自由职业 数字游民 知识付费 私域流量 变现 被动收入 网赚 电商创业 小红书赚钱 抖音带货 直播带货 无货源电商 闲鱼",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "学生兼职送外卖一个月倒欠公司200多",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C%E9%80%81%E5%A4%96%E5%8D%96%E4%B8%80%E4%B8%AA%E6%9C%88%E5%80%92%E6%AC%A0%E5%85%AC%E5%8F%B8200%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "学生兼职送外卖一个月倒欠公司200多",
+          "url": "https://www.toutiao.com/trending/7673329254230163499/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
         {
           "title": "伊朗波斯湾海峡管理局：美国官员声称并多次发布消息称霍尔木兹海峡已不再受阻，但这些说法并不能改变现实：霍尔木兹海峡仍处于封锁状态，除非伊朗提出的条件得到接受，否则该海峡不会重新开放。",
           "url": "https://flash.jin10.com/detail/20260813030442991800",
