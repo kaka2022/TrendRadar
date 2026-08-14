@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T17:02:57.768133+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-08-14T18:52:21.596284+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -15,11 +15,26 @@
             4,
             6,
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 17时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 18时52分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            13,
+            11,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 18时52分]"
         },
         {
           "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
@@ -42,19 +57,6 @@
             9,
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 17时02分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            13,
-            11,
-            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -119,6 +121,20 @@
           "time_info": "[00时48分 ~ 15时13分]"
         },
         {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时00分 ~ 18时52分]"
+        },
+        {
           "title": "用豆包给各地特产拍大片",
           "url": "https://www.douyin.com/hot/2608658",
           "source": "抖音",
@@ -135,17 +151,15 @@
           "time_info": "[05时38分 ~ 15时13分]"
         },
         {
-          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
-          "url": "https://www.zhihu.com/question/2068993919958742400",
-          "source": "知乎",
+          "title": "中国AI把价格打下来，美国巨头一口气降80%",
+          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            5,
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时00分 ~ 17时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "AMD完成历史最大债券发行！47.5亿美元融资瞄准AI基础设施扩张",
@@ -157,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "让豆包把所有前任的脸融一起了",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9%E8%B1%86%E5%8C%85%E6%8A%8A%E6%89%80%E6%9C%89%E5%89%8D%E4%BB%BB%E7%9A%84%E8%84%B8%E8%9E%8D%E4%B8%80%E8%B5%B7%E4%BA%86&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -180,6 +205,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时00分 ~ 15时13分]"
+        },
+        {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时52分]"
+        },
+        {
+          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
+          "url": "https://www.cls.cn/detail/2454270",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时52分]"
         },
         {
           "title": "AI交易降温后银行股受益 华尔街押注金融板块延续上涨",
@@ -226,35 +274,13 @@
           "time_info": "00时48分"
         },
         {
-          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
-          "url": "https://www.cls.cn/detail/2454270",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
           "title": "受助AI相关电子产品需求旺盛 中国香港上修今年GDP增长预测",
           "url": "https://flash.jin10.com/detail/20260814164729988800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
-          "url": "https://www.zhihu.com/question/2071486982732223991",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -268,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "高盛经济学家：印度不太可能因AI出现大规模失业",
@@ -287,7 +324,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -455,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "AI如何改变灾害管理：兰德智库报告称已有超1100种工具，但真正落地仍面临挑战",
+          "url": "https://flash.jin10.com/detail/20260814175301353800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     },
@@ -468,11 +516,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 17时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 18时52分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -484,8 +533,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 17时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 18时52分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -523,8 +572,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 17时02分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 18时52分]"
         },
         {
           "title": "DeepSeek发布调价公告",
@@ -539,6 +588,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时48分 ~ 15时13分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时00分 ~ 18时52分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -565,19 +627,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 07时34分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时00分 ~ 17时02分]"
         },
         {
           "title": "DeepSeek Harness是什么",
@@ -666,6 +715,17 @@
           "time_info": "[09时16分 ~ 12时01分]"
         },
         {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时52分]"
+        },
+        {
           "title": "如何看待 Deepseek Harness 发布？",
           "url": "https://www.zhihu.com/question/2071331484284220938",
           "source": "知乎",
@@ -698,17 +758,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        },
-        {
-          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
-          "url": "https://www.zhihu.com/question/2071375581464343126",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -780,7 +829,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
@@ -792,6 +841,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "OpenAI在不到一年内任命新首席营收官",
@@ -847,6 +907,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "OpenAI首席营收官任职不到一年离职",
+          "url": "https://wallstreetcn.com/livenews/3149682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "OpenAI在不到一年内任命新首席营收官。",
@@ -942,8 +1013,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 17时02分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 18时52分]"
         },
         {
           "title": "CORTIS抖音粉丝破500万",
@@ -954,8 +1025,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时00分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[12时00分 ~ 18时52分]"
         },
         {
           "title": "林厨 下饭酱挂直播间卖",
