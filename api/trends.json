@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T12:01:59.925447+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-08-14T13:39:48.971422+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 12时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 13时39分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 12时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 12时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -67,8 +67,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 12时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -78,11 +78,12 @@
             23,
             17,
             16,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 12时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -91,22 +92,12 @@
           "ranks": [
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 12时01分]"
-        },
-        {
-          "title": "AMD完成历史最大债券发行！47.5亿美元融资瞄准AI基础设施扩张",
-          "url": "https://flash.jin10.com/detail/20260814114429385800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "用豆包给各地特产拍大片",
@@ -116,11 +107,47 @@
             21,
             29,
             23,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时38分 ~ 12时01分]"
+          "appearance_count": 6,
+          "time_info": "[05时38分 ~ 13时39分]"
+        },
+        {
+          "title": "AMD完成历史最大债券发行！47.5亿美元融资瞄准AI基础设施扩张",
+          "url": "https://flash.jin10.com/detail/20260814114429385800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "8月14日投资避雷针：5连板人气股澄清 主营业务不涉及人形机器人及零配件的生产制造",
+          "url": "https://www.cls.cn/detail/2454041",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 13时39分]"
+        },
+        {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 13时39分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -133,28 +160,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时48分 ~ 09时16分]"
-        },
-        {
-          "title": "8月14日投资避雷针：5连板人气股澄清 主营业务不涉及人形机器人及零配件的生产制造",
-          "url": "https://www.cls.cn/detail/2454041",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
-          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
-          "url": "https://www.zhihu.com/question/2068993919958742400",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
         },
         {
           "title": "AI交易降温后银行股受益 华尔街押注金融板块延续上涨",
@@ -223,6 +228,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3149477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "位列全球第二，国内高校团队AI安全攻防测评获佳绩",
           "url": "https://wallstreetcn.com/livenews/3149243",
           "source": "华尔街见闻-快讯",
@@ -245,13 +261,24 @@
           "time_info": "09时16分"
         },
         {
+          "title": "据悉苹果告别纯“借力” 携手阿里训练中国市场专属大模型",
+          "url": "https://flash.jin10.com/detail/20260814124207765800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "LG与英伟达签署关于机器人、AI工厂和行动技术的备忘录。",
           "url": "https://wallstreetcn.com/livenews/3149425",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -295,7 +322,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -306,7 +333,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         }
@@ -314,7 +341,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -325,8 +352,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 12时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 13时39分]"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -337,19 +377,6 @@
             2,
             1,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 12时01分]"
-        },
-        {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            5
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -393,6 +420,30 @@
           "time_info": "[00时48分 ~ 09时16分]"
         },
         {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 13时39分]"
+        },
+        {
+          "title": "DeepSeek Harness是什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
           "url": "https://www.toutiao.com/trending/7673637537293798953/",
           "source": "今日头条",
@@ -419,18 +470,6 @@
           "time_info": "[00时48分 ~ 09时16分]"
         },
         {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 12时01分]"
-        },
-        {
           "title": "DeepSeek API确认涨价",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
@@ -441,6 +480,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 05时38分]"
+        },
+        {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 13时39分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -455,16 +506,16 @@
           "time_info": "[00时48分 ~ 07时34分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时01分]"
+          "time_info": "[12时00分 ~ 13时39分]"
         },
         {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
@@ -477,17 +528,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 12时01分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -513,6 +553,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
           "url": "https://www.zhihu.com/question/2071348486667237276",
           "source": "知乎",
@@ -535,6 +586,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "金山办公“灵犀”接入DeepSeek-V4-Pro正式版，已向用户开放",
+          "url": "https://wallstreetcn.com/livenews/3149467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "DeepSeek官网撤公告疑似回滚",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%98%E7%BD%91%E6%92%A4%E5%85%AC%E5%91%8A%E7%96%91%E4%BC%BC%E5%9B%9E%E6%BB%9A&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -544,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "梁文锋打新宇树科技",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         }
       ]
     },
@@ -632,7 +705,7 @@
     },
     {
       "keyword_group": "狗狗 狗 犬 养狗 遛狗 狗粮推荐 狗品种 金毛 柯基 泰迪 比熊 边牧 拉布拉多 哈士奇 柴犬 狗训练 狗行为 狗健康 狗疫苗 狗驱虫 宠物店 宠物医院 宠物展 流浪狗 导盲犬",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "顾客餐盘喂狗,店家倒大霉",
@@ -641,11 +714,12 @@
           "ranks": [
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 12时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "小狗交朋友不分物种",
@@ -669,12 +743,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "家里发大水了柴犬处理不好",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E5%8F%91%E5%A4%A7%E6%B0%B4%E4%BA%86%E6%9F%B4%E7%8A%AC%E5%A4%84%E7%90%86%E4%B8%8D%E5%A5%BD%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         }
       ]
     },
     {
       "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
@@ -682,11 +767,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 13时39分]"
         },
         {
           "title": "CORTIS抖音粉丝破500万",
@@ -696,8 +782,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 13时39分]"
         },
         {
           "title": "林厨 下饭酱挂直播间卖",
@@ -710,6 +796,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 07时34分]"
+        },
+        {
+          "title": "魏子宸涨粉",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%AD%90%E5%AE%B8%E6%B6%A8%E7%B2%89%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         }
       ]
     },
