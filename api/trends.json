@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T14:27:39.108325+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-08-16T18:17:00.507566+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 Sora Kimi 豆包 通义千问 文心一言 Claude Midjourney Stable Diffusion AI绘画 AI写作 AI编程 AGI 具身智能 人形机器人 智能体 Agent",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 18时16分]"
         },
         {
           "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
@@ -28,11 +28,12 @@
             9,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 18时17分]"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -44,6 +45,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
+          "url": "https://wallstreetcn.com/livenews/3150051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "中国医生用AI解决数学圈22年难题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时18分 ~ 18时17分]"
         },
         {
           "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
@@ -58,6 +82,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时14分 ~ 14时27分]"
+        },
+        {
+          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
+          "url": "https://wallstreetcn.com/articles/3779518",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 18时17分]"
         },
         {
           "title": "“AI版金融创新”：英伟达的“5000亿美元大算盘”",
@@ -148,6 +185,30 @@
           "time_info": "[07时14分 ~ 14时27分]"
         },
         {
+          "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
+          "url": "https://www.zhihu.com/question/2071916942760342436",
+          "source": "知乎",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 18时17分]"
+        },
+        {
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 18时17分]"
+        },
+        {
           "title": "大爷手搓AI长片赛博英雄传",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
           "source": "bilibili 热搜",
@@ -174,6 +235,18 @@
           "time_info": "[07时14分 ~ 10时18分]"
         },
         {
+          "title": "王祖贤：我们是用AI不是被AI用",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E7%94%A8AI%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 18时17分]"
+        },
+        {
           "title": "我和闺蜜联手掀翻AI穿书剧本",
           "url": "https://www.douyin.com/hot/2610954",
           "source": "抖音",
@@ -197,6 +270,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时14分 ~ 10时18分]"
+        },
+        {
+          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
+          "url": "https://www.cls.cn/detail/2455252",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
           "title": "机构：AI“芯片通胀”正冲击英国经济",
@@ -235,44 +319,11 @@
           "time_info": "[07时14分 ~ 08时51分]"
         },
         {
-          "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
-          "url": "https://www.zhihu.com/question/2071916942760342436",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
-          "url": "https://wallstreetcn.com/articles/3779518",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
           "title": "爆仓前最后一个月，“AI股神”加仓美光、闪迪",
           "url": "https://wallstreetcn.com/articles/3779501",
           "source": "华尔街见闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "中国医生用AI解决数学圈22年难题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -285,18 +336,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -310,17 +350,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
-        },
-        {
-          "title": "王祖贤：我们是用AI不是被AI用",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E7%94%A8AI%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
         },
         {
           "title": "莫言谈AI写作：只是拼凑旧作然后搅拌",
@@ -349,8 +378,21 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 18时17分]"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时14分 ~ 14时27分]"
+          "time_info": "[10时18分 ~ 18时17分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -365,16 +407,17 @@
           "time_info": "[10时18分 ~ 14时27分]"
         },
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            4
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时18分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 18时17分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -389,17 +432,6 @@
           "time_info": "[07时14分 ~ 08时51分]"
         },
         {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
           "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
           "url": "https://flash.jin10.com/detail/20260816031526828800",
           "source": "金十数据",
@@ -409,6 +441,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "阿云嘎 这是直播该有的实力吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E4%BA%91%E5%98%8E%20%20%E8%BF%99%E6%98%AF%E7%9B%B4%E6%92%AD%E8%AF%A5%E6%9C%89%E7%9A%84%E5%AE%9E%E5%8A%9B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 18时17分]"
+        },
+        {
+          "title": "童年动画三巨头集体在抖音写信",
+          "url": "https://www.douyin.com/hot/2610466",
+          "source": "抖音",
+          "ranks": [
+            19,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 10时18分]"
+        },
+        {
+          "title": "手瓦的世界直播夜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%89%8B%E7%93%A6%E7%9A%84%E4%B8%96%E7%95%8C%E7%9B%B4%E6%92%AD%E5%A4%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
+          "title": "沪上阿姨 蹭流量",
+          "url": "https://s.weibo.com/weibo?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E8%B9%AD%E6%B5%81%E9%87%8F&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "牛津心理专家墨菲教授来B站了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%9B%E6%B4%A5%E5%BF%83%E7%90%86%E4%B8%93%E5%AE%B6%E5%A2%A8%E8%8F%B2%E6%95%99%E6%8E%88%E6%9D%A5B%E7%AB%99%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     },
@@ -443,11 +540,12 @@
           "url": "https://wallstreetcn.com/livenews/3150028",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 18时17分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -463,72 +561,44 @@
       ]
     },
     {
-      "keyword_group": "自媒体 小红书 抖音 快手 视频号 公众号 知乎 B站 内容创作 短视频 直播 流量 涨粉 爆款 选题 文案",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
         {
-          "title": "童年动画三巨头集体在抖音写信",
-          "url": "https://www.douyin.com/hot/2610466",
-          "source": "抖音",
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 10时18分]"
-        },
-        {
-          "title": "阿云嘎 这是直播该有的实力吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E4%BA%91%E5%98%8E%20%20%E8%BF%99%E6%98%AF%E7%9B%B4%E6%92%AD%E8%AF%A5%E6%9C%89%E7%9A%84%E5%AE%9E%E5%8A%9B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            14
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时51分 ~ 14时27分]"
+          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
-          "title": "沪上阿姨 蹭流量",
-          "url": "https://s.weibo.com/weibo?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E8%B9%AD%E6%B5%81%E9%87%8F&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时18分"
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
         },
-        {
-          "title": "牛津心理专家墨菲教授来B站了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%9B%E6%B4%A5%E5%BF%83%E7%90%86%E4%B8%93%E5%AE%B6%E5%A2%A8%E8%8F%B2%E6%95%99%E6%8E%88%E6%9D%A5B%E7%AB%99%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
           "url": "https://wallstreetcn.com/livenews/3150029",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 18时17分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -537,7 +607,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         }
